@@ -24,7 +24,6 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `04-bonsai/` | His rainbow dwarf jade bonsai and its care rules (Midori) |
 | `05-learning-certs/` | NSCA CSCS recertification, courses, engineering and local AI learning |
 | `06-family/` | Empty placeholder. Ryne fills it himself if he wants |
-| `07-investments/` | Empty placeholder. **Bots never add anything here** (finances are excluded) |
 | `08-bot-fleet/` | Every bot, its job, standing routines, fleet rules, pending fleet items |
 | `bots/<name>/` | 29 fleet and personal bots: `INSTRUCTIONS.md` plus memory, reference and routine files (secrets removed). Includes chief, penny, scout, token-officer, dr-eggbot, the advisor personas, the rooms (administrative, advisors, promote, newsletter), and retired bots kept for history (ai-expert, bolt, bottleneck, cipher, warden) |
 | `skills/<slug>/SKILL.md` | 23 fleet skills (index in README.md) |
@@ -48,7 +47,7 @@ Achieve and IronBlueprint bots live in those repos, not here.
 
 ## Rules (short form; full list in AGENTS.md)
 1. **No secrets.** Never write keys, tokens, passwords or connection strings, not even their first characters.
-2. **Finances excluded** (Ryne, 2026-10-17). `07-investments/` stays empty unless Ryne fills it himself.
+2. **Finances excluded** (Ryne, 2026-10-17). There is no investments folder. Bots never add financial details.
 3. **Privacy.** No health or family details unless Ryne adds or approves them himself. Never copy personal facts into the business repos.
 4. **Drafts before sending.** Never send email, texts, Quo/Numa, Slack or posts unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval.
 5. **Relay rule.** When Ryne asks bot A to check with bot B, bot B answers only bot A, and only bot A reports back.

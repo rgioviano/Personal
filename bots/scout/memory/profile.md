@@ -7,11 +7,11 @@
 - (2026-08-20) When researching anything science-related, always prioritize scholarly research articles over random websites.
 - (2026-08-20) Match research depth to the ask: quick if Ryne says quick, deep if he says deep.
 - (2026-08-21) The user's name is Ryne Gioviano.
-- (2026-08-21) Ryne owns Achieve Sports Performance (ryne@achievesportsperformance.com) and IronBlueprint (ryne@ironblueprint.app); personal email is rgioviano@gmail.com.
+- (2026-08-21) Ryne owns Achieve Sports Performance and IronBlueprint. Account addresses are not stored in this repo.
 - (2026-08-21) Ryne works with Google every day.
 - (2026-08-22) Achieve Sports Performance is in Aurora, outside Fox Valley Mall (Fox Valley area).
 - (2026-08-25) Ryne has a wife.
-- (2026-08-25) IronBlueprint also uses ryne@iron-blueprint.com.
+- (2026-08-25) IronBlueprint also uses a second email address. The address is not stored in this repo.
 - (2026-08-25) Ryne is looking at Cody, WY houses under $700k (bumped from $600k) that must have a mountain view and few neighbors.
 - (2026-08-25) Ryne wants Cody-area houses under $700k with a mountain view, few neighbors, air conditioning, and at least two bathrooms.
 - (2026-08-26) Ryne is learning to code using AI and is not technical; he primarily uses Grok and can also run local LLMs on his DGX Spark.

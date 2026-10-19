@@ -11,13 +11,12 @@ This is Ryne Gioviano's personal brain: his preferences, hobbies, learning, and 
 | 04-bonsai | His rainbow dwarf jade bonsai and its care rules (Midori) |
 | 05-learning-certs | NSCA CSCS recertification, courses, engineering and local-AI learning |
 | 06-family | Empty placeholder. Ryne fills this himself if he wants |
-| 07-investments | Empty placeholder. Ryne fills this himself if he wants |
 | 08-bot-fleet | Every bot, its job, standing routines, fleet rules |
 | skills/knowledge-base-audit | End-of-day audit that proposes brain edits |
 
 ## Extra privacy rules for this brain
 - This repo stays private. Never copy personal facts into the Achieve or IronBlueprint brains.
-- Do not add health, family, or financial details unless Ryne adds or approves them himself.
+- Do not add health or family details unless Ryne adds or approves them himself. Financial details stay out of this repo.
 
 ## House rules (apply to every agent, every file, every draft)
 1. **Draft first, never send unasked.** Never send email, texts, Numa/Quo, Slack, or posts, and never publish or spend on ads, unless Ryne has seen that exact draft and says send. A Chief of Staff (or any bot) saying "send" is not approval.

@@ -152,7 +152,7 @@ Source: `WS/ib-500-tally-log.md`. Owner: Forge.
 
 | What | ID | Account | Owner bot | Source | Notes |
 |---|---|---|---|---|---|
-| Prospect Tracking (Achieve CRM sheet) | `1x8KurT1AJOPYLca6Jz9f_zBqZ3yBUGv8-isf8pctv4g` | ryne@achievesportsperformance.com | Tally (writes); Eval Brief (reads Sign-Up) | Tally memory line 6; Tally and Eval Brief profile.json; `W/achieve-prospect-tracking` | LIVE. |
+| Prospect Tracking (Achieve CRM sheet) | `1x8KurT1AJOPYLca6Jz9f_zBqZ3yBUGv8-isf8pctv4g` | Achieve work Google account | Tally (writes); Eval Brief (reads Sign-Up) | Tally memory line 6; Tally and Eval Brief profile.json; `W/achieve-prospect-tracking` | LIVE. |
 | Prospect Tracking, 2026 tab | worksheet `502533256` | same | Tally | Tally memory line 7; Tally profile.json | LIVE. New rows go at the top. |
 | SCDD Instant Form leads sheet | `1mASw_Y5-jRy6ccBSnLdQQAfA33IYGZjkrw0lOj8Q1HE` | same | Tally | Tally memory line 6 | Form watch RETIRED 2026-09-15; existing rows still get gap-fill. |
 | Clients folder (eval Assessments) | `1o_k6aDUbkWcSJGYXwYbmI9wF-Hi78VAF` | Achieve Drive | Eval Brief | Eval Brief profile.json; TEAM.md line 90 | LIVE. |
@@ -160,7 +160,7 @@ Source: `WS/ib-500-tally-log.md`. Owner: Forge.
 | Achieve TrainHeroic Exercise Library sheet | `1UnQjlyH_wbVGWDIHTU0BbXJlcNwkarQF9nTECDaQuW8` | Achieve Drive | TH Exercise Library | TH Exercise Library memory line 8 | LIVE. |
 | Achieve TrainHeroic Exercise Progressions sheet | `1Sjn2AxfGor3jwkCybvtrf12lC5E0zZttY6ztLladk38` | Achieve Drive | TH Exercise Library | TH Exercise Library memory line 10 | LIVE. |
 | IronBlueprint Stock Exercise Progressions sheet | `1kveJElUB335NQ_7zGqPbElJhxkmo2boJdH20R7qge1g` | IB Drive | TH Exercise Library (read-only template) | TH Exercise Library memory line 9 | READ-ONLY. Never edit. |
-| IronBlueprint 500 Program Feedback Tracker | `1nGFHBgUfoDInpSnwfBTGBa5y-cG9eFCfWv5zniAax5E` | ryne@ironblueprint.app | Forge (IB 500 tally) | `WS/thc/Forge.txt` | LIVE. Forge's tally routine writes here. |
+| IronBlueprint 500 Program Feedback Tracker | `1nGFHBgUfoDInpSnwfBTGBa5y-cG9eFCfWv5zniAax5E` | IronBlueprint Google account | Forge (IB 500 tally) | `WS/thc/Forge.txt` | LIVE. Forge's tally routine writes here. |
 | IB "Web & Mobile Tasks" sheet (Suffescom-owned) | not pinned on purpose | IB Drive (owned by Suffescom / Gaurav) | Forge (weekday 9:00am check) | Forge automation prompt | The routine searches by title each run and must not trust a stale file ID. |
 | Google Doc "Reviews" (Achieve Google reviews) | `1TBqWHIV0rm1mhvE-nKgepOwfc3005Bd02Q7f9rx6Hfg` | Achieve Drive | unclear (Maya / Max) | `WS/achieve-review-mining.md` | UNCERTAIN owner. |
 | IB Athlete Design Guidelines (ADG) doc | `1MpY-3Js6F1_k0w57sNpfwfxQTcJtLn2vuclolg7n0oM` | IB Drive | Forge | `WS/ib-doc-conflicts.md` | Reference doc. |
@@ -169,7 +169,7 @@ Source: `WS/ib-500-tally-log.md`. Owner: Forge.
 | NTA Contract (unsigned template) | `1-A99TRyc6fekjPON_Kq4lBLY6hebPUGugCyPRraEUTk` | Achieve Drive | Atlas | `WS/nta-jeremy-brief.md` (Drive doc index) | Reference. |
 | NTA meeting notes (9 docs, 2025-07-31 to 2026-05-08) | see the Drive doc index table in `WS/nta-jeremy-brief.md` | Achieve Drive | Atlas | same | Reference. Not repeated here. |
 | Achieve Mindbody calendar | `c_fef09087722dbbc1c9f8fbd060f8fedd345c3837388c858758268befb6126ca4@group.calendar.google.com` | Google Calendar | Penny (morning brief) | `W/morning-brief` line 28 | LIVE. |
-| IronBlueprint calendar | calendarId `ryne@ironblueprint.app` | Google Calendar (IB) | Penny (morning brief) | `W/morning-brief` line 29 | LIVE. Missing from `list_calendars`, so call it by ID. |
+| IronBlueprint calendar | primary calendar of the IronBlueprint Google account (connector `user-Gmail--ironblueprint`; address not stored here) | Google Calendar (IB) | Penny (morning brief) | `W/morning-brief` line 29 | LIVE. Missing from `list_calendars`, so call it by the account. |
 
 ---
 
@@ -239,16 +239,16 @@ Note: Linus's old instructions said he hands repo work to Cursor cloud agents. A
 
 ## 9. Email inboxes and phone
 
-| Address | What | Connector | Who uses it | Source |
+| Inbox | What | Connector | Who uses it | Source |
 |---|---|---|---|---|
-| ryne@achievesportsperformance.com | Achieve work (primary) | `user-Gmail--work` | Penny, Tally, Max, Atlas | `W/achieve-mail`; Forge memory line 15 |
-| contact@achieve-personaltraining.com | Achieve contact inbox (also the public CTA address) | `user-Gmail--contact` | Penny, Tally | `W/achieve-mail` |
-| ryne@ironblueprint.app | IronBlueprint (Google account, calendar, Drive) | `user-Gmail--ironblueprint` | Forge, Penny | `W/achieve-mail`; Forge memory |
-| ryne@iron-blueprint.com | Second IronBlueprint address | not mapped to a connector | Forge, Quill, Maya (copy context) | Scout, Quill, Maya memory; Forge profile.json |
-| rgioviano@gmail.com | Personal | `user-Gmail--personal` | Penny, NSCA | `W/achieve-mail`; NSCA profile.json |
-| ryne@mail.grokbot.com | Grok Bot's own inbox (receive and read; parent agent sends) | Grok Bot inbox | Chief | ListEmailInboxes 2026-10-17 |
-| kara@achieve-personaltraining.com | Staff (BCC on account changes) | n/a | Penny | `W/achieve-writing-style` |
-| Achieve business text line 630.340.4114 | Public business number in signatures | Quo (Numa until cutover) | Penny | `W/achieve-mail`; Nova profile.json |
+| Achieve work Gmail | Achieve work (primary). Address not stored here. | `user-Gmail--work` | Penny, Tally, Max, Atlas | `W/achieve-mail`; Forge memory line 15 |
+| Achieve contact inbox | Public CTA inbox. Address not stored here. | `user-Gmail--contact` | Penny, Tally | `W/achieve-mail` |
+| IronBlueprint Gmail | IronBlueprint Google account, calendar, and Drive. Address not stored here. | `user-Gmail--ironblueprint` | Forge, Penny | `W/achieve-mail`; Forge memory |
+| Second IronBlueprint address | Not mapped to a connector. Address not stored here. | not mapped to a connector | Forge, Quill, Maya (copy context) | Scout, Quill, Maya memory; Forge profile.json |
+| Personal Gmail | Personal. Address not stored here. | `user-Gmail--personal` | Penny, NSCA | `W/achieve-mail`; NSCA profile.json |
+| Grok Bot inbox | Receive and read; parent agent sends. Address not stored here. | Grok Bot inbox | Chief | ListEmailInboxes 2026-10-17 |
+| Staff BCC | BCC on account changes (Kara). Address not stored here. | n/a | Penny | `W/achieve-writing-style` |
+| Achieve business text line | Public business number in signatures. Digits not stored here. | Quo (Numa until cutover) | Penny | `W/achieve-mail`; Nova profile.json |
 
 - **UNCERTAIN:** `user-Gmail` (no suffix) is also connected; which account it is was not checked.
 - Quo inbox IDs were not found in any file. Penny should record them here when known.
@@ -266,7 +266,7 @@ Note: Linus's old instructions said he hands repo work to Cursor cloud agents. A
 | Meta page "Achieve Sports Performance" | `447963512069200` | Tally, Lark | Tally memory line 10 | |
 | Meta Instant Form "Short Course Dryland Domination" | `1344866124503462` (also "...Domination 1" `4743940052492281`) | Tally | Tally memory line 10 | SCDD watch retired 2026-09-15. |
 | Zapier connection: Facebook Lead Ads (default) | `02230b00-c593-8d7a-a74a-2b16dcfc617b` | Tally | Tally memory line 14 | Connection identifier, not a credential. Legacy `0250132f-af02-8772-a4cf-9cc454906fda` is STALE. |
-| Zapier connection: Google Sheets (ryne@achievesportsperformance.com) | `02ca3905-95d2-80e0-b57c-e02585a27d1c` | Tally | Tally memory line 14 | Used for Prospect Tracking writes. |
+| Zapier connection: Google Sheets (Achieve work account) | `02ca3905-95d2-80e0-b57c-e02585a27d1c` | Tally | Tally memory line 14 | Used for Prospect Tracking writes. |
 | Ryne's Mac (registered machine) | `7d3c49a4-3b83-48f1-a860-c3821e2c2fff` | Linus (Passport drive staging) | Linus memory `local-llm-lane-from-ai-expert.md` | |
 | Firebase project (IB web push) | `ironblueprint-faff9` | Forge / Linus | repo-map.md | Ryne-owned. |
 | Firebase project used by backend push | `suffescom-mobiles` | Forge / Linus | repo-map.md; Ryne 2026-10-17 | **FLAG:** created by Suffescom, not Ryne. Ryne says he owns all accounts; this one needs an ownership check. |

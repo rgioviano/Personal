@@ -8,7 +8,6 @@ Ryne Gioviano's personal brain. Start with **AGENTS.md**.
 - 04-bonsai/bonsai.md
 - 05-learning-certs/learning.md
 - 06-family/README.md (empty placeholder)
-- 07-investments/README.md (empty placeholder)
 - 08-bot-fleet/fleet.md
 - skills/knowledge-base-audit/SKILL.md
 

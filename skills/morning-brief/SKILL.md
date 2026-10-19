@@ -26,7 +26,7 @@ Skip empty headings. Never also post status in the PA 1:1.
 ## Calendar
 
 1. Pull Personal, Work, Achieve Mindbody (`c_fef09087722dbbc1c9f8fbd060f8fedd345c3837388c858758268befb6126ca4@group.calendar.google.com`), Exercise, High School, Events as needed.
-2. Always include IronBlueprint via `list_events` with `calendarId` `ryne@ironblueprint.app` (missing from `list_calendars`). If free/busy only, mark **UNVERIFIED**; never invent attendees or titles.
+2. Always include IronBlueprint via `list_events` on the primary calendar of the IronBlueprint Google account (connector `user-Gmail--ironblueprint`; the address is not stored here). It is missing from `list_calendars`. If free/busy only, mark **UNVERIFIED**; never invent attendees or titles.
 3. **No Asana.** Basecamp only if overdue/actionable (account `6223040`); skip if empty.
 4. Same-day MindBody waitlists vs openings. Never book/cancel unless Ryne names the person and says to.
 5. Do not create or edit IB / Build holds.

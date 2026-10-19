@@ -2,10 +2,15 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-10-19
+- Removed the empty `07-investments/` placeholder. Finances stay out of this repo.
+- Removed payment receipts, invoice and order numbers, and dollar amounts from `bots/nsca/INSTRUCTIONS.md`.
+- Removed client, staff, vendor, and account email addresses, and phone numbers, from the tree. Google Calendar resource IDs stay.
+
 ## 2026-10-17
 - Repo `rgioviano/Personal` created by Ryne (private, personal account). First content opened as PR #1 from branch `brain-v1`. Not merged.
 - Scope set to "everything included" (Ryne): all fleet skills and every non-Achieve, non-IronBlueprint bot's instructions, memory, reference and routine files. Secret values are always redacted.
-- Finances left out entirely. `07-investments/` stays an empty placeholder that bots never fill.
+- Finances left out entirely. An empty `07-investments/` placeholder was added on this date and removed on 2026-10-19.
 - `bots/` and `skills/` added: 29 bot folders (including rooms and retired bots kept for history) and 23 skills.
 - Ryne's gap answers recorded: CSCS first certified 2024 (Ryne believes about 6 CEUs); NSCA's records say pre-2024. Waiting on Ryne for the original date.
 - Fleet consolidation (Ryne approved): Herald, Bolt, Warden, Cipher and Bottleneck retired; AI Expert and Lingxi folded into Linus. Programming room stays active (Ryne, overriding the archive plan).
