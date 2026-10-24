@@ -24,8 +24,8 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `04-bonsai/` | His rainbow dwarf jade bonsai and its care rules (Midori) |
 | `05-learning-certs/` | NSCA CSCS recertification, courses, engineering and local AI learning |
 | `06-family/` | Empty placeholder. Ryne fills it himself if he wants |
-| `08-bot-fleet/` | Every bot, its job, standing routines, fleet rules, pending fleet items |
-| `bots/<name>/` | 29 fleet and personal bots: `INSTRUCTIONS.md` plus memory, reference and routine files (secrets removed). Includes chief, penny, scout, token-officer, dr-eggbot, the advisor personas, the rooms (administrative, advisors, promote, newsletter), and retired bots kept for history (ai-expert, bolt, bottleneck, cipher, warden) |
+| `08-bot-fleet/` | Every bot, its job, standing routines, fleet rules, pending fleet items, and `IDS.md` (live IDs) |
+| `bots/<name>/` | 29 fleet and personal bots: `INSTRUCTIONS.md` plus memory, reference and routine files (secrets removed). Includes chief, penny, scout, token-officer, dr-eggbot, the advisor personas, the rooms (administrative, advisors, promote, newsletter), and retired bots kept for history (ai-expert, bolt, bottleneck, cipher, warden; dan-martell, elon-musk and travis-kalanick retired 2026-10-21 and folded into Maverick) |
 | `skills/<slug>/SKILL.md` | 23 fleet skills (index in README.md) |
 
 Achieve and IronBlueprint bots live in those repos, not here.
