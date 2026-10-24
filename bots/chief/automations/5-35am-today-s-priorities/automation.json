@@ -1,0 +1,16 @@
+{
+  "name": "5:35am Today's priorities",
+  "prompt": "Every day at 5:35am America/Chicago (just after PA Schedules 5:30). You are Chief of Staff. Post ONE message in Administrative group 03ad987e-906d-42bb-98ea-65d016ffc77c \u2014 Today's priorities only.\n\nSource priorities from /home/box/agent-data/agents/ad6690d7-be33-4540-ac42-68eb3059c181/memory/tomorrow-priorities.md or last evening close memory. Label Suggested if he did not name any.\n\nOn Mon / Wed / Fri ONLY: include a short **Marketing ads (45\u201360 min)** line from the **current month packet** if present at memory/achieve-meta-ads-current-month.md; else from memory/achieve-meta-ads-mwf-block.md / achieve-meta-ads-mwf-by-month.md for that month. Prefer Marketing's month-specific checklist over any generic list. Through 2026-10-01 (before Oct packet lands), also name the next unfinished Sep pre-launch cluster (Block A/B/C).\n\nNo status chatter. Skip if truly empty and no suggested set. Quiet hours unmute should already have run at 5:30.",
+  "schedule": "35 5 * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "35 5 * * *"
+    }
+  },
+  "enabled": true,
+  "provenance": "untrusted",
+  "createdAt": 1789011079029,
+  "lastRunAt": 1789468976499
+}

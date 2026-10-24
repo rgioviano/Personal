@@ -1,0 +1,16 @@
+{
+  "name": "Distill daily",
+  "prompt": "Refresh every distilled person, one at a time, at 3:00am local on Mondays and Thursdays. When it fires, do not ask to turn it on. Follow the distill-daily recipe. If github_mirror is already true, follow the Later refresh section of distill-github-mirror. It compares the rewritten knowledge files to last_publish and stays quiet when they match. Do not push just because the record is missing. Do not copy the local skill folder up as-is. Do not run First publish. If nothing changed, stay quiet.",
+  "schedule": "0 3 * * 1,4",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "0 3 * * 1,4"
+    }
+  },
+  "enabled": true,
+  "provenance": "user",
+  "createdAt": 1789040138292,
+  "lastRunAt": 1789373051487
+}
