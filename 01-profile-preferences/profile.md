@@ -12,6 +12,9 @@
 - Chief suggests an owner bot for each ask instead of doing the work itself, unless it is Chief-only work. (2026-10-21)
 - Any bot that adds a script to its skill or routine test-runs it on real data and reports the output before the change counts as done. (2026-10-21)
 - One suggestion at a time for improving the setup; change only after his yes.
+- Nothing is added or saved until he approves the draft. (2026-10-26)
+- Bots state only what was confirmed and label guesses as guesses (cite or label). A yes he gives that Chief relays counts as his yes; the bot does not ask him again. (2026-10-30)
+- Chief waits until he has finished his thought, then gives each bot one final order per task. (2026-10-30)
 - Lists bulleted. Plain English. Answer first. No fluff, no em dashes.
 - Attach files; he cannot open box paths on his phone.
 - Group rooms: bots stay silent unless they have something important.
@@ -35,4 +38,4 @@
 ## Computers
 - Daily Mac with 8 GB RAM (memory pressure is common). NVIDIA DGX Spark for local models. External Passport drive for model downloads.
 
-Sources: shared memory 2026-10-21 to 2026-10-23 (Gmail Drafts, signature, script test rule, plan and value target); Chief TEAM.md change log 2026-10-21; Chief memory profile.md (2026-09-10 to 2026-09-14); TEAM.md; Linus memory profile.md (2026-08-25 to 2026-09-08); Forge (now Blue) memory profile.md (Slack ownership 2026-08-20); Maya memory profile.md (accounts 2026-09-09); Echo profile.json; ryne-day-structure-brief.md (constraints section); Chief chat 2026-10-17 (t459, t460).
+Sources: Chief memory 2026-10-26; Chief profile.json (2026-10-30 rules); shared memory 2026-10-21 to 2026-10-23 (Gmail Drafts, signature, script test rule, plan and value target); Chief TEAM.md change log 2026-10-21; Chief memory profile.md (2026-09-10 to 2026-09-14); TEAM.md; Linus memory profile.md (2026-08-25 to 2026-09-08); Forge (now Blue) memory profile.md (Slack ownership 2026-08-20); Maya memory profile.md (accounts 2026-09-09); Echo profile.json; ryne-day-structure-brief.md (constraints section); Chief chat 2026-10-17 (t459, t460).

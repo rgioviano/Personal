@@ -4,10 +4,10 @@ Chief of Staff routes all work and reports to Ryne in one clear update. Chief su
 
 Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue. Today Forge is Ryne's nutrition coach. Older notes may also say Atlas for Red and SEO / AEO Auditor for Rank.
 
-## Roster (current names, updated 2026-10-24)
+## Roster (current names, updated 2026-10-31)
 | Bot | Lane |
 |---|---|
-| Chief of Staff | Router. Priorities, debriefs, promises watch, approvals, Friday value update |
+| Chief of Staff | Router only (never writes drafts or ops messages itself). Priorities, debriefs, promises watch, approvals, Friday value update, Grok Bot changelog watch, weekly box backup |
 | Penny | Personal assistant: email, calendar, Quo/Numa (drafts), admin, inbox sorting script, 6:45am brief, call prep cards, lead follow-up drafts into Gmail Drafts |
 | Tally | Achieve CRM (Prospect Tracking Sheet), follow-up due list, Parked leads |
 | Red (formerly Atlas) | Achieve PM. Max and Maya report to Red for Achieve work |
@@ -57,7 +57,7 @@ Rooms without their own job description: Administrative, IronBlueprint, Promote,
 ## Standing routines (CT)
 | Routine | Owner | When |
 |---|---|---|
-| Inbox sorting (`inbox_triage.py`, sort only) | Penny | About 6:15am, from 2026-10-24 (which days is not recorded) |
+| Inbox sorting (`inbox_triage.py`, sort only) | Penny | About 6:15am daily, weekends included (run files 2026-10-24 to 2026-10-30) |
 | Morning Administrative brief | Penny | Weekdays 6:45am |
 | Today's priorities | Chief | Weekdays 6:50am |
 | Evening debrief | Chief | Mon to Wed 6:45pm; Fri 5:45pm (Friday adds "Where the week went" and "Value this month") |
@@ -65,6 +65,9 @@ Rooms without their own job description: Administrative, IronBlueprint, Promote,
 | Friday value update | Chief | Fridays 9:20am, Administrative |
 | Draft-vs-sent review | Penny | Fridays 7:00am |
 | Weekly brain repo update | Chief | Saturdays about 3:00am |
+| Weekly box backup (`box_backup.py`, encrypted, to the private "Bot Backups" Drive folder, keeps 4 weeks) | Chief | Saturdays about 7:00am; restore test first Saturday of the month; silent on success (from 2026-10-24) |
+| Grok Bot changelog watch (`changelog_diff.py`) | Chief | Mondays 8:03am |
+| Project Page heartbeats (exception-only) | Tally 8:05am, Blue 8:10am and 8:15am, Plaid 8:20am, Penny 8:25am and 8:30am, Maya 8:35am Mon/Wed/Fri | Weekdays, from 2026-10-30 |
 | Monthly fleet score (`fleet_lint.py`) | Chief | 1st of the month |
 | Inbound + gap pass, follow-up due list; speed-to-book scoreboard | Tally | Daily 8:00am; Fridays |
 | #clients brief pass | Eval Brief | Weekdays 8:15am |
@@ -72,10 +75,10 @@ Rooms without their own job description: Administrative, IronBlueprint, Promote,
 | Untested watch | Hawkin | Mondays, from 2026-10-26 |
 | Meta/Google knowledge refresh | Lark | 1st of month |
 | Bookmarks pull | Bookmarks | Mon and Thu about 9:17am |
-| Tesla lease check | Plaid | Daily about 8:30am |
+| Tesla lease check | Plaid | Replaced 2026-10-30 by the project Page heartbeat above; the old daily check is paused |
 | Cold alert | Midori | PAUSED since 2026-09-28; delete pending Ryne's confirm |
 | Cost pass | Token Officer | Weekly |
-| Meeting ingest, Web & Mobile Tasks, IB 500 tally and nightly pace post | Blue | IB routines |
+| Meeting ingest (Spark transcripts), Web & Mobile Tasks, IB 500 tally and nightly pace post, manual bug sweeps | Blue | IB routines. Bug sweeps stay manual (Ryne, 2026-10-27) |
 | IronBlueprint PR review | Linus | New PRs + weekdays 9am |
 | IronBlueprint bug triage | Linus | Blue handoff, #bugs, weekdays 9am |
 | IronBlueprint monthly security scan | Linus (Blue verifies) | First weekday of month (from Mon 11/2) |
@@ -86,6 +89,12 @@ Deleted 2026-10-23 (Ryne approved): MacBook launch check, Weekly attention check
 ## Fleet rules
 - Send lock: nothing goes out without Ryne's yes on the exact draft; a bot saying "send" is not approval. Email drafts go into Ryne's Gmail Drafts (threaded); texts stay as drafts in chat (2026-10-22).
 - Relay rule: when bot A asks bot B, B replies only to A. No DM to Ryne unless he asked.
+- Relayed approvals (2026-10-30): when Chief (or Dr. Eggbot) quotes Ryne's yes to a bot, that bot treats it as his approval and does not ask him again.
+- Cite or label (2026-10-30): only state what was confirmed; never credit a source with more than it said; label guesses as guesses; do not upgrade soft signals into hard facts.
+- One final order (2026-10-30): Chief waits until Ryne has finished his thought, then sends each bot one clear final order per task, and checks what the bot already has open first.
+- Room owner-filter: when assigning in a room, Chief names the one owner bot; other members stay silent unless @-mentioned or it is their lane.
+- Approve before saving (2026-10-26): nothing is added or saved until Ryne approves the draft.
+- Project Pages (2026-10-30): every bot reads the relevant project Page before starting work and updates that Page and the master Projects index when finished. No duplicate Pages. Nothing is marked complete without checking the real result. When a project closes: outcome and lessons, and its heartbeat is paused.
 - Reporting lines (2026-10-21): Max and Maya report through Red (Achieve) and Blue (IronBlueprint). Chief steps in only on escalations or cross-brand conflicts.
 - Script rule (2026-10-21): when a bot adds a script to its skill or routine, it test-runs it on real data and reports the output before the change counts as done. Chief's rule scripts live in `shared/scripts/chief/` on the box; they are read-only and print only exceptions.
 - Value target (2026-10-23): Ryne is on the $200/mo Grok Bot plan; the bots should earn $400 to $600 a month, counted only from evidenced wins.
@@ -98,4 +107,4 @@ Deleted 2026-10-23 (Ryne approved): MacBook launch check, Weekly attention check
 - Midori cold alert delete: waiting on Ryne's confirm.
 - CoS Ops duplicate timers cleanup.
 
-Sources: Chief TEAM.md (updated 2026-10-21, change log to 2026-10-23); `WS/fleet/IDS.md` (2026-10-21); shared memory 2026-10-21 to 2026-10-23; profile.json for Simon, Charlie, Splice, Plaid, Jetson, Forge, Maverick, Jim Rohn; Linus routine confirmations in Chief chat 2026-10-17; ib-500-tally-log.md; workflows skill list.
+Sources: Chief TEAM.md (updated 2026-10-30; box backup 2026-10-24); Chief, Red and Doc profile.json (2026-10-30); Chief memory 2026-10-26 and 2026-10-27; Penny triage run files; Chief TEAM.md change log to 2026-10-23; `WS/fleet/IDS.md` (2026-10-21); shared memory 2026-10-21 to 2026-10-23; profile.json for Simon, Charlie, Splice, Plaid, Jetson, Forge, Maverick, Jim Rohn; Linus routine confirmations in Chief chat 2026-10-17; ib-500-tally-log.md; workflows skill list.

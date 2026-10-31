@@ -2,6 +2,13 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-10-31
+- Weekly brain audit (second run). Covered 2026-10-24 to 2026-10-31. Branch `brain-audit-2026-10-31` is built on `brain-v1`, so it also carries the 2026-10-24 audit commit, which reached `brain-v1` (PR #2) after PR #1 had already merged into `main`. Opened as a PR into `main`. Not merged.
+- NOW.md: normal working mode since 2026-10-30; Page-based project management; 2026-10-30 fleet rules; approve-before-saving rule; inbox sorting runs daily and its first score; weekly box backup; NSCA certification year updated and CEU count conflict flagged.
+- `08-bot-fleet/fleet.md`: new routines (weekly box backup, changelog watch, project Page heartbeats); Plaid's old daily check paused; Blue bug sweeps stay manual; new fleet rules.
+- `01-profile-preferences/profile.md`: approve before saving, cite or label, relayed approvals, one final order.
+- Personal note: Ryne's dog Sophie passed on 2026-10-29.
+
 ## 2026-10-24
 - Weekly brain audit (first run). Covered 2026-10-17 to 2026-10-24. Opened as a PR into `brain-v1`. Not merged.
 - `08-bot-fleet/fleet.md`: renames (Atlas to Red, Forge to Blue, SEO / AEO Auditor to Rank) with a name warning; added Simon, Charlie, Splice, Plaid, Jetson, Forge (nutrition), Maverick, Jim Rohn; retired Elon Musk, Travis Kalanick, Dan Martell; dropped Lingxi from the active roster; updated routines (Penny inbox sorting and Friday review, Friday value update, brain repo update, fleet score, Hawkin untested watch, Plaid, Bookmarks Mon/Thu, Midori paused); listed deleted routines; added reporting lines, script rule and value target.
