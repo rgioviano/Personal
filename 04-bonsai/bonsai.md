@@ -4,7 +4,8 @@
 - Location: Aurora, IL.
 
 ## House rule
-- Overnight low below 55°F: bring it inside. Midori checks nightly at 8:00pm CT and alerts only when below 55°F; silent otherwise. Do not change the threshold unless Ryne says so.
+- Overnight low below 55°F: bring it inside. Do not change the threshold unless Ryne says so.
+- Midori's nightly 8:00pm CT cold alert (alerts only below 55°F) has been PAUSED since 2026-09-28. Ryne asked to delete it on 2026-10-18; the delete is pending his confirm in Midori's chat. Until then, nothing automatic checks the overnight low.
 
 ## Care summary
 - Light: 5 to 6+ hours bright light; south or west window indoors; avoid midday glass burn. Variegated form needs more light or it re-greens and stretches.
@@ -18,4 +19,4 @@
 ## TODO
 - TODO: Date acquired, pot/soil used, last repot.
 
-Sources: Midori profile.json; rainbow-dwarf-jade-bonsai-playbook-2026.md (2026-09-29).
+Sources: Chief TEAM.md (2026-10-18 audit fixes: Midori paused, pending delete); Midori profile.json; rainbow-dwarf-jade-bonsai-playbook-2026.md (2026-09-29).
