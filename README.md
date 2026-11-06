@@ -15,7 +15,7 @@ Status: private GitHub repo rgioviano/Personal since 2026-10-17. Fully re-synced
 
 Sources: this folder; Chief chat 2026-10-17.
 
-## Skills index (62 skills)
+## Skills index (63 skills)
 
 Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). Synced from Ryne's Grok Bot skill library on 2026-11-05. Em dashes were swapped for hyphens and email addresses that are not Ryne's business addresses were replaced, per the repo rules.
 
@@ -32,6 +32,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `doc-health-source-router`: Use on every Doc / naturopath health question for Ryne: classify the ask, pick primary and secondary locked sources, apply conflict and never-stop rules, then load the matching Distill folder or reference skill before answering.
 - `film-director-craft`: Use when writing a scene, shot list, generation brief, or recut as a film director. Cards require scale, angle, move, lens, key, sound, and a verb - not adjectives.
 - `find-the-constraint`: Use when someone asks "what's my constraint/bottleneck?", shares a business or project dump and wants it analyzed, or a weekly review needs one focus. Names the single constraint between here and the goal and the one move that relieves it this week.
+- `jack-kruse`: Use when Ryne asks about Dr. Jack Kruse or anything in his framework, including sunrise and daytime light, blue light at night, nnEMF and 5G, grounding, magnetism and geomagnetic claims, cold thermogenesis, deuterium and low-deuterium eating, Epi-Paleo, the Leptin Rx, melanin and POMC, his cancer, sleep, or eye theories, Survivors Soup or bone broth, or an X post, Patreon post, blog post, or lecture of his. Read before you answer, even from memory. It covers his order of priorities, where the local archive lives, how to look up a post, and how to cite each claim to a dated public or Patreon source without turning it into a dose or order.
 - `make-bot-ui`: Use when building a custom UI (page, dashboard, buttons) that should wake a Grok Bot over a webhook, when the user must provide a webhook sender key, or when exposing that UI on Tailscale.
 - `morning-brief`: Use for Penny's weekday 6:45am Achieve morning brief: calendar, triage reuse, prep cards, lead follow-ups, waiting-on-reply, and drafts - delivered to Ryne in Penny 1:1 only.
 - `new-chat-vs-delete`: Use this when the user cannot find a bot, asks what to delete, wants a fresh chat, or is unsure whether to remake a group room vs delete an agent - one durable decision map and real click-paths.
@@ -84,7 +85,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 
 ## Bots index (20 bots and rooms)
 
-Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructions) and `ROUTINES.md` (its current schedule map, 2026-11-05). Secrets are never included. Retired bots were removed on 2026-11-05.
+Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructions), `ROUTINES.md` (its current schedule map, 2026-11-05) and, where the bot keeps them, its memory and reference files (synced 2026-11-05 after a client and athlete scrub). Secrets are never included. Retired bots were removed on 2026-11-05.
 
 - `administrative` (Administrative): Help me manage my day to day and get the most out of each day in terms of progress.
 - `bookmarks` (Bookmarks): ONLY job: for Ryne Gioviano, turn his X bookmarks into an organized, searchable Notion database so saved posts don't just sit there.

@@ -8,6 +8,8 @@ One place for every live ID Ryne Gioviano's Grok Bot fleet needs. Built Saturday
 
 **Updated Sunday 2026-11-01 (Chief, fleet-score fixes Ryne approved):** bot profile names now carry a role suffix ("Penny · admin", about 2026-10-26); the Bot column below uses the short name before " · ", which `fleet_lint.py` now matches. Added Jetson, Simon and Charlie from their profile.json. Bottleneck stays retired; Ryne is finishing the sidebar delete. Elon Musk, Travis Kalanick and Dan Martell folders are gone from disk (checked 2026-11-01). Advisors room (`f4cb7f33`) folder is gone from disk, so its row moved to section 3.
 
+**Updated Thursday 2026-11-05, 8:47pm CT (Ryne answered the sync questions):** Charlie and Distill anyone are deleted; the Programming and HQ rooms are gone. Rows marked RETIRED below.
+
 **Updated Thursday 2026-11-05 (full brain sync):** this repo copy now matches the box file of 2026-11-01. New on the box since then: Metric (`247984e5-d450-4fd5-a9d6-f2d2b0902f95`, data and metric deep dives, on demand). Hendrix's profile name is now Spot (`5a0276a8`). No agent folder was found on the box for Charlie (`5217cd51`) on 2026-11-05; that ID is not in deleted-agents.json either (open question). Briefs no longer post in the Administrative room (2026-11-04).
 
 **Name warning:** before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue (`cceeaf4d`). Today Forge is Ryne's nutrition coach (`2b406f18`). Older notes and sources cited below may still say Forge for Blue or Atlas for Red.
@@ -46,7 +48,7 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 | Linus | `5ec70d9b-e978-4b41-8c2f-f2219c13815a` | engineer | IronBlueprint | Chief; Blue on IB work (Linus instructions 2026-10-17) | Lead engineer. Read-only advisory on IronBlueprint (Suffescom devs do all IB coding); also owns local LLMs... |
 | Token Officer | `10242c51-88e8-4583-b81d-61c9525bcc8b` | (none) | Fleet | unclear (proposes directly to Ryne) | Watches fleet token spend, flags waste, and applies routine schedule fixes only after Ryne approves. |
 | Dr. Eggbot | `f38722d3-a9d5-4d98-b294-ee15f3361f11` | bot maker | Fleet | unclear | Designs and creates new Grok Bots. |
-| Distill anyone | `f9154cb1-6362-4907-85f4-12d50f99279c` | (none) | Fleet | unclear | Builds and refreshes the distilled persona bots (the advisors). |
+| Distill anyone | `f9154cb1-6362-4907-85f4-12d50f99279c` | RETIRED 2026-11-05 | Fleet | n/a | Deleted (Ryne, 2026-11-05). Its twice-weekly persona refresh is retired with it. Subject folders under `distill-anyone/subjects/` stay on the box for Sage, Maverick and Doc. |
 | Scout | `620dd6ee-1975-442b-be2a-a64a7a88c07b` | research | Fleet | unclear (Red and Blue both coordinate Scout on brand work) | General researcher for anything outside S&C (products, people, tools, business, health, places). |
 | Penny | `163cd8df-275e-47c1-a5a2-e10e304a671a` | admin | Personal | Chief (Administrative room) | Personal assistant: email, calendar, Quo, Numa and admin across Ryne's Google accounts. |
 | Tally | `5d07e236-9453-409d-ab6c-58711eae2f09` | crm | Achieve | Chief (Administrative room) | Owns Achieve's prospect book (Prospect Tracking sheet): inbound, gap fill, dashboard. |
@@ -78,7 +80,7 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 | Maverick | `2772b984-fa9d-4c82-90e4-ea4bc1feae0b` | (none) | Achieve + IronBlueprint | advisor (no reporting line) | Business advisor combining the distilled thinking of Elon Musk, Travis Kalanick and Dan Martell (Musk/Kalanick/Martell lenses). Advice only, no sends. Formerly Boardroom. Created 2026-10-21; not in the Advisors room. Self-fix line added 2026-10-21. Added 2026-10-21. Replaces the retired Elon Musk, Travis Kalanick and Dan Martell bots. |
 | Jetson | `1f99ce18-87fe-439a-896b-b4d2c8182bd8` | travel (in name; title field empty) | Personal | unclear (hands booked dates to Penny; tells Chief after a self-fix) | Personal travel planner: flights, stays, event tickets, rental cars, itineraries. Books nothing without Ryne's yes. On demand. Added 2026-11-01. |
 | Simon | `48b8dd87-193d-4128-8463-4a6f523dc8fa` | quality assurance (in name; title field empty) | IronBlueprint | Blue ("Blue (IronBlueprint PM) is your lead", profile.json) | Black-box QA for IronBlueprint: tests the live app from outside, pass/fail to Blue, fails also to Linus. Never reads or changes code. Added 2026-11-01. |
-| Charlie | `5217cd51-c36e-4f22-83b7-3a2382a7957c` | (none; name has no role suffix) | Achieve (IronBlueprint later, only when Ryne says so) | unclear (tells Chief after a self-fix) | CFO for Achieve: reads QuickBooks Online (read-only) and explains cash, money in, money out and trends. Never writes to QuickBooks or moves money. On demand. Added 2026-11-01. |
+| Charlie | `5217cd51-c36e-4f22-83b7-3a2382a7957c` | RETIRED 2026-11-05 | Achieve | n/a | Deleted (Ryne, 2026-11-05). Was the Achieve CFO bot (QuickBooks read-only). Do not route work to it. |
 
 ### Retired bots (15)
 Retired by Ryne's 2026-10-17 approval (TEAM.md change log). Lingxi's lane went to Linus; AI Expert folded into Linus. Elon Musk, Travis Kalanick and Dan Martell retired by Ryne's 2026-10-21 approval; Maverick combines all three.
@@ -114,10 +116,10 @@ Source: `A/<room id>/group.json` (members) and `A/<room id>/profile.json`.
 |---|---|---|---|---|
 | Administrative | `03ad987e-906d-42bb-98ea-65d016ffc77c` | Tally, Chief, Penny | Chief | LIVE. Shared ops channel for morning briefs (Penny 6:45am, Chief 6:50am priorities). Source: TEAM.md line 4; Tally memory 2026-09-11. |
 | IronBlueprint | `8857ae2a-0e5d-4af3-be8a-5ee7f2b04e50` | Blue, Linus | Blue | LIVE. Blue's IB meeting ingest and IB web/mobile tasks post here (Blue, 2026-10-17). **CONFLICT:** FLEET.md lists a 2026-10-17 member plan of Blue, Linus, Scout, Max, Quill, Maya, but group.json has only Blue and Linus. |
-| Programming | `7c23ca84-4ef9-4dd7-8421-66e0ab6932ec` | Darwin, PRI, Red, Coach, Hawkin | unclear (Red or Coach) | **ACTIVE per Ryne (2026-10-17).** **CONFLICT:** TEAM.md still has a pending item "Ryne to archive/delete the Programming room" and FLEET.md marks it RETIRED. Ryne's word wins: keep it. |
+| Programming | `7c23ca84-4ef9-4dd7-8421-66e0ab6932ec` | Darwin, PRI, Red, Coach, Hawkin (former) | n/a | **RETIRED 2026-11-05:** the room is gone (Ryne). Coach leads programs 1:1 with Ryne. |
 | Promote | `447d77a8-9873-4b04-821c-87d82cc8c284` | Lark, Maya, Max, Quill | unclear (likely Maya) | LIVE. No description set. |
 | Newsletter | `e30bd05f-c397-44ba-bab7-506ea9f73193` | Quill, Maya, Canvas, Red | unclear (likely Quill or Maya) | LIVE. No description set. |
-| HQ | `10dece0d-b4a4-4ab7-b0f7-3fe8ad7b6765` | Red, Blue | unclear | LIVE per group.json (created 2026-10-20). No description set. Added 2026-10-21. |
+| HQ | `10dece0d-b4a4-4ab7-b0f7-3fe8ad7b6765` | Red, Blue (former) | n/a | **RETIRED 2026-11-05:** the room is gone (Ryne). Created 2026-10-20. |
 
 ---
 
@@ -300,7 +302,7 @@ Note: Linus's old instructions said he hands repo work to Cursor cloud agents. A
 ## 11. Conflicts and open questions
 
 1. **36 skills point to a deleted agent.** Skills such as `exercise-progressions-and-selections`, every `*-progressions` ladder, `guide-to-tapering`, `program-design-basics`, `athlete-program-design-guidelines`, `adult-program-design-guidelines`, `isometrics-programming-guide`, `frc-progressions-and-prescriptions` and several `pri-*` skills cite `/home/box/agent-data/agents/0c56f311-.../memory/reference/...`. That folder is gone. The PRI manuals survive under PRI (`A/e9d0fc7f.../memory/reference/`), and `program-design-basics.txt` survives at `WS/uploads/`. The exercise progressions CSV and the tapering guide were not found anywhere on disk; the Achieve Programming Data Cursor project may hold copies. Highest priority fix.
-2. **Programming room:** active per Ryne, but TEAM.md (pending archive) and FLEET.md (RETIRED) disagree. Update both.
+2. **Programming room:** resolved 2026-11-05. The room is gone (Ryne).
 3. **IronBlueprint room members:** on disk only Blue and Linus. FLEET.md's 2026-10-17 list adds Scout, Max, Quill, Maya.
 4. **Retired bots:** six are gone from disk but not in deleted-agents.json. Confirm in the sidebar. Bottleneck, Elon Musk, Travis Kalanick and Dan Martell still need a sidebar delete. TEAM.md's pending list leaves out Lingxi.
 5. **Tally memory has two stale IDs:** old Personal Assistant `8b769a17-...` (line 8) and a room description that still names CRM Watch and PA Schedules (line 28).

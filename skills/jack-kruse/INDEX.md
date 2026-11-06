@@ -1,0 +1,431 @@
+# Jack Kruse topic map (INDEX)
+
+Built Nov 1, 2026 (CT) from the Patreon title feed (535 posts, Jul 2017 to Nov 1, 2026), the jackkruse.com post sitemap (462 URLs, 2011 to 2020), and local captures. Patreon dates are UTC. Titles are matched by keyword only, so open the post before citing content. Full lists: /workspace/kruse-archive/patreon-all-titles.md and /workspace/kruse-archive/sitemap-2026.md (2024 to 2026, by tag).
+
+## Start here (public, read locally)
+- [Public blog] Energy and Epigenetics 4: Light, Water, Magnetism | https://jackkruse.com/energy-and-epigenetics-4-light-water-magnetism/ | /workspace/kruse-ddw/energy-and-epigenetics-4-light-water-magnetism.txt
+- [Public blog] Leptin Reset Easy Start Guide | https://jackkruse.com/leptin-reset-easy-start-guide/ | /workspace/kruse-ddw/leptin-reset-easy-start-guide.txt
+- [Public blog] Cold Thermogenesis Easy Start Guide | https://jackkruse.com/cold-thermogenesis-easy-start-guide/ | /workspace/kruse-ddw/cold-thermogenesis-easy-start-guide.txt
+- [Public blog] Cold Thermogenesis 13: The FAQs | https://jackkruse.com/cold-thermogenesis-13-the-faqs/ | /workspace/kruse-ddw/cold-thermogenesis-13-the-faqs.txt
+- [Staff page] Setting Up Your Water System at Home | https://jackkruse.com/setting-up-your-water-system/ | /workspace/kruse-ddw/water.txt
+- [Public blog] Epi-Paleo Rx | the capture at /workspace/kruse-ddw/epi-paleo-rx.txt is a 404 page; refetch it
+- [Public blog] Protocols hub https://jackkruse.com/drkrusesprotocols/ ; Getting Started https://jackkruse.com/getting-started/ ; EMF Rx webinar https://jackkruse.com/march-webinar-the-emf-rx/
+- [Public blog] Brain Gut 15: Creating Your Health IPO; Finding Your Primal Sense | /workspace/kruse-mind/
+- [LinkedIn] Questioning Centralized Beliefs (Sep 30, 2026) | /workspace/kruse-mind/qcb.txt
+- [Doc synthesis] Low-Deuterium Start Guide (Oct 31, 2026) | /workspace/kruse-ddw/kruse-low-deuterium-start-guide.md
+- [X] key threads: 2035705960908407067 (sunrise before food, 2026); 1696135236193591319 (sun and deuterium, Aug 28, 2023); 2001349559742591378 (real sun, not red light); 2076666723130921339 (latitude and water deuterium)
+
+## Series map (Patreon)
+- Series on Patreon, numbers as seen in the feed: Reality #15 to #22 (Aug 2017 to Jan 2018); QT #4 to #28 (Apr 2018 to Jun 2019) and Quantum Thermodynamics #1 to #11 (2018); CPC #15 to #92 (Feb 2018 to Sep 2026); Hypoxia #1 to #30 (Dec 2019 to Dec 2020); Quantum Engineering #1 to #76 (Sep 2021 to Aug 2024); Decentralized Medicine #1 to #111 (Apr 2024 to Nov 2026); Decentralized Physics #1 to #11 (Jun to Oct 2026). BTC and Bitcoin posts: skip for health.
+- Note: "Making Your Bone Broth Stronger at Home" (Jan 15, 2021, free) is an osteoporosis home-remedy note with supplement doses, not a broth recipe. Survivors Soup (Dec 5, 2017) is the broth post, and it is paid.
+
+## Light, sun, blue light, UV (60)
+- 2026-01-27 [Patreon paid] DECENTRALIZED MEDICINE #92: MELANIN EVOLUTION #4. HOW THE SUN CREATES LONGEVITY? | https://www.patreon.com/DrJackKruse/posts/decentralized-92-149013157
+- 2025-11-01 [Patreon paid] DECENTRALIZED MEDICINE #79: BRIGHT LIGHT SNEEZING | https://www.patreon.com/DrJackKruse/posts/decentralized-79-125243301
+- 2025-07-27 [Patreon paid] DECENTRALIZED MEDICINE #63: WHY ARE EYE FLOATERS, GLAUCOMA, AND RETINAL TEARS EXPLODING? | https://www.patreon.com/DrJackKruse/posts/decentralized-63-124636123
+- 2025-04-18 [Patreon free] DECENTRALIZED MEDICINE #43: THE HEALING LIGHT | https://www.patreon.com/DrJackKruse/posts/decentralized-43-126936955
+- 2025-04-04 [Patreon paid] DECENTRALIZED MEDICINE # 41: THE OXYGEN HOLOCAUST AND LIGHT CHOICES | https://www.patreon.com/DrJackKruse/posts/decentralized-41-124902784
+- 2024-11-28 [Patreon paid] DECENTRALIZED MEDICINE #23: HOW LIGHT CONTROLS EVERYTHING | https://www.patreon.com/DrJackKruse/posts/decentralized-23-116887152
+- 2024-11-01 [Patreon paid] DECENTRALIZED MEDICINE #20: THE BIG TECH SPONSORED LIE OF THE MEANS SIBLINGS : LEPTIN/MELANIN/LIGHT | https://www.patreon.com/DrJackKruse/posts/decentralized-20-80546113
+- 2024-07-08 [Patreon paid] DECENTRALIZED MEDICINE #6: WHY ARE THE TROPICS HEALING? | https://www.patreon.com/DrJackKruse/posts/decentralized-6-107464807
+- 2024-07-01 [Patreon paid] QUANTUM ENGINEERING # 75: p53 defects = lack of UV light | https://www.patreon.com/DrJackKruse/posts/quantum-75-p53-106441242
+- 2024-03-15 [Patreon paid] THE AGE OF LIGHT BEGINS TODAY AT THE ARK | https://www.patreon.com/DrJackKruse/posts/age-of-light-at-94781268
+- 2024-03-02 [Patreon paid] QUANTUM ENGINEERING #66: LEPTIN Rx light codes | https://www.patreon.com/DrJackKruse/posts/quantum-66-rx-99057880
+- 2024-02-21 [Patreon paid] QUANTUM ENGINEERING #65: AM SUNRISE IS TINA | https://www.patreon.com/DrJackKruse/posts/quantum-65-am-is-98929507
+- 2023-12-14 [Patreon paid] QUANTUM ENGINEERING #64: LIGHT IS INFORMATION | https://www.patreon.com/DrJackKruse/posts/quantum-64-light-94627421
+- 2023-11-09 [Patreon paid] QUANTUM ENGINEERING #61: HOW DOES LIGHT CONTROL CONSCIOUSNESS? | https://www.patreon.com/DrJackKruse/posts/quantum-61-how-92582575
+- 2023-11-08 [Patreon paid] QUANTUM ENGINEERING #60: HOW DOES LIGHT CONTROL POMC CLEAVAGE? | https://www.patreon.com/DrJackKruse/posts/quantum-60-how-92485473
+- 2023-04-25 [Patreon paid] QUANTUM ENGINEERING #38: THE STORY OF LIGHT & WATER FOR LIFE PRE-POMC | https://www.patreon.com/DrJackKruse/posts/quantum-38-story-81999018
+- 2023-04-01 [Patreon paid] QUANTUM ENGINEERING #36: THE SUN DOES NOT CAUSE SKIN CANCER, A LACK OF SUN DOES | https://www.patreon.com/DrJackKruse/posts/quantum-36-sun-80085526
+- 2023-02-24 [Patreon paid] QUANTUM ENGINEERING #27: WHY IS SUNSCREEN AND SUNGLASSES HARMFUL? | https://www.patreon.com/DrJackKruse/posts/quantum-27-why-79154586
+- 2023-02-16 [Patreon paid] QUANTUM ENGINEERING #26: IT'S THE LIGHT ENVIRONMENT STUPID! | https://www.patreon.com/DrJackKruse/posts/quantum-26-its-76961931
+- 2022-11-11 [Patreon paid] QUANTUM ENGINEERING #19: AUTISM/FOLATE & TERRESTRIAL SUNLIGHT | https://www.patreon.com/DrJackKruse/posts/quantum-19-74498277
+- 2022-11-01 [Patreon paid] QUANTUM ENGINEERING # 18: BUILDING A CLOCK FROM THE SUN'S LIGHT | https://www.patreon.com/DrJackKruse/posts/quantum-18-clock-74088114
+- 2022-09-05 [Patreon paid] QUANTUM ENGINEERING #14: HOW DOES THE SUN'S LIGHT SCULPT LIFE? | https://www.patreon.com/DrJackKruse/posts/quantum-14-how-71552008
+- 2022-02-18 [Patreon paid] QUANTUM ENGINEERING #4: SUICIDE BY LIGHT | https://www.patreon.com/DrJackKruse/posts/quantum-4-by-62488346
+- 2022-01-28 [Patreon paid] CPC 62#: MANAGING TIME = MANAGING LIGHT | https://www.patreon.com/DrJackKruse/posts/cpc-62-managing-61689211
+- 2021-11-09 [Patreon paid] QUANTUM ENGINEERING #3: LIGHT & TIME = HEALTHSPAN | https://www.patreon.com/DrJackKruse/posts/quantum-3-light-58493297
+- 2021-05-02 [Patreon paid] CPC #52: SUNLIGHT, ECZEMA, ACNE, & COULOMB FORCE | https://www.patreon.com/DrJackKruse/posts/cpc-52-sunlight-46973450
+- 2020-11-23 [Patreon paid] HYPOXIA #29: T- CELL IMMUNITY, THE SUN, & C19 | https://www.patreon.com/DrJackKruse/posts/hypoxia-29-t-sun-44212602
+- 2020-11-16 [Patreon free] BARIATRIC SURGERY 101: Consider the SUN before the knife | https://www.patreon.com/DrJackKruse/posts/bariatric-101-43960513
+- 2020-11-06 [Patreon paid] HYPOXIA #27: WHY SEAFOOD AND SUNLIGHT RAISE OXYGEN in tissues | https://www.patreon.com/DrJackKruse/posts/hypoxia-27-why-43606073
+- 2020-10-24 [Patreon paid] LIGHT CAN BE A DANGEROUS ALGORITHM | https://www.patreon.com/DrJackKruse/posts/light-can-be-43101791
+- 2020-07-22 [Patreon paid] HYPOXIA #18: CATALASE, SUNLIGHT, & C-19 HYPOXIA | https://www.patreon.com/DrJackKruse/posts/hypoxia-18-c-19-39238604
+- 2020-07-06 [Patreon paid] HYPOXIA #16: SUNGLASSES = CELLULAR HYPOXIA? | https://www.patreon.com/DrJackKruse/posts/hypoxia-16-38652405
+- 2020-06-29 [Patreon paid] HYPOXIA #15: BLUE LIGHT CAUSES IRREVERSIBLE HYPOXIA IN ALL CELLS | https://www.patreon.com/DrJackKruse/posts/hypoxia-15-blue-38742236
+- 2020-06-05 [Patreon paid] HYPOXIA # 12: SUNLIGHT DESTROYS HYPOXIA | https://www.patreon.com/DrJackKruse/posts/hypoxia-12-37005988
+- 2020-02-22 [Patreon paid] HYPOXIA #4: RED LIGHT, BLUE LIGHT, 1...2...3. | https://www.patreon.com/DrJackKruse/posts/hypoxia-4-red-1-33770174
+- 2019-08-01 [Patreon paid] CAN THE LIGHT USED IN EYE SURGERY SET THE STAGE FOR ALZHEIMER'S DISEASE ??? | https://www.patreon.com/DrJackKruse/posts/can-light-used-28814265
+- 2019-07-29 [Patreon paid] The food versus light lesson.......not to be missed. | https://www.patreon.com/DrJackKruse/posts/food-versus-not-28736205
+- 2019-05-29 [Patreon paid] CPC #47: DIABETES & BLUE LIGHT ARE BEDFELLOWS | https://www.patreon.com/DrJackKruse/posts/cpc-47-diabetes-27216411
+- 2019-05-06 [Patreon paid] QT#27: WATER CAPTURES MAGNETIC MEMORY OF THE SUN RAYS | https://www.patreon.com/DrJackKruse/posts/qt-27-water-of-23104670
+- 2019-03-13 [Patreon paid] CPC #43: Daylight Savings for What and for Whom? | https://www.patreon.com/DrJackKruse/posts/cpc-43-daylight-25331846
+- 2018-12-02 [Patreon paid] QT#24: NON LINEAR LIGHT EFFECTS IN A 5G WORLD | https://www.patreon.com/DrJackKruse/posts/qt-24-non-linear-22919073
+- 2018-10-05 [Patreon paid] QT#20: UV light and salt improve sleep and health. | https://www.patreon.com/DrJackKruse/posts/qt-20-uv-light-18782819
+- 2018-09-28 [Patreon paid] CPC #34:DOES RETINOL IN BLUE LIGHT or nnEMF BECOMES THE AGENT OF DOOM TO HUMAN PHOTORECEPTORS? | https://www.patreon.com/DrJackKruse/posts/cpc-34-does-in-21697366
+- 2018-08-24 [Patreon paid] QT# 19: DIABETES IS A BLUE LIGHT HAZARD DISEASE. | https://www.patreon.com/DrJackKruse/posts/qt-19-diabetes-19371412
+- 2018-07-15 [Patreon paid] QT #16: WHERE DOES ELF-UV COME FROM? | https://www.patreon.com/DrJackKruse/posts/qt-16-where-does-18779009
+- 2018-07-10 [Patreon paid] Blue Light, Skin and Suicide in Music and Shift Workers: The Melanopsin Link | https://www.patreon.com/DrJackKruse/posts/blue-light-skin-19980836
+- 2018-06-08 [Patreon paid] QT#12: KREBS BICYCLE 3: The retina | https://www.patreon.com/DrJackKruse/posts/qt-12-krebs-3-18986783
+- 2018-05-25 [Patreon paid] QT #10: WHY DAYTIME INDOOR BLUE LIGHT IS TOXIC | https://www.patreon.com/DrJackKruse/posts/qt-10-why-indoor-19021596
+- 2018-05-24 [Patreon paid] QT#9: KREBS BICYCLE 2: THE RETINA | https://www.patreon.com/DrJackKruse/posts/qt-9-krebs-2-18987318
+- 2018-05-06 [Patreon paid] April 2017: Is God Light or is Light God? | https://www.patreon.com/DrJackKruse/posts/april-2017-is-or-17803429
+- 2018-02-07 [Patreon paid] CPC #15: BLOOD IS A MAGNETOHYDRODYNAMIC FLUID THAT LINKS THE SUN TO YOUR MITOCHONDRIA | https://www.patreon.com/DrJackKruse/posts/cpc-15-blood-is-16858093
+- 2018-01-16 [Patreon paid] REALITY#22: SUNLIGHT CODES FOR DARKNESS | https://www.patreon.com/DrJackKruse/posts/reality-22-codes-16433148
+- 2017-10-30 [Patreon paid] HOW DO PROTONS RECYLE UNDER THE POWER OF THE SUN AND MANMADE LIGHT? A LESSON IN PROTON SPIN AND MASS IS AT HAND | https://www.patreon.com/DrJackKruse/posts/how-do-protons-15126336
+- 2017-10-27 [Patreon paid] REALITY #18: THE SUN: THE MITOCHONDRIAC BASICS | https://www.patreon.com/DrJackKruse/posts/reality-18-sun-14847705
+- 2017-10-16 [Patreon paid] Red light is a powerful drug = Big Pharma | https://www.patreon.com/DrJackKruse/posts/red-light-is-big-14865152
+- 2017-10-13 [Patreon paid] REALITY #16: HOW DOES LIGHT SCULPT LIFE? | https://www.patreon.com/DrJackKruse/posts/reality-16-how-14832062
+- 2017-09-04 [Patreon free] Blue Blocking glass news from Dr. Kruse | https://www.patreon.com/DrJackKruse/posts/blue-blocking-dr-14208404
+- 2017-09-01 [Patreon paid] IT ALL COMES BACK TO THE LIGHT YOU ALLOW | https://www.patreon.com/DrJackKruse/posts/it-all-comes-to-13958150
+- 2017-08-24 [Patreon paid] WHY IS THE SUN ELECTRIC AND NOT NUCLEAR? WHY DO MITOCHONDRIACS CARE? | https://www.patreon.com/DrJackKruse/posts/why-is-sun-and-14026221
+- 2017-07-31 [Patreon paid] CIRCULAR THERMODYNAMICS BY LIGHT | https://www.patreon.com/DrJackKruse/posts/circular-by-13526519
+
+## Eyes and vision (22)
+- 2026-05-01 [Patreon paid] CPC #86: REM EYES ARE D+ PUMPS | https://www.patreon.com/DrJackKruse/posts/cpc-86-rem-eyes-155973098
+- 2025-11-01 [Patreon paid] DECENTRALIZED MEDICINE #79: BRIGHT LIGHT SNEEZING | https://www.patreon.com/DrJackKruse/posts/decentralized-79-125243301
+- 2025-09-10 [Patreon free] DECENTRALIZED MEDICINE #72: THE EYES IN FRONTOTEMPORAL DYSPLASIA | https://www.patreon.com/DrJackKruse/posts/decentralized-72-138604132
+- 2025-09-06 [Patreon paid] DECENTRALIZED MEDICINE #71: NANOPTHALMUS | https://www.patreon.com/DrJackKruse/posts/decentralized-71-124096262
+- 2025-09-01 [Patreon paid] DECENTRALIZED MEDICINE #70: PTYERGIUM AND CONJUNCTIVITIS | https://www.patreon.com/DrJackKruse/posts/decentralized-70-126240113
+- 2025-08-28 [Patreon paid] DECENTRALIZED MEDICINE #69: THE EVOLUTION OF MAMMALIAN PHOTOREPAIR | https://www.patreon.com/DrJackKruse/posts/decentralized-69-137461499
+- 2025-08-21 [Patreon paid] DECENTRALIZED MEDICINE #68: HEME PROBLEMS DURING AN OXYGEN CATASTROPHE IN THE EYES | https://www.patreon.com/DrJackKruse/posts/decentralized-68-124129467
+- 2025-08-15 [Patreon paid] DECENTRALIZED MEDICINE #67: WE NEED OUR EYES TO GET SLEEP FOR LONGEVITY | https://www.patreon.com/DrJackKruse/posts/decentralized-67-134578054
+- 2025-08-12 [Patreon paid] DECENTRALIZED MEDICINE #66: HUMAN PHOTO-REPAIR | https://www.patreon.com/DrJackKruse/posts/decentralized-66-135709978
+- 2025-08-05 [Patreon paid] DECENTRALIZED MEDICINE #65: HOW DO HUMANS ACQUIRE CATARACTS? | https://www.patreon.com/DrJackKruse/posts/decentralized-65-124070324
+- 2025-08-01 [Patreon paid] DECENTRALIZED MEDICINE#64: WHY DOES CALIFORNIA HAVE MORE EYE DAMAGE THAN OTHER STATES? | https://www.patreon.com/DrJackKruse/posts/decentralized-64-135308073
+- 2025-07-27 [Patreon paid] DECENTRALIZED MEDICINE #63: WHY ARE EYE FLOATERS, GLAUCOMA, AND RETINAL TEARS EXPLODING? | https://www.patreon.com/DrJackKruse/posts/decentralized-63-124636123
+- 2025-07-21 [Patreon paid] DECENTRALIZED MEDICINE# 62: LASIK BLOWS UP OUR EYE-BRAIN CONNECTION | https://www.patreon.com/DrJackKruse/posts/decentralized-62-130349379
+- 2025-07-10 [Patreon paid] DECENTRALIZED MEDICINE# 61: KERATOCONUS | https://www.patreon.com/DrJackKruse/posts/decentralized-61-124956764
+- 2024-02-08 [Patreon paid] CPC #73: HOW APPLE WILL BUILD MY FUTURE PATIENT ROSTER: VISION PRO | https://www.patreon.com/DrJackKruse/posts/cpc-73-how-apple-98100988
+- 2022-11-29 [Patreon paid] QUANTUM ENGINEERING #20: THE OREXIN EYE PRISM | https://www.patreon.com/DrJackKruse/posts/quantum-20-eye-75133469
+- 2021-05-30 [Patreon paid] WHY CONTACTS AND LASIK SURGERY MAY NOT BE WISE | https://www.patreon.com/DrJackKruse/posts/why-contacts-and-16916621
+- 2019-08-01 [Patreon paid] CAN THE LIGHT USED IN EYE SURGERY SET THE STAGE FOR ALZHEIMER'S DISEASE ??? | https://www.patreon.com/DrJackKruse/posts/can-light-used-28814265
+- 2018-09-11 [Patreon paid] CPC#32: KRUSE LONGEVITY Rx FOR SKIN: psoriasis, rosacea, atopic dermatitis, vitiligo, & actinic keratosis | https://www.patreon.com/DrJackKruse/posts/cpc-32-kruse-rx-21334201
+- 2018-09-02 [Patreon paid] June 2017: The Basics Of The Eye Clock | https://www.patreon.com/DrJackKruse/posts/june-2017-basics-17803588
+- 2017-07-18 [Patreon free] More proof why the eye is the key to metabolic rate of the brain and body: | https://www.patreon.com/DrJackKruse/posts/more-proof-why-13095292
+- 2017-07-17 [Patreon paid] HOW THE EYE CONTROLS METABOLIC RATE | https://www.patreon.com/DrJackKruse/posts/how-eye-controls-13060914
+
+## Magnetism, geomagnetic, dynamo (24)
+- 2026-10-07 [Patreon paid] DECENTRALIZED MEDICINE #109: THE MAGNETIC SWITCH IN VITAMIN D | https://www.patreon.com/DrJackKruse/posts/decentralized-in-166916254
+- 2026-09-01 [Patreon paid] DECENTRALIZED PHYSICS #7: DOES TIME SPEED UP AS OUR DYNAMO WEAKENS? | https://www.patreon.com/DrJackKruse/posts/decentralized-7-168119402
+- 2026-08-26 [Patreon paid] DECENTRALIZED PHYSICS #6: CANCER AS A MAGNETIC DISEASE | https://www.patreon.com/DrJackKruse/posts/decentralized-6-167463800
+- 2026-08-18 [Patreon paid] DECENTRALIZED MEDICINE #108: THE MAGNETIC ZIPCODE EFFECT IN MS | https://www.patreon.com/DrJackKruse/posts/decentralized-in-129144955
+- 2026-08-01 [Patreon paid] DECENTRALIZE MEDICINE #107: WHEN THE DYNAMO FAILS EXOSOMES AND VIRAL MARKETING RISES | https://www.patreon.com/DrJackKruse/posts/decentralize-107-165165560
+- 2026-07-28 [Patreon paid] DECENTRALIZED MEDICINE #106: SLEEP APNEA IS A SIGN OF LOST MAGNETISM | https://www.patreon.com/DrJackKruse/posts/decentralized-is-129171130
+- 2026-07-21 [Patreon paid] CPC #90: DID LIFE JUST FALL BACK ASLEEP WHEN THE DYNAMO FAILED? | https://www.patreon.com/DrJackKruse/posts/cpc-90-did-life-159741254
+- 2026-07-10 [Patreon paid] DECENTRALIZED MEDICINE #105: THE MAGNETIC FIELD CREATES UPE's | https://www.patreon.com/DrJackKruse/posts/decentralized-156513730
+- 2026-06-17 [Patreon paid] DECENTRALIZED MEDICINE #104: ELONGATED SKULLS, THE VENTURI EFFECT, MAGNETIC EXCURSIONS | https://www.patreon.com/DrJackKruse/posts/decentralized-158641357
+- 2026-05-31 [Patreon paid] CPC #89: THE NUBIAN LESSON LEAD TO MY MAYAN EXCURSION WISDOM | https://www.patreon.com/DrJackKruse/posts/cpc-89-nubian-to-158246975
+- 2026-05-22 [Patreon paid] CPC #84: NUBIAN PHYSICS FOR A MAGNETIC EXCURSION | https://www.patreon.com/DrJackKruse/posts/cpc-84-nubian-158887026
+- 2026-05-06 [Patreon paid] CPC # 87: THE MAYAN CIVILIZATION: A MAGNETIC DIASPORA | https://www.patreon.com/DrJackKruse/posts/cpc-87-mayan-155959027
+- 2026-04-13 [Patreon paid] DECENTRALIZED MEDICINE 102: THE HUMAN GPS ARRAY | https://www.patreon.com/DrJackKruse/posts/decentralized-155397709
+- 2024-10-28 [Patreon paid] DECENTRALIZED MEDICINE #19: ELECTROMAGNETIC REALITY | https://www.patreon.com/DrJackKruse/posts/decentralized-19-78041395
+- 2024-08-16 [Patreon paid] DECENTRALIZED MEDICINE #9: HIBERANTION, WARBURG, and MAGNETOCHEMISTY INSIGHTS | https://www.patreon.com/DrJackKruse/posts/decentralized-9-110121415
+- 2024-06-23 [Patreon paid] DECENTRALIZED MEDICINE #5: THE ANCIENT PATHWAY IS MAGNETOCHEMICAL | https://www.patreon.com/DrJackKruse/posts/decentralized-5-106652542
+- 2022-06-18 [Patreon paid] QUANTUM ENGINEERING #11: HOW DID THE EARTH BECOME MAGNETIC? | https://www.patreon.com/DrJackKruse/posts/quantum-11-how-67937844
+- 2022-04-03 [Patreon paid] QUANTUM ENGINEERING #6: MAGNETIC FLUX IN THE MATRIX | https://www.patreon.com/DrJackKruse/posts/quantum-6-flux-64667798
+- 2020-11-09 [Patreon paid] HYPOXIA #28: YOUR GUT HAS A MAGNETIC TRANSISTOR LUKE | https://www.patreon.com/DrJackKruse/posts/hypoxia-28-your-43706596
+- 2020-08-04 [Patreon paid] HYPOXIA # 19: CAN A MAGNETICO PAD HELP HYPOXIA? | https://www.patreon.com/DrJackKruse/posts/hypoxia-19-can-39189124
+- 2020-07-10 [Patreon paid] HYPOXIA #17: HOW ARE MAGNETISM AND HYPOXIA LINKED? | https://www.patreon.com/DrJackKruse/posts/hypoxia-17-how-39171656
+- 2019-05-06 [Patreon paid] QT#27: WATER CAPTURES MAGNETIC MEMORY OF THE SUN RAYS | https://www.patreon.com/DrJackKruse/posts/qt-27-water-of-23104670
+- 2018-03-14 [Patreon paid] CPC #20: GEOMAGNETIC STORMS MIMIC A 5G WORLD | https://www.patreon.com/DrJackKruse/posts/cpc-20-storms-5g-17538105
+- 2018-02-07 [Patreon paid] CPC #15: BLOOD IS A MAGNETOHYDRODYNAMIC FLUID THAT LINKS THE SUN TO YOUR MITOCHONDRIA | https://www.patreon.com/DrJackKruse/posts/cpc-15-blood-is-16858093
+
+## Grounding (2)
+- 2018-09-15 [Patreon paid] CPC #33: GROUNDING PART #2 | https://www.patreon.com/DrJackKruse/posts/cpc-33-grounding-21429635
+- 2018-09-03 [Patreon paid] CPC #30: GROUNDING FUNDAMENTALS | https://www.patreon.com/DrJackKruse/posts/cpc-30-grounding-21166317
+
+## nnEMF and 5G (26)
+- 2024-12-05 [Patreon paid] DECENTRALIZED MEDICINE #24: Graphene: A time invariant semiconductor that we may use to treat the jabbed | https://www.patreon.com/DrJackKruse/posts/decentralized-24-78612706
+- 2024-01-26 [Patreon free] February 2019: ALS and nnEMF pollution | https://www.patreon.com/DrJackKruse/posts/february-2019-77747119
+- 2022-08-20 [Patreon paid] CPC #65: "CELL PHONE" BURN & CANCER | https://www.patreon.com/DrJackKruse/posts/cpc-65-cell-burn-70790447
+- 2019-04-30 [Patreon paid] CPC #45 EXPECT SLOW WOUND HEALING IN A 5G WORLD | https://www.patreon.com/DrJackKruse/posts/cpc-45-expect-in-24516335
+- 2019-02-28 [Patreon paid] CPC #42: WHY WILL 5G DESTROY SULFATION AND CAUSE LEPTIN RESISTANCE IN HUMANS | https://www.patreon.com/DrJackKruse/posts/cpc-42-why-will-25023952
+- 2019-02-20 [Patreon free] CPC #41: 5G's LINK TO PHYSICIAN SUICIDES | https://www.patreon.com/DrJackKruse/posts/cpc-41-5gs-link-24834979
+- 2019-02-10 [Patreon paid] JUST GETTING REAL.......ABOUT 5G | https://www.patreon.com/DrJackKruse/posts/just-getting-5g-24592436
+- 2019-02-04 [Patreon paid] February 2019 - ALS & 5G RISKS | https://www.patreon.com/DrJackKruse/posts/february-2019-5g-24466888
+- 2019-01-24 [Patreon paid] CPC #39 5G and ALAN | https://www.patreon.com/DrJackKruse/posts/cpc-39-5g-and-23986681
+- 2019-01-14 [Patreon paid] JANUARY 2019 WEBINAR: A KEY 5G HACK IS FLOATING | https://www.patreon.com/DrJackKruse/posts/january-2019-key-23931822
+- 2019-01-14 [Patreon paid] CPC#38 5G and Vaccines. Might they be a deadly cocktail | https://www.patreon.com/DrJackKruse/posts/cpc-38-5g-and-be-23972232
+- 2019-01-06 [Patreon paid] CPC #37: WHAT SHOULD DOCTORS EXPECT IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-37-what-in-22117599
+- 2018-12-02 [Patreon paid] QT#24: NON LINEAR LIGHT EFFECTS IN A 5G WORLD | https://www.patreon.com/DrJackKruse/posts/qt-24-non-linear-22919073
+- 2018-11-21 [Patreon paid] CPC#36: CAN WE PREDICT 5G RISK FROM APOCRINE SECRETIONS? | https://www.patreon.com/DrJackKruse/posts/cpc-36-can-we-5g-22854189
+- 2018-11-01 [Patreon paid] NOVEMBER 2018 WEBINAR: 5G HIT; WHAT TO DO? | https://www.patreon.com/DrJackKruse/posts/november-2018-5g-22116829
+- 2018-09-28 [Patreon paid] CPC #34:DOES RETINOL IN BLUE LIGHT or nnEMF BECOMES THE AGENT OF DOOM TO HUMAN PHOTORECEPTORS? | https://www.patreon.com/DrJackKruse/posts/cpc-34-does-in-21697366
+- 2018-04-17 [Patreon paid] CPC #23: BEST 5G TEST = CAC | https://www.patreon.com/DrJackKruse/posts/cpc-23-best-5g-14785067
+- 2018-04-09 [Patreon paid] CPC #22: WHY WILL SEAFOOD CONSUMPTION BE CRITICAL IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-22-why-will-18073360
+- 2018-04-04 [Patreon paid] QUANTUM THERMODYNAMICS #2: WHY STOPPING ORAL VIT. D3 IN A 5G WORLD IS WISE | https://www.patreon.com/DrJackKruse/posts/quantum-2-why-d3-17961485
+- 2018-03-23 [Patreon paid] CPC #21: Why will Myasthenia Gravis explode in a 5G world | https://www.patreon.com/DrJackKruse/posts/cpc-21-why-will-17725312
+- 2018-03-23 [Patreon free] 5G: WHAT WE ARE UP AGAINST FROM A TECHIE: | https://www.patreon.com/DrJackKruse/posts/5g-what-we-are-17716623
+- 2018-03-14 [Patreon paid] CPC #20: GEOMAGNETIC STORMS MIMIC A 5G WORLD | https://www.patreon.com/DrJackKruse/posts/cpc-20-storms-5g-17538105
+- 2018-03-06 [Patreon paid] CPC #18: IMPLANTABLE HARDWARE IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-18-hardware-17087338
+- 2018-02-27 [Patreon paid] CPC #17: WILL COFFEE BE WISE IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-17-will-be-17225978
+- 2017-11-15 [Patreon paid] A 5G protection place? Northern Mexico | https://www.patreon.com/DrJackKruse/posts/5g-protection-15024945
+- 2017-09-11 [Patreon paid] The story of mold and fungus and nnEMF | https://www.patreon.com/DrJackKruse/posts/story-of-mold-14250467
+
+## Deuterium, water, UCP2 (10)
+- 2026-05-01 [Patreon paid] CPC #86: REM EYES ARE D+ PUMPS | https://www.patreon.com/DrJackKruse/posts/cpc-86-rem-eyes-155973098
+- 2026-04-17 [Patreon paid] DECENTRALIZED MEDICINE #103: HUMAN VAGAL EXHAUST | https://www.patreon.com/DrJackKruse/posts/decentralized-155380212
+- 2024-11-20 [Patreon paid] DECENTRALIZED MEDICINE # 22: MITOCHONDRIAL WATER SENSES CHAOS TO CREATE A LIFE | https://www.patreon.com/DrJackKruse/posts/decentralized-22-79111561
+- 2023-04-25 [Patreon paid] QUANTUM ENGINEERING #38: THE STORY OF LIGHT & WATER FOR LIFE PRE-POMC | https://www.patreon.com/DrJackKruse/posts/quantum-38-story-81999018
+- 2019-08-11 [Patreon paid] THE MPEMBA EFFECT AND MELANOPSIN | https://www.patreon.com/DrJackKruse/posts/mpemba-effect-28399864
+- 2019-05-06 [Patreon paid] QT#27: WATER CAPTURES MAGNETIC MEMORY OF THE SUN RAYS | https://www.patreon.com/DrJackKruse/posts/qt-27-water-of-23104670
+- 2018-10-22 [Patreon paid] QT#21: DOES MITOCHONDRIAL WATER HAVE A MEMORY? | https://www.patreon.com/DrJackKruse/posts/qt-21-does-water-22227855
+- 2018-08-02 [Patreon paid] QT #18: August 2018 webinar: UCP2 is the DEUTERIUM CARBURETOR | https://www.patreon.com/DrJackKruse/posts/qt-18-august-is-20448441
+- 2018-05-04 [Patreon free] WATER AS A MIRROR? | https://www.patreon.com/DrJackKruse/posts/water-as-mirror-18600762
+- 2017-11-09 [Patreon paid] DEUTERIUM DEPLETION = A SOLAR SURVIVAL/LONGEVITY STORY | https://www.patreon.com/DrJackKruse/posts/deuterium-solar-14768134
+
+## Food, seafood, broth, Leptin Rx, cookbook (17)
+- 2026-01-01 [Patreon paid] CPC #77: THE LEPTIN-MELANOCORTIN AXIS: A Quantum Leap in Energy Homeostasis | https://www.patreon.com/DrJackKruse/posts/cpc-77-leptin-in-144697275
+- 2024-11-01 [Patreon paid] DECENTRALIZED MEDICINE #20: THE BIG TECH SPONSORED LIE OF THE MEANS SIBLINGS : LEPTIN/MELANIN/LIGHT | https://www.patreon.com/DrJackKruse/posts/decentralized-20-80546113
+- 2024-06-13 [Patreon paid] DECENTRALIZED MEDICINE #4: AT THE 13N LATITUDE WE NEED TO BAN FOLIC ACID SUPPLEMENTATION | https://www.patreon.com/DrJackKruse/posts/decentralized-4-105885624
+- 2024-03-02 [Patreon paid] QUANTUM ENGINEERING #66: LEPTIN Rx light codes | https://www.patreon.com/DrJackKruse/posts/quantum-66-rx-99057880
+- 2023-04-21 [Patreon paid] 2023 MELANIN-LEPTIN Rx UPDATE | https://www.patreon.com/DrJackKruse/posts/2023-melanin-rx-78628253
+- 2021-08-31 [Patreon paid] CPC #56: DHA, information theory, thermodynamics, semiconduction | https://www.patreon.com/DrJackKruse/posts/cpc-56-dha-55049793
+- 2021-01-15 [Patreon free] MAKING YOUR BONE BROTH STRONGER AT HOME | https://www.patreon.com/DrJackKruse/posts/making-your-bone-46249434
+- 2020-11-16 [Patreon free] BARIATRIC SURGERY 101: Consider the SUN before the knife | https://www.patreon.com/DrJackKruse/posts/bariatric-101-43960513
+- 2020-11-06 [Patreon paid] HYPOXIA #27: WHY SEAFOOD AND SUNLIGHT RAISE OXYGEN in tissues | https://www.patreon.com/DrJackKruse/posts/hypoxia-27-why-43606073
+- 2019-07-30 [Patreon free] DO YOUR FOOD EXPERTS REALLY HAVE A CLUE ABOUT THEIR BLINDSPOTS? | https://www.patreon.com/DrJackKruse/posts/do-your-food-28763772
+- 2019-07-29 [Patreon paid] The food versus light lesson.......not to be missed. | https://www.patreon.com/DrJackKruse/posts/food-versus-not-28736205
+- 2019-07-01 [Patreon free] It's Back! Optimized Cooking eCookbook | https://www.patreon.com/DrJackKruse/posts/its-back-cooking-26536795
+- 2019-02-28 [Patreon paid] CPC #42: WHY WILL 5G DESTROY SULFATION AND CAUSE LEPTIN RESISTANCE IN HUMANS | https://www.patreon.com/DrJackKruse/posts/cpc-42-why-will-25023952
+- 2018-11-18 [Patreon free] CPC #35 : THE WOMAN CODE: FOOD/SKIN/MAKEUP | https://www.patreon.com/DrJackKruse/posts/cpc-35-woman-22778967
+- 2018-11-01 [Patreon paid] QT #22: LEPTIN RESISTANCE IS MELANOPSIN DYSFUNCTION | https://www.patreon.com/DrJackKruse/posts/qt-22-leptin-is-22036337
+- 2018-04-09 [Patreon paid] CPC #22: WHY WILL SEAFOOD CONSUMPTION BE CRITICAL IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-22-why-will-18073360
+- 2017-12-05 [Patreon paid] SURVIVORS SOUP | https://www.patreon.com/DrJackKruse/posts/survivors-soup-15707564
+
+## Melanin and POMC (39)
+- 2026-04-08 [Patreon paid] DECENTRALIZED MEDICINE #101: THE MELANIN GOD "WIT" STORY | https://www.patreon.com/DrJackKruse/posts/decentralized-152606662
+- 2026-04-01 [Patreon paid] CPC #81: SURVIVING CHERNOBYL & FIXING VITILIGO | https://www.patreon.com/DrJackKruse/posts/cpc-81-surviving-151838995
+- 2026-03-21 [Patreon paid] DECENTRALIZED MEDICINE #99: STACKING THE LESSONS OF THE MELANIN BLOGS | https://www.patreon.com/DrJackKruse/posts/decentralized-99-153590903
+- 2026-03-11 [Patreon paid] DECENTRALIZE MEDICINE #97: MELANIN CONTROLS THE MATRIX | https://www.patreon.com/DrJackKruse/posts/decentralize-97-149542166
+- 2026-03-05 [Patreon paid] DECENTRALIZED MEDICINE #96: MELANIN CONTROLS GENESIS | https://www.patreon.com/DrJackKruse/posts/decentralized-96-149302710
+- 2026-03-01 [Patreon paid] DECENTRALIZED MEDICINE #95 EVOLUTION OF ENDOGENOUS MELANIN 2 | https://www.patreon.com/DrJackKruse/posts/decentralized-95-149252430
+- 2026-02-05 [Patreon paid] DECENTRALIZED MEDICINE #94: EVOLUTION OF ENDOGENOUS MELANIN | https://www.patreon.com/DrJackKruse/posts/decentralized-94-149251367
+- 2026-02-01 [Patreon paid] DECENTRALIZED MEDICINE #93: MELANIN EVOLUTION 5 | https://www.patreon.com/DrJackKruse/posts/decentralized-93-148758204
+- 2026-01-27 [Patreon paid] DECENTRALIZED MEDICINE #92: MELANIN EVOLUTION #4. HOW THE SUN CREATES LONGEVITY? | https://www.patreon.com/DrJackKruse/posts/decentralized-92-149013157
+- 2026-01-21 [Patreon paid] DECENTRALIZED MEDICINE #91: MELANIN EVOLUTION #3 | https://www.patreon.com/DrJackKruse/posts/decentralized-91-147592281
+- 2026-01-14 [Patreon paid] DECENTRALIZED MEDICINE #90: MELANIN EVOLUTION 2 | https://www.patreon.com/DrJackKruse/posts/decentralized-90-148086246
+- 2026-01-04 [Patreon paid] DECENTRALIZED MEDICINE #89: MELANIN EVOLUTION #1 | https://www.patreon.com/DrJackKruse/posts/decentralized-89-147390367
+- 2026-01-01 [Patreon paid] CPC #77: THE LEPTIN-MELANOCORTIN AXIS: A Quantum Leap in Energy Homeostasis | https://www.patreon.com/DrJackKruse/posts/cpc-77-leptin-in-144697275
+- 2024-11-01 [Patreon paid] DECENTRALIZED MEDICINE #20: THE BIG TECH SPONSORED LIE OF THE MEANS SIBLINGS : LEPTIN/MELANIN/LIGHT | https://www.patreon.com/DrJackKruse/posts/decentralized-20-80546113
+- 2024-06-04 [Patreon paid] QUANTUM ENGINEERING #73: SPACE LOSS DUE TO BRAIN SWELLING IS A POMC STORY | https://www.patreon.com/DrJackKruse/posts/quantum-73-space-82151128
+- 2024-05-30 [Patreon paid] DECENTRALIZED MEDICINE #3: YOUR SPINE IS FAILING BECAUSE OF A LACK OF MELANIN | https://www.patreon.com/DrJackKruse/posts/decentralized-3-89216944
+- 2024-05-20 [Patreon paid] QUANTUM ENGINEERING #72: MELANIN SUPERPOSITION | https://www.patreon.com/DrJackKruse/posts/quantum-72-104433282
+- 2024-03-25 [Patreon paid] QUANTUM ENGINEERING 68#: CARNOT THEOREM AND MELANIN | https://www.patreon.com/DrJackKruse/posts/quantum-68-and-82574194
+- 2024-03-08 [Patreon paid] QUANTUM ENGINEERING #67: MENARCHE & MENOPAUSE ARE A MELANIN SIGNAL | https://www.patreon.com/DrJackKruse/posts/quantum-67-are-99652990
+- 2024-01-21 [Patreon paid] THE MELANIN RENOVATION RX FOR MAMMALS | https://www.patreon.com/DrJackKruse/posts/melanin-rx-for-80782201
+- 2023-11-08 [Patreon paid] QUANTUM ENGINEERING #60: HOW DOES LIGHT CONTROL POMC CLEAVAGE? | https://www.patreon.com/DrJackKruse/posts/quantum-60-how-92485473
+- 2023-10-31 [Patreon paid] QUANTUM ENGINEERING #58: TETRAGRAMMATON PART 3 = HUMAN REGENERATION DRIVEN BY MELANIN | https://www.patreon.com/DrJackKruse/posts/quantum-58-part-80773033
+- 2023-09-11 [Patreon paid] QUANTUM ENGINEERING #54: MISSING INTERNAL MELANIN, ADHESIONS, KELOIDS, & ALS. WHY ARE THEY ALL LINKED? | https://www.patreon.com/DrJackKruse/posts/quantum-54-als-89098454
+- 2023-09-05 [Patreon paid] QUANTUM ENGINEERING #53: WHY IS MELANIN ALWAYS FOUND BETWEEN YOUR SENSES & THE ENVIRONMENT? | https://www.patreon.com/DrJackKruse/posts/quantum-53-why-83720421
+- 2023-08-28 [Patreon paid] CPC #71: GOLD/YELLOW AS A POMC RADIATION SHIELD DURING AIPLANE TRAVEL? | https://www.patreon.com/DrJackKruse/posts/cpc-71-gold-as-83029356
+- 2023-08-10 [Patreon paid] CPC#70: MELANIN DEGRADATION OF THE CARDIAC TISSUE | https://www.patreon.com/DrJackKruse/posts/cpc-70-melanin-87484697
+- 2023-08-08 [Patreon paid] CPC # 69: MRI & MELANIN & Dx PRIMARY MELANOCYTOMA | https://www.patreon.com/DrJackKruse/posts/cpc-69-mri-dx-80731850
+- 2023-07-31 [Patreon paid] QUANTUM ENGINEERING #52: NOETHER's THEOREM MEET MELANIN | https://www.patreon.com/DrJackKruse/posts/quantum-52-meet-86940332
+- 2023-07-20 [Patreon paid] QUANTUM ENGINEERING # 51: LIPOFUSCIN DEPOSITION IS A DEFECT IN MELANIN | https://www.patreon.com/DrJackKruse/posts/quantum-51-is-in-81078013
+- 2023-07-09 [Patreon paid] QUANTUM ENGINEERING #50: TIME VIA THE POMC LENS | https://www.patreon.com/DrJackKruse/posts/quantum-50-time-78414110
+- 2023-06-21 [Patreon paid] QUANTUM ENGINEERING #47: BIPOLAR DISORDER AND POMC | https://www.patreon.com/DrJackKruse/posts/quantum-47-and-84757920
+- 2023-06-07 [Patreon paid] QUANTUM ENGINEERING #45: AUTISM & MELANIN/MELANOPSIN: A MIGRATION PROBLEM | https://www.patreon.com/DrJackKruse/posts/quantum-45-83724567
+- 2023-05-21 [Patreon paid] QUANTUM ENGINEERING #43: POMC's SCULPTING OF MAN | https://www.patreon.com/DrJackKruse/posts/quantum-43-pomcs-83220030
+- 2023-05-14 [Patreon free] HOW DOES TRANSGENERATIONAL EPIGENETICS CREATE DISEASE VIA POMC? | https://www.patreon.com/DrJackKruse/posts/how-does-create-82984738
+- 2023-05-07 [Patreon paid] QUANTUM ENGINEERING #40: MELANIN, mTOR, MELATONIN, meets TRYPTOPHAN TIME CRYSTALS | https://www.patreon.com/DrJackKruse/posts/quantum-40-mtor-82627284
+- 2023-05-01 [Patreon paid] QUANTUM ENGINEERING #39: MELANIN CONTROLS EVOLUTIONARY TRAJECTORY IN MAMMALS | https://www.patreon.com/DrJackKruse/posts/quantum-39-in-82302611
+- 2023-04-25 [Patreon paid] QUANTUM ENGINEERING #38: THE STORY OF LIGHT & WATER FOR LIFE PRE-POMC | https://www.patreon.com/DrJackKruse/posts/quantum-38-story-81999018
+- 2023-04-21 [Patreon paid] 2023 MELANIN-LEPTIN Rx UPDATE | https://www.patreon.com/DrJackKruse/posts/2023-melanin-rx-78628253
+- 2018-09-11 [Patreon paid] CPC#32: KRUSE LONGEVITY Rx FOR SKIN: psoriasis, rosacea, atopic dermatitis, vitiligo, & actinic keratosis | https://www.patreon.com/DrJackKruse/posts/cpc-32-kruse-rx-21334201
+
+## Cold and hibernation (4)
+- 2026-09-15 [Patreon paid] CPC # 92: Quantum Biophysics of Sleep, Cold Thermogenesis, and Evolutionary Wakefulness | https://www.patreon.com/DrJackKruse/posts/cpc-92-quantum-169616746
+- 2024-12-27 [Patreon paid] DECENTRALIZED MEDICINE #27: THE BIOPHYSICS OF THE SOUTHERN OCEAN | https://www.patreon.com/DrJackKruse/posts/decentralized-27-118766413
+- 2022-07-21 [Patreon paid] CPC #63: THERMODYNAMICS OF COLD | https://www.patreon.com/DrJackKruse/posts/cpc-63-of-cold-61582420
+- 2017-12-01 [Patreon free] LIVE CT Q & A on 12/17/17 FOR YOU! | https://www.patreon.com/DrJackKruse/posts/live-ct-q-on-12-15650482
+
+## Sleep and circadian (13)
+- 2026-11-01 [Patreon paid] DECENTRALIZED MEDICINE #111: CATALASE, CENTRAL APNEA & INSOMNIA RISK | https://www.patreon.com/DrJackKruse/posts/decentralized-124297253
+- 2026-09-15 [Patreon paid] CPC # 92: Quantum Biophysics of Sleep, Cold Thermogenesis, and Evolutionary Wakefulness | https://www.patreon.com/DrJackKruse/posts/cpc-92-quantum-169616746
+- 2026-07-28 [Patreon paid] DECENTRALIZED MEDICINE #106: SLEEP APNEA IS A SIGN OF LOST MAGNETISM | https://www.patreon.com/DrJackKruse/posts/decentralized-is-129171130
+- 2026-07-21 [Patreon paid] CPC #90: DID LIFE JUST FALL BACK ASLEEP WHEN THE DYNAMO FAILED? | https://www.patreon.com/DrJackKruse/posts/cpc-90-did-life-159741254
+- 2026-05-01 [Patreon paid] CPC #86: REM EYES ARE D+ PUMPS | https://www.patreon.com/DrJackKruse/posts/cpc-86-rem-eyes-155973098
+- 2025-08-15 [Patreon paid] DECENTRALIZED MEDICINE #67: WE NEED OUR EYES TO GET SLEEP FOR LONGEVITY | https://www.patreon.com/DrJackKruse/posts/decentralized-67-134578054
+- 2023-12-30 [Patreon paid] THE YEAR IN CIRCADIAN REVIEW...........2023 key papers | https://www.patreon.com/DrJackKruse/posts/year-in-review-95450939
+- 2023-01-05 [Patreon paid] QUANTUM ENGINEERING #23: CIRCADIAN CLOCK MANAGEMENT | https://www.patreon.com/DrJackKruse/posts/quantum-23-clock-76681761
+- 2019-03-13 [Patreon paid] CPC #43: Daylight Savings for What and for Whom? | https://www.patreon.com/DrJackKruse/posts/cpc-43-daylight-25331846
+- 2018-10-05 [Patreon paid] QT#20: UV light and salt improve sleep and health. | https://www.patreon.com/DrJackKruse/posts/qt-20-uv-light-18782819
+- 2018-08-02 [Patreon paid] CPC #28 IS OBSTRUCTIVE SLEEP APNEA PROTECTIVE? | https://www.patreon.com/DrJackKruse/posts/cpc-28-is-sleep-18699243
+- 2018-05-17 [Patreon paid] CPC #27: THE CIRCADIAN MECHANISM AND NAD+ | https://www.patreon.com/DrJackKruse/posts/cpc-27-circadian-18855002
+- 2017-08-13 [Patreon paid] IS THE SKIN CIRCADIAN SENSITIVE? | https://www.patreon.com/DrJackKruse/posts/is-skin-13750150
+
+## Hypoxia series (2019 to 2020) (31)
+- 2020-12-10 [Patreon paid] HYPOXIA #30: EXOGENOUS USE OF I, Cl, Br CAN CAUSE HYPOXIA | https://www.patreon.com/DrJackKruse/posts/hypoxia-30-use-i-37954415
+- 2020-11-23 [Patreon paid] HYPOXIA #29: T- CELL IMMUNITY, THE SUN, & C19 | https://www.patreon.com/DrJackKruse/posts/hypoxia-29-t-sun-44212602
+- 2020-11-09 [Patreon paid] HYPOXIA #28: YOUR GUT HAS A MAGNETIC TRANSISTOR LUKE | https://www.patreon.com/DrJackKruse/posts/hypoxia-28-your-43706596
+- 2020-11-06 [Patreon paid] HYPOXIA #27: WHY SEAFOOD AND SUNLIGHT RAISE OXYGEN in tissues | https://www.patreon.com/DrJackKruse/posts/hypoxia-27-why-43606073
+- 2020-10-26 [Patreon paid] HYPOXIA #26 ENTANGLEMENT = IDEAL OXYGENATION | https://www.patreon.com/DrJackKruse/posts/hypoxia-26-ideal-43169193
+- 2020-10-15 [Patreon paid] HYPOXIA #25: The current 'MASK'arade | https://www.patreon.com/DrJackKruse/posts/hypoxia-25-42777079
+- 2020-10-14 [Patreon paid] HYPOXIA #24: IS GOUT PROTECTIVE FOR HYPOXIA? | https://www.patreon.com/DrJackKruse/posts/hypoxia-24-is-41664420
+- 2020-09-30 [Patreon paid] HYPOXIA #23: DOES HYPOXIA DESTROY PHOTORECEPTORS? | https://www.patreon.com/DrJackKruse/posts/hypoxia-23-does-42205963
+- 2020-09-13 [Patreon paid] HYPOXIA #22: IS HYPOXIA BEHIND TINNITUS and NEURODEGENERATION? | https://www.patreon.com/DrJackKruse/posts/hypoxia-22-is-41558277
+- 2020-09-10 [Patreon paid] HYPOXIA #21: WHY DOES MITOCHONDRIA NEED A 'LITE FUEL'? | https://www.patreon.com/DrJackKruse/posts/hypoxia-21-why-41462861
+- 2020-08-25 [Patreon paid] HYPOXIA #20: HOW DOES ANEMIA STIMULATE HYPOXIA AND A LOSS OF GROWTH CONTROL? | https://www.patreon.com/DrJackKruse/posts/hypoxia-20-how-40843674
+- 2020-08-04 [Patreon paid] HYPOXIA # 19: CAN A MAGNETICO PAD HELP HYPOXIA? | https://www.patreon.com/DrJackKruse/posts/hypoxia-19-can-39189124
+- 2020-07-22 [Patreon paid] HYPOXIA #18: CATALASE, SUNLIGHT, & C-19 HYPOXIA | https://www.patreon.com/DrJackKruse/posts/hypoxia-18-c-19-39238604
+- 2020-07-10 [Patreon paid] HYPOXIA #17: HOW ARE MAGNETISM AND HYPOXIA LINKED? | https://www.patreon.com/DrJackKruse/posts/hypoxia-17-how-39171656
+- 2020-07-06 [Patreon paid] HYPOXIA #16: SUNGLASSES = CELLULAR HYPOXIA? | https://www.patreon.com/DrJackKruse/posts/hypoxia-16-38652405
+- 2020-06-29 [Patreon paid] HYPOXIA #15: BLUE LIGHT CAUSES IRREVERSIBLE HYPOXIA IN ALL CELLS | https://www.patreon.com/DrJackKruse/posts/hypoxia-15-blue-38742236
+- 2020-06-25 [Patreon paid] HYPOXIA #14: "WE THE PEOPLE" SOON WILL NOT BE ABLE TO BREATH LIKE GEORGE FLOYD | https://www.patreon.com/DrJackKruse/posts/hypoxia-14-we-be-38611070
+- 2020-06-17 [Patreon paid] HYPOXIA #13: WILL YOUR ABILITY TO BREATH BE HARMED FROM SPACE SOON? | https://www.patreon.com/DrJackKruse/posts/hypoxia-13-will-38326359
+- 2020-06-11 [Patreon paid] ARE HAPPINESS AND HYPOXIA BEDFELLOWS? | https://www.patreon.com/DrJackKruse/posts/are-happiness-38129780
+- 2020-06-05 [Patreon paid] HYPOXIA # 12: SUNLIGHT DESTROYS HYPOXIA | https://www.patreon.com/DrJackKruse/posts/hypoxia-12-37005988
+- 2020-05-20 [Patreon paid] HYPOXIA #11: HOW DOES HYPOXIA LINK TO INFERTILITY? | https://www.patreon.com/DrJackKruse/posts/hypoxia-11-how-37331596
+- 2020-05-05 [Patreon paid] HYPOXIA #10: HOW DOES C-19 LINK TO NAD+ DESTRUCTION? | https://www.patreon.com/DrJackKruse/posts/hypoxia-10-how-c-36783553
+- 2020-04-16 [Patreon paid] HYPOXIA # 9: THE COLLATERAL FALL OUT OF C-19 | https://www.patreon.com/DrJackKruse/posts/hypoxia-9-fall-c-36060372
+- 2020-04-14 [Patreon free] HYPOXIA #8: WHAT IS THE REMEDY FOR COVID-19? THE TRUTH. | https://www.patreon.com/DrJackKruse/posts/hypoxia-8-what-35928481
+- 2020-04-06 [Patreon paid] HYPOXIA #7: WHAT MAKES COVID HYPOXIA UNIQUE? | https://www.patreon.com/DrJackKruse/posts/hypoxia-7-what-35702264
+- 2020-03-19 [Patreon paid] HYPOXIA #6: WHAT IS CREATING SKINNY DIABETICS IN MASSIVE NUMBERS? | https://www.patreon.com/DrJackKruse/posts/hypoxia-6-what-34549219
+- 2020-03-01 [Patreon paid] HYPOXIA #5: WHY TECHNOLOGY CAUSES B VITAMIN ISSUES | https://www.patreon.com/DrJackKruse/posts/hypoxia-5-why-b-34479169
+- 2020-02-22 [Patreon paid] HYPOXIA #4: RED LIGHT, BLUE LIGHT, 1...2...3. | https://www.patreon.com/DrJackKruse/posts/hypoxia-4-red-1-33770174
+- 2020-02-01 [Patreon paid] HYPOXIA #3: HOW GOOD IS YOUR EVIDENCE? | https://www.patreon.com/DrJackKruse/posts/hypoxia-3-how-is-33643285
+- 2020-01-22 [Patreon paid] HYPOXIA #2: THE HETEROPLASMY BIOMARKER: TRANSKETOLASE | https://www.patreon.com/DrJackKruse/posts/hypoxia-2-33360360
+- 2019-12-17 [Patreon paid] HYPOXIA #1: WHY IS HYPOXIA AND LOW NAD+ LINKED TO AGING AND DISEASE? | https://www.patreon.com/DrJackKruse/posts/hypoxia-1-why-is-32419906
+
+## Cancer (21)
+- 2026-10-23 [Patreon paid] DECENTRALIZED PHYSICS #11: IS CANCER A WAY CELLS SAVE TIME? | https://www.patreon.com/DrJackKruse/posts/decentralized-11-170734205
+- 2026-10-12 [Patreon paid] DECENTRALIZED MEDICINE #110: GLIOBLASTOMA | https://www.patreon.com/DrJackKruse/posts/decentralized-171906267
+- 2026-08-26 [Patreon paid] DECENTRALIZED PHYSICS #6: CANCER AS A MAGNETIC DISEASE | https://www.patreon.com/DrJackKruse/posts/decentralized-6-167463800
+- 2025-12-27 [Patreon paid] DECENTRALIZED MEDICINE #88: WHY THOMAS N. SEYFRIED IS WRONG ABOUT CANCER? | https://www.patreon.com/DrJackKruse/posts/decentralized-88-145598411
+- 2025-10-01 [Patreon paid] DECENTRALIZED MEDICINE #75: CHILDHOOD CANCERS AND PARENT PORPHYRINS | https://www.patreon.com/DrJackKruse/posts/decentralized-75-140030897
+- 2025-04-02 [Patreon paid] DECENTRALIZED MEDICINE #40: METHYLENE BLUE USE AND TURBOCANCER RISKS | https://www.patreon.com/DrJackKruse/posts/decentralized-40-124743154
+- 2025-03-20 [Patreon paid] DECENTRALIZED MEDICINE #38: WARBURG REDOX SHIFT LINKS ALL CHRONIC DISEASE EPIDEMICS TOGETHER | https://www.patreon.com/DrJackKruse/posts/decentralized-38-124216501
+- 2025-03-12 [Patreon paid] DECENTRALIZED MEDICINE#37: HOW DARPA CREATED TURBOCANCERS | https://www.patreon.com/DrJackKruse/posts/decentralized-37-124052365
+- 2025-01-02 [Patreon paid] DECENTRALIZED MEDICINE #28: JABS/CANCER PART 2 | https://www.patreon.com/DrJackKruse/posts/decentralized-28-118892599
+- 2024-12-24 [Patreon paid] DECENTRALIZED MEDICINE #25: JAB CANCER CONSIDERATIONS PART 1 | https://www.patreon.com/DrJackKruse/posts/decentralized-25-118601156
+- 2024-08-20 [Patreon paid] DECENTRALIZED MEDICINE #10: IMPROVING SEXUAL SATIFACTION, FERTILITY, & BREAST CANCER | https://www.patreon.com/DrJackKruse/posts/decentralized-10-110412109
+- 2024-08-16 [Patreon paid] DECENTRALIZED MEDICINE #9: HIBERANTION, WARBURG, and MAGNETOCHEMISTY INSIGHTS | https://www.patreon.com/DrJackKruse/posts/decentralized-9-110121415
+- 2024-07-01 [Patreon paid] QUANTUM ENGINEERING # 75: p53 defects = lack of UV light | https://www.patreon.com/DrJackKruse/posts/quantum-75-p53-106441242
+- 2023-11-30 [Patreon paid] QUANTUM ENGINEERING #62: CENTRALIZED IDEAS ABOUT CANCER ARE 180 DEGREES FROM NATURE'S TRUTH | https://www.patreon.com/DrJackKruse/posts/quantum-62-ideas-93474987
+- 2023-08-08 [Patreon paid] CPC # 69: MRI & MELANIN & Dx PRIMARY MELANOCYTOMA | https://www.patreon.com/DrJackKruse/posts/cpc-69-mri-dx-80731850
+- 2023-04-01 [Patreon paid] QUANTUM ENGINEERING #36: THE SUN DOES NOT CAUSE SKIN CANCER, A LACK OF SUN DOES | https://www.patreon.com/DrJackKruse/posts/quantum-36-sun-80085526
+- 2022-08-20 [Patreon paid] CPC #65: "CELL PHONE" BURN & CANCER | https://www.patreon.com/DrJackKruse/posts/cpc-65-cell-burn-70790447
+- 2018-05-13 [Patreon paid] CPC #25: WHAT DO SEPSIS AND CANCER HAVE IN COMMON? | https://www.patreon.com/DrJackKruse/posts/cpc-25-what-do-18777390
+- 2018-05-02 [Patreon paid] QT #5: MARIJUANA, CANCER, APOPTOSIS = INFORMATION LOSS | https://www.patreon.com/DrJackKruse/posts/qt-5-marijuana-18528162
+- 2017-12-15 [Patreon paid] JAN 2018: WHY BRAIN CANCER IS A QUANTUM DISEASE | https://www.patreon.com/DrJackKruse/posts/jan-2018-why-is-15681731
+- 2017-12-05 [Patreon paid] THE BIO-PHYSICS OF CANCER | https://www.patreon.com/DrJackKruse/posts/bio-physics-of-15573262
+
+## Neuro: demyelination, ALS, MS, consciousness (24)
+- 2026-08-18 [Patreon paid] DECENTRALIZED MEDICINE #108: THE MAGNETIC ZIPCODE EFFECT IN MS | https://www.patreon.com/DrJackKruse/posts/decentralized-in-129144955
+- 2026-04-26 [Patreon paid] CPC # 85 TOURETTE'S SYNDROME | https://www.patreon.com/DrJackKruse/posts/cpc-85-tourettes-155817587
+- 2025-07-06 [Patreon paid] DECENTRALIZED MEDICINE#60: CONSCIOUSNESS 8 MEMORY | https://www.patreon.com/DrJackKruse/posts/decentralized-60-129222655
+- 2025-07-01 [Patreon paid] DECENTRALIZED MEDICINE #59: OPERATIONAL CONSCIOUSNESS FRAMEWORK | https://www.patreon.com/DrJackKruse/posts/decentralized-59-130094248
+- 2025-06-30 [Patreon paid] DECENTRALIZED MEDICINE #58: CONSCIOUSNESS AS WISDOM | https://www.patreon.com/DrJackKruse/posts/decentralized-58-132852559
+- 2025-06-26 [Patreon paid] DECENTRALIZED MEDICINE #57: CONSCIOUSNESS 4 | https://www.patreon.com/DrJackKruse/posts/decentralized-57-129127730
+- 2025-06-12 [Patreon paid] DECENTRALIZED MEDICINE #56: THE DAWN OF CONSCIOUSNESS | https://www.patreon.com/DrJackKruse/posts/decentralized-56-131261106
+- 2025-06-08 [Patreon paid] DECENTRALIZED MEDICINE #55: THE "HARD PROBLEM" OF CONSCIOUSNESS SOLVED | https://www.patreon.com/DrJackKruse/posts/decentralized-55-125336554
+- 2025-06-03 [Patreon paid] DECENTRALIZED MEDICINE# 54: CONSCIOUSNESS #1 | https://www.patreon.com/DrJackKruse/posts/decentralized-54-130214505
+- 2025-06-01 [Patreon paid] DECENTRALIZED MEDICINE #53: DEMYELINATION MEETS MICROTUBULES 7 | https://www.patreon.com/DrJackKruse/posts/decentralized-53-129835812
+- 2025-05-30 [Patreon paid] DECENTRALIZED MEDICINE #52: DEMYELINATION #6 | https://www.patreon.com/DrJackKruse/posts/decentralized-52-129831049
+- 2025-05-25 [Patreon paid] DECENTRALIZED MEDICINE #51: DEMYELINATION DISEASE FIVE | https://www.patreon.com/DrJackKruse/posts/decentralized-51-128859270
+- 2025-05-19 [Patreon paid] DECENTRALIZED MEDICINE #50: DEMYELINATING DISEASE PART 4 | https://www.patreon.com/DrJackKruse/posts/decentralized-50-128027347
+- 2025-05-16 [Patreon paid] DECENTRALIZED MEDICINE #49: DEMYELINATING DISEASE PART THREE | https://www.patreon.com/DrJackKruse/posts/decentralized-49-128025908
+- 2025-05-14 [Patreon paid] DECENTRALIZED MEDICINE #48 : DEMYELINATING DISEASES PART TWO | https://www.patreon.com/DrJackKruse/posts/decentralized-48-128024635
+- 2025-05-12 [Patreon paid] DECENTRALIZED MEDICINE #47: DEMYELINATING DISEASE PART ONE | https://www.patreon.com/DrJackKruse/posts/decentralized-47-128021921
+- 2025-05-01 [Patreon paid] DECENTRALIZED MEDICINE #45: Amyotrophic Lateral Sclerosis | https://www.patreon.com/DrJackKruse/posts/decentralized-45-124301328
+- 2024-01-26 [Patreon free] February 2019: ALS and nnEMF pollution | https://www.patreon.com/DrJackKruse/posts/february-2019-77747119
+- 2023-11-09 [Patreon paid] QUANTUM ENGINEERING #61: HOW DOES LIGHT CONTROL CONSCIOUSNESS? | https://www.patreon.com/DrJackKruse/posts/quantum-61-how-92582575
+- 2023-09-11 [Patreon paid] QUANTUM ENGINEERING #54: MISSING INTERNAL MELANIN, ADHESIONS, KELOIDS, & ALS. WHY ARE THEY ALL LINKED? | https://www.patreon.com/DrJackKruse/posts/quantum-54-als-89098454
+- 2023-06-07 [Patreon paid] QUANTUM ENGINEERING #45: AUTISM & MELANIN/MELANOPSIN: A MIGRATION PROBLEM | https://www.patreon.com/DrJackKruse/posts/quantum-45-83724567
+- 2022-11-11 [Patreon paid] QUANTUM ENGINEERING #19: AUTISM/FOLATE & TERRESTRIAL SUNLIGHT | https://www.patreon.com/DrJackKruse/posts/quantum-19-74498277
+- 2019-08-01 [Patreon paid] CAN THE LIGHT USED IN EYE SURGERY SET THE STAGE FOR ALZHEIMER'S DISEASE ??? | https://www.patreon.com/DrJackKruse/posts/can-light-used-28814265
+- 2019-02-04 [Patreon paid] February 2019 - ALS & 5G RISKS | https://www.patreon.com/DrJackKruse/posts/february-2019-5g-24466888
+
+## Heme, redox, mitochondria, biophysics (43)
+- 2026-10-01 [Patreon paid] DECENTRALIZED PHYSICS #10: BIOPHYSICS IS YOUR OPERATING SYSTEM YOU DON'T SEE or SENSE | https://www.patreon.com/DrJackKruse/posts/decentralized-10-161965513
+- 2026-09-24 [Patreon paid] DECENTRALIZED PHYSICS #9: TIME IS DEFINED BY THE MARCUS INVERSION EFFECT | https://www.patreon.com/DrJackKruse/posts/decentralized-9-169531960
+- 2026-09-15 [Patreon paid] CPC # 92: Quantum Biophysics of Sleep, Cold Thermogenesis, and Evolutionary Wakefulness | https://www.patreon.com/DrJackKruse/posts/cpc-92-quantum-169616746
+- 2026-09-09 [Patreon paid] DECENTRALIZED PHYSICS #8: THE USE OF PEPTIDES, SUPPLEMENTS, AND DRUGS ARE BIOLOGICAL LANDAUER ATTACKS | https://www.patreon.com/DrJackKruse/posts/decentralized-8-168083053
+- 2026-07-03 [Patreon paid] DECENTRALIZED PHYSICS #5: DEFINING THE FINE STRUCTURE CONSTANT | https://www.patreon.com/DrJackKruse/posts/decentralized-5-157677754
+- 2026-07-01 [Patreon paid] DECENTRALIZED PHYSICS #4: THE BIOPHYSICS OF MEGALITHS | https://www.patreon.com/DrJackKruse/posts/decentralized-4-159078034
+- 2026-03-16 [Patreon paid] DECENTRALIZED MEDICINE # 98: THE BIOPHYSICS OF LIFE'S GENESIS | https://www.patreon.com/DrJackKruse/posts/decentralized-98-150004766
+- 2025-12-16 [Patreon paid] DECENTRALIZED MEDICINE #86: WHAT CAME FIRST, HEME or the ATPase? | https://www.patreon.com/DrJackKruse/posts/decentralized-86-145591464
+- 2025-12-05 [Patreon paid] DECENTRALIZED MEDICINE #84: PARITY VIOLATION EXPLAINS HEME EVOLUTION | https://www.patreon.com/DrJackKruse/posts/decentralized-84-143737053
+- 2025-12-01 [Patreon paid] DECENTRALIZED MEDICINE #83: HEME PROTEIN EVOLUTION 4 | https://www.patreon.com/DrJackKruse/posts/decentralized-83-141581374
+- 2025-11-22 [Patreon paid] DECENTRALIZED MEDICINE #82: HEME PROTEIN EVOLUTION PART 3 | https://www.patreon.com/DrJackKruse/posts/decentralized-82-144020130
+- 2025-11-18 [Patreon paid] DECENTRALIZED MEDICINE #81: PART TWO THE EVOLUTION OF HEME PROTEINS | https://www.patreon.com/DrJackKruse/posts/decentralized-81-143771547
+- 2025-11-14 [Patreon paid] DECENTRALIZED MEDICINE #80: THE EVOLUTION OF HEME PROTEINS | https://www.patreon.com/DrJackKruse/posts/decentralized-80-143567046
+- 2025-08-21 [Patreon paid] DECENTRALIZED MEDICINE #68: HEME PROBLEMS DURING AN OXYGEN CATASTROPHE IN THE EYES | https://www.patreon.com/DrJackKruse/posts/decentralized-68-124129467
+- 2025-03-20 [Patreon paid] DECENTRALIZED MEDICINE #38: WARBURG REDOX SHIFT LINKS ALL CHRONIC DISEASE EPIDEMICS TOGETHER | https://www.patreon.com/DrJackKruse/posts/decentralized-38-124216501
+- 2024-12-27 [Patreon paid] DECENTRALIZED MEDICINE #27: THE BIOPHYSICS OF THE SOUTHERN OCEAN | https://www.patreon.com/DrJackKruse/posts/decentralized-27-118766413
+- 2024-11-20 [Patreon paid] DECENTRALIZED MEDICINE # 22: MITOCHONDRIAL WATER SENSES CHAOS TO CREATE A LIFE | https://www.patreon.com/DrJackKruse/posts/decentralized-22-79111561
+- 2023-12-08 [Patreon paid] QUANTUM ENGINEERING #63: THE QUANTUM ATPase | https://www.patreon.com/DrJackKruse/posts/quantum-63-94273376
+- 2022-03-09 [Patreon free] QUANTUM ENGINEERING #5: WHAT IS REDOX & WHY IT MATTERS | https://www.patreon.com/DrJackKruse/posts/quantum-5-what-63551458
+- 2021-11-29 [Patreon paid] CPC #59: OMICRON UPDATE FOR BLACK SWAN MITOCHONDRIACS | https://www.patreon.com/DrJackKruse/posts/cpc-59-omicron-59278586
+- 2021-07-05 [Patreon paid] CPC #53: VIRUSES VARY MITOCHONDRIAL REDOX | https://www.patreon.com/DrJackKruse/posts/cpc-53-viruses-48987287
+- 2020-09-10 [Patreon paid] HYPOXIA #21: WHY DOES MITOCHONDRIA NEED A 'LITE FUEL'? | https://www.patreon.com/DrJackKruse/posts/hypoxia-21-why-41462861
+- 2020-05-05 [Patreon paid] HYPOXIA #10: HOW DOES C-19 LINK TO NAD+ DESTRUCTION? | https://www.patreon.com/DrJackKruse/posts/hypoxia-10-how-c-36783553
+- 2020-01-25 [Patreon paid] RELATIONSHIP REDOX #12: WHAT IS HOME TO YOU? | https://www.patreon.com/DrJackKruse/posts/relationship-12-33440260
+- 2020-01-14 [Patreon paid] RELATIONSHIP REDOX #11: LEARNING ABOUT ONE ANOTHER | https://www.patreon.com/DrJackKruse/posts/relationship-11-33148492
+- 2019-12-17 [Patreon paid] HYPOXIA #1: WHY IS HYPOXIA AND LOW NAD+ LINKED TO AGING AND DISEASE? | https://www.patreon.com/DrJackKruse/posts/hypoxia-1-why-is-32419906
+- 2019-12-01 [Patreon paid] RELATIONSHIP REDOX #10: THE END | https://www.patreon.com/DrJackKruse/posts/relationship-10-31981905
+- 2019-11-12 [Patreon paid] RELATIONSHIP REDOX #9: SAYING GOODBYE | https://www.patreon.com/DrJackKruse/posts/relationship-9-31498453
+- 2019-10-31 [Patreon paid] RELATIONSHIP REDOX #8: DOES FRIENDSHIP AND LOVE PLAY A MAJOR ROLE IN YOUR REDOX STATE AND HEALTH? | https://www.patreon.com/DrJackKruse/posts/relationship-8-27916877
+- 2019-10-12 [Patreon paid] RELATIONSHIP REDOX #7: "Life is the dancer and we are the dance." | https://www.patreon.com/DrJackKruse/posts/relationship-7-30696001
+- 2019-10-06 [Patreon paid] RELATIONSHIP REDOX #6: SHOES | https://www.patreon.com/DrJackKruse/posts/relationship-6-30531751
+- 2019-10-03 [Patreon paid] RELATIONSHIP REDOX #5: PROTON GRADIENTS ARE FOUNDATIONAL TO YOUR LIFE | https://www.patreon.com/DrJackKruse/posts/relationship-5-30463995
+- 2019-09-29 [Patreon paid] RELATIONSHIP REDOX #4: WHAT IS MY WISDOM OF MY CIRCLE OF SIX CONCEPT? | https://www.patreon.com/DrJackKruse/posts/relationship-4-27721043
+- 2019-09-25 [Patreon paid] RELATIONSHIP REDOX #3: LOST IN TIME | https://www.patreon.com/DrJackKruse/posts/relationship-3-30221646
+- 2019-09-11 [Patreon paid] RELATIONSHIP REDOX #2: To separate or settle for less than you deserve | https://www.patreon.com/DrJackKruse/posts/relationship-2-29873363
+- 2019-08-21 [Patreon paid] RELATIONSHIP REDOX Rx #1: ATTRACTION VS CONNECTION | https://www.patreon.com/DrJackKruse/posts/relationship-rx-29325438
+- 2018-10-22 [Patreon paid] QT#21: DOES MITOCHONDRIAL WATER HAVE A MEMORY? | https://www.patreon.com/DrJackKruse/posts/qt-21-does-water-22227855
+- 2018-05-17 [Patreon paid] CPC #27: THE CIRCADIAN MECHANISM AND NAD+ | https://www.patreon.com/DrJackKruse/posts/cpc-27-circadian-18855002
+- 2018-03-09 [Patreon paid] CPC #19: MITOCHONDRIAC CREDO #21 | https://www.patreon.com/DrJackKruse/posts/cpc-19-credo-21-17457867
+- 2018-02-07 [Patreon paid] CPC #15: BLOOD IS A MAGNETOHYDRODYNAMIC FLUID THAT LINKS THE SUN TO YOUR MITOCHONDRIA | https://www.patreon.com/DrJackKruse/posts/cpc-15-blood-is-16858093
+- 2017-10-27 [Patreon paid] REALITY #18: THE SUN: THE MITOCHONDRIAC BASICS | https://www.patreon.com/DrJackKruse/posts/reality-18-sun-14847705
+- 2017-10-20 [Patreon paid] REALITY # 17: MITOCHONDRIAC LESSON: WHAT THEY DIDN'T SAY | https://www.patreon.com/DrJackKruse/posts/reality-17-what-14951187
+- 2017-08-24 [Patreon paid] WHY IS THE SUN ELECTRIC AND NOT NUCLEAR? WHY DO MITOCHONDRIACS CARE? | https://www.patreon.com/DrJackKruse/posts/why-is-sun-and-14026221
+
+## Supplements, peptides, drugs, methylene blue (7)
+- 2026-09-09 [Patreon paid] DECENTRALIZED PHYSICS #8: THE USE OF PEPTIDES, SUPPLEMENTS, AND DRUGS ARE BIOLOGICAL LANDAUER ATTACKS | https://www.patreon.com/DrJackKruse/posts/decentralized-8-168083053
+- 2025-04-02 [Patreon paid] DECENTRALIZED MEDICINE #40: METHYLENE BLUE USE AND TURBOCANCER RISKS | https://www.patreon.com/DrJackKruse/posts/decentralized-40-124743154
+- 2024-06-13 [Patreon paid] DECENTRALIZED MEDICINE #4: AT THE 13N LATITUDE WE NEED TO BAN FOLIC ACID SUPPLEMENTATION | https://www.patreon.com/DrJackKruse/posts/decentralized-4-105885624
+- 2024-04-07 [Patreon paid] DECENTRALIZED MEDICINE #2: CAN SUPPLEMENTS OPERATE WITHOUT MARCHING ORDERS FROM YOUR MASTER? | https://www.patreon.com/DrJackKruse/posts/decentralized-2-101877266
+- 2018-05-02 [Patreon paid] QT #5: MARIJUANA, CANCER, APOPTOSIS = INFORMATION LOSS | https://www.patreon.com/DrJackKruse/posts/qt-5-marijuana-18528162
+- 2018-04-04 [Patreon paid] QUANTUM THERMODYNAMICS #2: WHY STOPPING ORAL VIT. D3 IN A 5G WORLD IS WISE | https://www.patreon.com/DrJackKruse/posts/quantum-2-why-d3-17961485
+- 2018-02-27 [Patreon paid] CPC #17: WILL COFFEE BE WISE IN A 5G WORLD? | https://www.patreon.com/DrJackKruse/posts/cpc-17-will-be-17225978
+
+## Free Patreon bodies archived locally (/workspace/kruse-archive/patreon-free/)
+- 2026-03-27 [Patreon free] DECENTRALIZED MEDICINE #100: THE DARK FORCE OF LIFE | https://www.patreon.com/DrJackKruse/posts/decentralized-of-151952280
+- 2025-09-10 [Patreon free] DECENTRALIZED MEDICINE #72: THE EYES IN FRONTOTEMPORAL DYSPLASIA | https://www.patreon.com/DrJackKruse/posts/decentralized-72-138604132
+- 2025-06-06 [Patreon free] HISTORY IMPROVES YOUR ABILITY TO COMPREHEND | https://www.patreon.com/DrJackKruse/posts/history-improves-130819477
+- 2025-05-04 [Patreon free] STEALING SOMEONE'S TIME IS THE GREATEST THEFT YOU CAN PERPETRATE | https://www.patreon.com/DrJackKruse/posts/stealing-time-is-128089087
+- 2025-04-18 [Patreon free] DECENTRALIZED MEDICINE #43: THE HEALING LIGHT | https://www.patreon.com/DrJackKruse/posts/decentralized-43-126936955
+- 2024-01-26 [Patreon free] February 2019: ALS and nnEMF pollution | https://www.patreon.com/DrJackKruse/posts/february-2019-77747119
+- 2024-01-11 [Patreon free] BITCOIN #44: GO WAKE UP YOUR LUCK | https://www.patreon.com/DrJackKruse/posts/bitcoin-44-go-up-96272020
+- 2023-05-14 [Patreon free] HOW DOES TRANSGENERATIONAL EPIGENETICS CREATE DISEASE VIA POMC? | https://www.patreon.com/DrJackKruse/posts/how-does-create-82984738
+- 2023-05-04 [Patreon free] IMPLICATIONS OF THE RUBIN/HUBERMAN MEETING? | https://www.patreon.com/DrJackKruse/posts/implications-of-82507324
+- 2023-03-26 [Patreon free] QUANTUM ENGINEERING #35: THE EPILOGUE OF MY NEW BOOK | https://www.patreon.com/DrJackKruse/posts/quantum-35-of-my-80565970
+- 2023-03-11 [Patreon free] QUANTUM ENGINEERING #32: HAPPY BIRTHDAY MR. RUBIN | https://www.patreon.com/DrJackKruse/posts/quantum-32-happy-79874736
+- 2023-01-04 [Patreon free] HOW DO ASSUMPTIONS SHAPE US? | https://www.patreon.com/DrJackKruse/posts/how-do-shape-us-76776167
+- 2022-12-25 [Patreon free] MERRY CHRISTMAS 2022 TRIBE: QUANTUM ENTANGLEMENT | https://www.patreon.com/DrJackKruse/posts/merry-christmas-76359537
+- 2022-05-15 [Patreon free] THE HISTORY OF EL SALVADOR AND BITCOIN | https://www.patreon.com/DrJackKruse/posts/history-of-el-66454636
+- 2022-03-09 [Patreon free] QUANTUM ENGINEERING #5: WHAT IS REDOX & WHY IT MATTERS | https://www.patreon.com/DrJackKruse/posts/quantum-5-what-63551458
+- 2022-03-04 [Patreon free] OUR REBIRTH = "RENACER" at the 13 latitude | https://www.patreon.com/DrJackKruse/posts/our-rebirth-at-63365368
+- 2021-01-15 [Patreon free] MAKING YOUR BONE BROTH STRONGER AT HOME | https://www.patreon.com/DrJackKruse/posts/making-your-bone-46249434
+- 2020-12-31 [Patreon free] 2021 RESOLUTIONS FOR MY TRIBE........ | https://www.patreon.com/DrJackKruse/posts/2021-resolutions-45482507
+- 2020-11-16 [Patreon free] BARIATRIC SURGERY 101: Consider the SUN before the knife | https://www.patreon.com/DrJackKruse/posts/bariatric-101-43960513
+- 2020-04-14 [Patreon free] HYPOXIA #8: WHAT IS THE REMEDY FOR COVID-19? THE TRUTH. | https://www.patreon.com/DrJackKruse/posts/hypoxia-8-what-35928481
+- 2019-07-30 [Patreon free] DO YOUR FOOD EXPERTS REALLY HAVE A CLUE ABOUT THEIR BLINDSPOTS? | https://www.patreon.com/DrJackKruse/posts/do-your-food-28763772
+- 2019-07-01 [Patreon free] It's Back! Optimized Cooking eCookbook | https://www.patreon.com/DrJackKruse/posts/its-back-cooking-26536795
+- 2019-03-17 [Patreon free] LESSON LEARNED AT KRUSE LONGEVITY CENTER | https://www.patreon.com/DrJackKruse/posts/lesson-learned-25430111
+- 2019-02-20 [Patreon free] CPC #41: 5G's LINK TO PHYSICIAN SUICIDES | https://www.patreon.com/DrJackKruse/posts/cpc-41-5gs-link-24834979
+- 2018-12-24 [Patreon free] MY 2018 REGRETS ON CHRISTMAS EVE | https://www.patreon.com/DrJackKruse/posts/my-2018-regrets-23527192
+- 2018-11-27 [Patreon free] Productivity measures are destroying patients and doctors | https://www.patreon.com/DrJackKruse/posts/productivity-are-17514303
+- 2018-11-18 [Patreon free] CPC #35 : THE WOMAN CODE: FOOD/SKIN/MAKEUP | https://www.patreon.com/DrJackKruse/posts/cpc-35-woman-22778967
+- 2018-11-09 [Patreon free] GUESS THE EFFECT PRESENT ON THIS SMEAR? | https://www.patreon.com/DrJackKruse/posts/guess-effect-on-22618146
+- 2018-05-30 [Patreon free] Vermont 2018 on 6/2 is going be epic. | https://www.patreon.com/DrJackKruse/posts/vermont-2018-on-19125129
+- 2018-05-04 [Patreon free] WATER AS A MIRROR? | https://www.patreon.com/DrJackKruse/posts/water-as-mirror-18600762
+- 2018-03-23 [Patreon free] 5G: WHAT WE ARE UP AGAINST FROM A TECHIE: | https://www.patreon.com/DrJackKruse/posts/5g-what-we-are-17716623
+- 2017-12-01 [Patreon free] LIVE CT Q & A on 12/17/17 FOR YOU! | https://www.patreon.com/DrJackKruse/posts/live-ct-q-on-12-15650482
+- 2017-09-19 [Patreon free] How do you get inspired? | https://www.patreon.com/DrJackKruse/posts/how-do-you-get-14459299
+- 2017-09-04 [Patreon free] Blue Blocking glass news from Dr. Kruse | https://www.patreon.com/DrJackKruse/posts/blue-blocking-dr-14208404
+- 2017-08-10 [Patreon free] HOW DO YOU VIEW DR. GOOGLE? | https://www.patreon.com/DrJackKruse/posts/how-do-you-view-13784381
+- 2017-07-18 [Patreon free] More proof why the eye is the key to metabolic rate of the brain and body: | https://www.patreon.com/DrJackKruse/posts/more-proof-why-13095292

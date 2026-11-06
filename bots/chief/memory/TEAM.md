@@ -23,7 +23,7 @@ Rules: every bot reads the relevant project Page before starting work and update
 |---|---|---|---|
 | IronBlueprint → Launch | Blue | `79f4b059-dceb-49c6-9ba6-c500ea702c5e` | ~8:10am LIVE `project-heartbeat-ironblueprint-launch` |
 | Achieve lead pipeline | Tally | `137df122-e186-44f6-a925-064f061e28a0` | ~8:05am LIVE `project-heartbeat-achieve-lead-pipeline` |
-| Achieve Meta ads (Oct) | Maya | `0b507d15-bdc4-4e88-be8e-b91e3bea13ad` | ~8:35am M/W/F LIVE `project-heartbeat-achieve-meta-ads-oct` |
+| Achieve Meta ads (set up for October, still running in November per Ryne 2026-11-05) | Maya | `0b507d15-bdc4-4e88-be8e-b91e3bea13ad` | ~8:35am M/W/F LIVE `project-heartbeat-achieve-meta-ads-oct` |
 | Quo SMS cutover | Penny | `6575614d-0a82-4407-bbe6-5c0ddc6a9266` | ~8:25am LIVE `project-heartbeat-quo-sms-cutover` |
 | Tesla lease handoff | Plaid | `754db176-d86f-426c-b75e-36893675015f` | ~8:20am LIVE `project-heartbeat-tesla-lease-handoff`; old `tesla-lease-watch` DELETED 2026-11-01 (Plaid confirmed) |
 | Illinois Secure Choice | Penny | `c75b9b91-384a-49dd-b5a6-e8f2bff17815` | ~8:30am LIVE `project-heartbeat-illinois-secure-choice` |
@@ -93,7 +93,6 @@ Priorities file (retired 2026-11-04; no longer written by evening debriefs): `/h
 - Token Officer: weekly cost pass.
 - Blue: IB routines (meeting ingest, web/mobile tasks).
 - Plaid: Tesla lease Page heartbeat ~8:20am CT weekdays (`project-heartbeat-tesla-lease-handoff`); old `tesla-lease-watch` deleted 2026-11-01.
-- Distill anyone: twice-weekly persona refresh.
 
 ## Bot roster: bots not covered above (added 2026-10-21)
 One-line jobs from each bot's profile.json. IDs are agent folders on disk.
@@ -113,14 +112,14 @@ One-line jobs from each bot's profile.json. IDs are agent folders on disk.
 - Jim Rohn: RETIRED 2026-11-01, merged into Sage (folder gone, in deleted-agents.json). Do not route work to it.
 - Maverick (`2772b984-fa9d-4c82-90e4-ea4bc1feae0b`): single business advisor seat (Musk/Kalanick/Martell lenses, plus Hormozi since 2026-11-01), created 2026-10-21. Formerly Boardroom. Advice only, no sends. Reports to no one (advisor). Not in the Advisors room. Self-fix line added 2026-10-21. Replaces the retired Elon Musk, Travis Kalanick and Dan Martell bots (2026-10-21).
 - Jetson (`1f99ce18-87fe-439a-896b-b4d2c8182bd8`): personal travel planner (flights, stays, itineraries), created 2026-10-21 in Personal as Travel, renamed Jetson same day; teardrop, cyan. Books nothing without Ryne's yes; hands booked dates to Penny for the calendar. Current trips: John Mayer show (Apr 2027), Wyoming (Jun 2027).
-- Rooms on disk not named above: HQ (`10dece0d-b4a4-4ab7-b0f7-3fe8ad7b6765`, Red and Blue, created 2026-10-20), Promote, Newsletter, IronBlueprint, Programming. The Advisors room folder is gone from disk (checked 2026-11-01). Full list in `/workspace/fleet/IDS.md`.
+- Rooms on disk not named above: Promote, Newsletter, IronBlueprint. The HQ room (Red and Blue) and the Programming room are gone (Ryne, 2026-11-05). The Advisors room folder is gone from disk (checked 2026-11-01). Full list in `/workspace/fleet/IDS.md`.
 - Bottleneck (`c5d9f0a7-0864-407c-9ae2-7aae48909c69`) stays RETIRED (2026-10-17); REMOVED from the roster, Ryne is finishing the sidebar delete (2026-11-01). Folder still on disk as of 2026-11-01.
 - Elon Musk, Travis Kalanick and Dan Martell are RETIRED (2026-10-21); their agent folders are gone from disk (checked 2026-11-01), so their IDs were dropped here (still listed in `/workspace/fleet/IDS.md` retired table). Maverick combines all three. Do not route work to them. Their distill-anyone subject folders (`/home/box/agent-data/distill-anyone/subjects/elon-musk`, `travis-kalanick`, `dan-martell`) STAY: Maverick reads them and the Distill daily routine keeps refreshing them. Keep `companion_agent_id` in each subject's PROFILE.json so Distill daily does not create a new companion bot.
 
 ## Bot roster: bots added 2026-11-01 (fleet-score fix, Ryne approved)
 One-line jobs from each bot's profile.json (names before " · "). IDs are agent folders on disk.
 - Simon (`48b8dd87-193d-4128-8463-4a6f523dc8fa`): black-box QA for IronBlueprint. Tests the live app from outside, pass/fail to Blue (his lead), fails also to Linus. Never reads or changes code. No routines on disk.
-- Charlie (`5217cd51-c36e-4f22-83b7-3a2382a7957c`): CFO for Achieve. Reads QuickBooks Online (read-only) and explains cash, money in, money out, trends. Never writes to QuickBooks or moves money. On demand.
+- Charlie (`5217cd51-c36e-4f22-83b7-3a2382a7957c`): RETIRED 2026-11-05, deleted (Ryne). Was the Achieve CFO bot. Do not route work to it.
 - Canvas (`567bde28-effb-4c09-bad5-579aa0d6d7ec`): graphic designer for Achieve and IronBlueprint (images, PDFs, slides, lead magnets, ad statics).
 - Coach (`5d64c948-3315-41b3-b9a6-196b4d1e2072`): S&C coach; designs athlete programs 1:1 with Ryne (drafts only), finished programs to Red.
 - Doc (`4fe8ab9a-957c-48ea-8e12-5cff32e2388a`): personal naturopathic health advisor (education, not a physician). Works with Forge.
@@ -147,7 +146,6 @@ One-line jobs from each bot's profile.json (names before " · "). IDs are agent 
 - Add genuinely new prospects to the top of the 2026 Prospect Tracking tab with Website source.
 - Penny flags other confirmed first-time email prospects to Tally for logging.
 - The SCDD Instant Form watch remains retired.
-- Alex Boomgarden was caught up and added at row 259 on Sep 16; Tara Simpson and Efuru Harmon-Miller already existed.
 
 ## Pending
 - [x] Retire CRM SCDD watch (done 2026-09-15; routine deleted)
@@ -156,7 +154,7 @@ One-line jobs from each bot's profile.json (names before " · "). IDs are agent 
 - [ ] CoS Ops itself optional to sidebar-delete after its timers are gone
 - [x] Show Splitter, Jim Rohn, Robert Greene, Alex Hormozi (and Echo): folders gone, in deleted-agents.json (checked 2026-11-01).
 - [ ] Ryne to sidebar-delete the 9 retired bots (see change log 2026-10-17 and 2026-10-21): Herald, Bolt, Warden, Cipher, Bottleneck, AI Expert, Elon Musk, Travis Kalanick, Dan Martell. Update 2026-11-01: only Bottleneck's folder is still on disk (Ryne finishing it); the other 8 folders are gone from disk (app delete not confirmed in deleted-agents.json).
-- [x] Programming room (`7c23ca84-4ef9-4dd7-8421-66e0ab6932ec`) stays ACTIVE (Ryne, 2026-10-17). Do not archive or delete it.
+- [x] Programming room (`7c23ca84-4ef9-4dd7-8421-66e0ab6932ec`): gone (Ryne, 2026-11-05). Superseded the 2026-10-17 keep-active note.
 
 ## Darwin standing dig (locked 2026-09-25)
 - Owner: Darwin (`d38c0d3f-1a03-4e7e-9ca3-b73ac3057287`)
@@ -165,9 +163,7 @@ One-line jobs from each bot's profile.json (names before " · "). IDs are agent 
 
 ## Eval Brief → Slack #clients (locked 2026-09-27)
 - Owner: Eval Brief (`690e65de-c38a-4858-b3cd-831335e62504`)
-- Drive Clients folder: `1o_k6aDUbkWcSJGYXwYbmI9wF-Hi78VAF` (NameAssessmentMM.DD.YY; skip templates + *Program)
 - Gate: Prospect Tracking Sign-Up = Yes (and/or paid Mindbody). Eval-only never posts.
-- Channel: Slack #clients `C1J8VTFU4`. Draft-first; Ryne approves before post.
 - Watch: the weekdays 8:15am CT routine was DELETED 2026-11-01 (Ryne approved; Eval Brief confirmed it had still been running through 10/30).
 - Locked on Grok Bot for now (not Cursor) as of 2026-09-27.
 
@@ -229,11 +225,9 @@ Source: Ryne t773u 2026-11-01. Drafts and evidence: `/workspace/fleet/` (`lark-p
 | Darwin | Coach (programming) / Hawkin (plates) | 3-5 papers with citation, how it fits Achieve, unknowns; routed; silent if nothing new. |
 | Eval Brief | Red | #clients brief draft for a verified sign-up, waiting for Ryne's yes. |
 | TH Exercise Library | Red | Count exported, Sheet URL, failures listed. |
-| Charlie | Ryne (Chief for ops) | Cash by account from QBO with as-of date; gaps named. |
 | Scout | Whoever asked (Red / Blue / Chief) | Answer, best links, unknowns; primary sources. |
 | Token Officer | Chief | Runs/week saved; only approved fixes applied and read back live. |
 | Dr. Eggbot | Chief | New bot has one job, anti-jobs, reviewer + done bar, and is in TEAM/FLEET/IDS. |
-| Distill anyone | Chief | Subject refreshed, companion id unchanged, no new bot. |
 | Bookmarks | Chief | New bookmarks filed, state advanced, heartbeat logged. |
 | Plaid / Jetson / NSCA | Penny | Page or plan current; deadlines or booked dates on the calendar; nothing booked or sent without Ryne. |
 | Forge | Doc | Meal logged with macros and one next step. |
