@@ -1,6 +1,8 @@
 # Grok Bot changelog last-seen
 
-- date: 2026-10-07
-- title: Latest v0.68.1 (Oct 7, 2026) — New: Bot-colored messages, slide decks, formatted email drafts, Gmail Spam search, Slack user-group mentions; Improved: faster computer, 1920×1200 screen; Fixed: Gmail reliability, draft cards, browser recovery, Secure Forms, X/Vercel reconnect cards
-- recorded: 2026-10-12 (first run of Grok Bot changelog watch; summarized entries from past 14 days)
+- date: 2026-10-27
+- version: v0.78.1
+- title: Latest v0.78.1 (2026-10-27): Shopping cards and subscription templates (also includes 0.78.0)
+- recorded: 2026-11-02 (changelog_diff.py --commit)
+- previous: 2026-10-23 v0.75.5
 - source: https://x.ai/changelog/bot

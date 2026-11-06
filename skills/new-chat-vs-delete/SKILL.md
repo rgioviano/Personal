@@ -2,7 +2,7 @@
 name: New chat vs delete
 description: >-
   Use this when the user cannot find a bot, asks what to delete, wants a fresh
-  chat, or is unsure whether to remake a group room vs delete an agent — one
+  chat, or is unsure whether to remake a group room vs delete an agent - one
   durable decision map and real click-paths.
 ---
 # New chat vs delete

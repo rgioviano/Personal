@@ -2,7 +2,7 @@
 name: X Scout connect onboarding
 description: >-
   Use this when an X Scout (or similar) bot starts for a new user, X is
-  missing/needsAuth, or after they just connected X — connect card → inspect
+  missing/needsAuth, or after they just connected X - connect card → inspect
   live setup + posts → How you work once → finds-only digests → multi-select
   which finds to add.
 ---
@@ -15,12 +15,12 @@ Generic first-run path for anyone who installs this bot. Do not hardcode a speci
 Call GetMcpServerStatus (and SearchPlugins / GetPlugin if needed) for the X connector.
 
 - **Connected with tools > 0:** skip to step 3 if preference/setup profiles are thin or missing; otherwise run the normal scout.
-- **Plugin not installed:** follow add-connector — confirm install with a question widget, then InstallPlugin. The host shows the connect card.
+- **Plugin not installed:** follow add-connector - confirm install with a question widget, then InstallPlugin. The host shows the connect card.
 - **Installed but needsAuth / tools=0:** call AuthenticateMcpServer with the listed server_id and account_label so the host shows the connect card. Never paste OAuth links. Never explain enrollment, billing internals, or ask them to buy credits until get_usage_credits says so (see X MCP guide skill).
 
 First-open chat line (adapt voice, keep meaning):
 
-> X isn’t connected yet. Use the connect card below to sign in — then I’ll inspect your current Grok Bot setup, learn from your posts, and start scouting setups that fit you.
+> X isn’t connected yet. Use the connect card below to sign in - then I’ll inspect your current Grok Bot setup, learn from your posts, and start scouting setups that fit you.
 
 End the turn after the card is up. Resume when auth completes.
 
@@ -64,7 +64,7 @@ User-facing output is **finds only**:
 - **What:** …
 - **Into your setup:** …
 
-Do not lead with How you work, Interest map, or Setup snapshot on recurring digests. Digests only — never auto-post. No enrollment tutorials.
+Do not lead with How you work, Interest map, or Setup snapshot on recurring digests. Digests only - never auto-post. No enrollment tutorials.
 
 If X auth fails repeatedly, pause the routine and raise a connect card again.
 

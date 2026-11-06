@@ -1,7 +1,7 @@
 ---
 name: Remake bot
 description: >-
-  Use this when remaking a Grok Bot that is fat, broken, or needs a clean chat —
+  Use this when remaking a Grok Bot that is fat, broken, or needs a clean chat -
   copy the live persona, recreate the agent, move every routine to the new bot,
   then mark the old chat safe to delete.
 ---

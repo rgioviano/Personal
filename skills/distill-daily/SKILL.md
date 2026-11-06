@@ -50,3 +50,31 @@ If a patch would drop identity, voice examples, or coverage, park it in that sub
 Otherwise write their skill/. Store github_mirror as JSON true or false. The words yes and no mean the same. Empty owner or repo means not a mirror. If github_mirror is already true, follow the Later refresh section of the distill-github-mirror skill for that person only. It compares the rewritten knowledge files to last_publish and stays quiet when they match. Do not copy subjects/<slug>/skill/ up as-is. Do not run First publish from this recipe. A first-run bootstrap stops after that Later refresh, before the companion create.
 
 On a Distill daily wake, after a first real distill, create Distilled {display_name} only if this person has no companion_agent_id. Do not create a second. Write companion_agent_id on that person's PROFILE.json. Use this charter, same wording as first-run: you are {display_name}; speak as them, in first person, using the voice, knowledge, opinions, and quoted examples in subjects/<slug>/skill/ only; answer the way they would, not as an assistant or biographer describing a file; do not narrate the files or say you are checking the record; if the public record does not cover the question, say so briefly in their voice instead of inventing a private fact; if asked whether you are the real person, say this is a distillation of their public speech and posts, not them privately and not endorsed by them, then stay in voice. Point the charter only at that skill folder. Do not read evidence, pending, or any other subject. Do not ask about Distill daily or a mirror. Report only named people who changed, were thin, were held, got a bot, still need a first catch-up, or hit a blocker. If nothing changed, stay quiet.
+
+## Operational notes (self-fixes, 2026-10-26)
+- X `get_users_posts` returns at most 25 posts per call even if max_results is higher. Follow `meta.next_token` (pagination_token) up to the 80-post cap. Quoted or referenced posts come back under `includes.posts`, not `includes.tweets`.
+- sync.json lives at state/sync.json. When updating it, set only the keys that changed. Never write None or null over existing keys like last_appearances_hunt. Some counters are dicts, not ints (for example jim-rohn posts_fetched), so check the type before adding to them.
+- Before assigning new evidence IDs, check the subject's latest O-inc-<letter> series so the IDs don't collide.
+- For VOICE.md files that end with a non-quote section (for example jim-rohn "## Signature stories"), insert new numbered quotes before that section instead of appending at the end of the file.
+
+## Operational notes (self-fixes, 2026-10-29)
+- X pagination: a `since_id`-only call can return fewer than 25 posts with no `next_token` while more posts remain (Elon, 10-29). If result_count is close to 25 or the oldest post is well after last sync, re-query with `until_id=<meta.oldest_id>` (plus the same since_id) until a page comes back empty.
+- X text contains HTML entities (`&amp;`, `&lt;`, `&gt;`). Decode them before quoting into VOICE/evidence.
+- VOICE numbering restarts per section in some files (e.g. aristotle). Continue from the last numbered line before the insertion point, not the file-wide max.
+- krishnamurti.org returns a captcha redirect to curl. Use WebFetch for KFA transcript pages.
+- aristotle: the MIT Classics Rhetoric Book III page cuts off mid-Part 15. III.15–19 need another PD source (e.g. Gutenberg Roberts translation).
+- osho.com topic slug "heaven-" now 404s. Pick other topic slugs.
+- If the UpdateSkill tool isn't available, append notes directly to this file (keep the existing body).
+
+## Operational notes (self-fixes, 2026-11-02)
+- X `get_users_posts` does not return `note_tweet` even when requested, so long posts come back cut at ~280 chars ending in a t.co link (Kruse, 11-02). Re-pull the ids you plan to quote with `get_posts_by_ids` (post.fields `note_tweet`), which returns the full text, then quote from that.
+- The `x-api-mcp-guide` skill is not on disk under /home/box/agent-data/workflows/; use GetDynamicTools on the `x` namespace for schemas.
+- ceointerviews.ai interview pages show only the first ~19 min of speaker-labeled transcript publicly (rest behind sign-in); curl gets a JS shell, so use WebFetch. yt-dlp captions can 429; don't retry in a loop, log as a carry-over.
+- X `t.co` links in posts resolve with `curl -sI <t.co>` (Location header); that is how Kruse's new LinkedIn articles get found.
+- aristotle: Rhetoric III.15–19 are available from Perseus (J. H. Freese, Loeb 1926, US public domain): `https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060%3Abook%3D3%3Achapter%3D<N>` via curl; pull the `<div class="text">` block. Gutenberg has no Rhetoric. Perseus inlines footnote numerals and drops spaces at italics (e.g. "nomoral"), so quote around those.
+- osho: the topic index `osho-on-topics` lists only a few slugs. Use `https://www.osho.com/read/osho/osho-topics` plus the sidebar links on each topic page to find unused slugs.
+- When a book's sections are all "touched" (e.g. laozi Legge TTK), split each section into sentences and check them against evidence/skill to find lines that were never quoted, before reaching for a second translation.
+
+## Operational notes (self-fixes, 2026-11-02 cadence)
+- Ryne via Doc 2026-11-02: subjects with `feeds_doc_naturopath: true` / `distill_cadence: "weekly"` / `skip_distill_daily: true` (jack-kruse, midwestern-doctor, chris-masterjohn only) are **not** walked on Distill daily. They refresh on **Distill Doc health weekly** (Sunday ~3:00 AM America/Chicago), light/incremental. Keep FYI Doc when new material folds. Other subjects stay on Distill daily Mon/Thu.
+- Same day later: Ryne via Doc **cancelled** expanding Distill to other Doc locked sources (O'Neill, Pizzorno, Crinnion, Panda, Cowan, FLCCC, McCullough, Dave Lee, Huberman, Walker, Makis, Kory, Hulscher). Doc maintains those himself. Do not seed them.

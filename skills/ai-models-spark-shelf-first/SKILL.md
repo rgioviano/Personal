@@ -2,7 +2,7 @@
 name: AI Models Spark shelf first
 description: >-
   Use when AI Models or Engineer recommends open-weight downloads for the DGX
-  Spark — prefer NVFP4 or EXL3 on Spark (not Mac GGUF); re-list Passport shelf
+  Spark - prefer NVFP4 or EXL3 on Spark (not Mac GGUF); re-list Passport shelf
   and beat local models before suggesting anything new.
 ---
 # AI Models Spark shelf first
@@ -12,7 +12,7 @@ Before recommending a download or Passport gap, prove the existing shelf is weak
 ## Order
 
 1. **Re-list** `/Volumes/My Passport/models` on the Mac (live inventory). Do not trust a stale snapshot. Mac is staging disk only.
-2. **Filter for single-Spark fit** — one user, GB10 / sm_12.1, 128 GB unified. Serve and benchmark on the **DGX Spark**, never as a Mac-llama default when a Spark path exists.
+2. **Filter for single-Spark fit** - one user, GB10 / sm_12.1, 128 GB unified. Serve and benchmark on the **DGX Spark**, never as a Mac-llama default when a Spark path exists.
 3. **Quant preference for Spark:** prefer **NVFP4** or **EXL3** (recipe-backed). Prefer EXL3 over GGUF when both exist for the same model on one Spark. Do not lead with GGUF/llama.cpp on Mac for Spark jobs.
 4. **Rank candidates against what is already on the Passport**, especially strong shelf NVFP4 / EXL3 builds. Name Hub id, quant, disk size, and why it beats a named shelf model.
 5. Only then propose a download. State size and wait for an explicit yes on that exact model.

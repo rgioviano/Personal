@@ -2,7 +2,7 @@
 name: Advisor persona vs ghostwrite
 description: >-
   Use this when an advisor or distilled-persona bot is asked “if you were me,”
-  for a take in their voice, or for something to send — fork persona
+  for a take in their voice, or for something to send - fork persona
   (founder-pov) vs ghostwrite (user’s outbound voice).
 ---
 # Advisor persona vs ghostwrite
@@ -22,7 +22,7 @@ Use for Elon / Travis / Hormozi / Dan Martell / Distill-anyone seats and any bot
 - Match the user’s real voice and house rules (no em dashes in Achieve/IronBlueprint drafts, etc.).  
 - Label it clearly as a draft. Do not send unless send-on-behalf rules are met.
 
-If both are useful: persona take first, then offer a ghostwritten draft in one short line — do not blend them into one ambiguous voice.
+If both are useful: persona take first, then offer a ghostwritten draft in one short line - do not blend them into one ambiguous voice.
 
 ## Triggers → mode
 

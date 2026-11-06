@@ -2,6 +2,16 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-11-05
+- Full sync from Grok Bot (Ryne asked 2026-11-05 for the repos to be an exact copy of what is running now, including current routines). Not limited to the last 7 days.
+- `skills/`: re-copied every skill from the Grok Bot library that belongs in this repo; removed skills that left the library; em dashes swapped for hyphens and non-business email addresses replaced.
+- `bots/`: `INSTRUCTIONS.md` regenerated from each bot's current profile.json; new `ROUTINES.md` per bot with its current schedule map; stale on-disk automation.json copies removed; folders for retired or renamed bots removed (git history keeps them).
+- AGENTS.md and START-HERE.md: the weekly brain repo update now merges into main after `brain_lint.py` passes (Ryne, 2026-11-04).
+- `08-bot-fleet/fleet.md`: roster synced to current profile names (Spot, Metric added; Echo, Show Splitter, Alex Hormozi, Robert Greene, Jim Rohn retired 2026-11-01); routines section rebuilt (6:50am priorities deleted 2026-11-04; briefs in 1:1 chats; Monday usage check-in and monthly fleet score times added; Eval Brief and Tesla watch deletions).
+- `08-bot-fleet/IDS.md`: replaced with the box copy of 2026-11-01 plus a 2026-11-05 note.
+- NOW.md and `01-profile-preferences/profile.md`: brief destinations, no priorities, Echo retired, auto-merge.
+- `bots/chief/memory/TEAM.md` refreshed from the box (2026-11-04 evening); `tomorrow-priorities.md` removed (retired 2026-11-04).
+
 ## 2026-10-31
 - Weekly brain audit (second run). Covered 2026-10-24 to 2026-10-31. Branch `brain-audit-2026-10-31` is built on `brain-v1`, so it also carries the 2026-10-24 audit commit, which reached `brain-v1` (PR #2) after PR #1 had already merged into `main`. Opened as a PR into `main`. Not merged.
 - NOW.md: normal working mode since 2026-10-30; Page-based project management; 2026-10-30 fleet rules; approve-before-saving rule; inbox sorting runs daily and its first score; weekly box backup; NSCA certification year updated and CEU count conflict flagged.
