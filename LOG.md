@@ -2,6 +2,13 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-11-05 (follow-up)
+- Follow-up to the full sync (Ryne answered the sync questions 2026-11-05 8:47pm CT).
+- Bot memory files (profile, logs, reference notes) synced from the box after a scrub: lines naming clients, athletes or leads, any email address or phone number that is not a public business one, and client health or family details were dropped. Em dashes swapped for hyphens. No secrets.
+- Retired: Charlie (deleted), Distill anyone (deleted, with its twice-weekly persona refresh), the Programming and HQ rooms (gone). `bots/distill-anyone/` removed (git history keeps it). fleet.md, IDS.md, NOW.md and the repo copy of Chief's TEAM.md updated.
+- `skills/jack-kruse/` added (Ryne approved 2026-11-05, even though it mentions his own health habits).
+- Maya's Meta ads heartbeat confirmed still running in November.
+
 ## 2026-11-05
 - Full sync from Grok Bot (Ryne asked 2026-11-05 for the repos to be an exact copy of what is running now, including current routines). Not limited to the last 7 days.
 - `skills/`: re-copied every skill from the Grok Bot library that belongs in this repo; removed skills that left the library; em dashes swapped for hyphens and non-business email addresses replaced.

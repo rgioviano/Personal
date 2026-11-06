@@ -25,8 +25,8 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `05-learning-certs/` | NSCA CSCS recertification, courses, engineering and local AI learning |
 | `06-family/` | Empty placeholder. Ryne fills it himself if he wants |
 | `08-bot-fleet/` | Every bot, its job, standing routines, fleet rules, pending fleet items, and `IDS.md` (live IDs) |
-| `bots/<name>/` | 20 fleet and personal bots and rooms: `INSTRUCTIONS.md` (from profile.json) and `ROUTINES.md` (current schedule map), plus Chief's TEAM.md. Retired bots were removed 2026-11-05 (git history keeps them) |
-| `skills/<slug>/SKILL.md` | 62 fleet skills (index in README.md) |
+| `bots/<name>/` | 20 fleet and personal bots and rooms: `INSTRUCTIONS.md` (from profile.json) and `ROUTINES.md` (current schedule map), plus scrubbed memory files (Chief's TEAM.md, Scout, Sage, Token Officer; synced 2026-11-05). Retired bots (including Distill anyone, 2026-11-05) were removed 2026-11-05 (git history keeps them) |
+| `skills/<slug>/SKILL.md` | 63 fleet skills (index in README.md) |
 
 Achieve and IronBlueprint bots live in those repos, not here.
 

@@ -1,43 +1,34 @@
-# October 2026 Meta Ads — M/W/F packet (MONTH 01)
-ACTIVE as of 2026-10-01 · For CoS daily briefs · 45–60 min Mon/Wed/Fri · $500/mo · $16.40/day
+# November 2026 Meta Ads - M/W/F packet (RESET 2026-11-02: Swim dryland by Thu Nov 5)
+ACTIVE as of 2026-11-02 · For CoS daily briefs · 45–60 min Mon/Wed/Fri · Source: /workspace/achieve-meta-ads/2026-11-november-mwf.md · Strategy only; Lark owns in-platform
 
 ## Month card
-**Job:** Fill sessions finished by 10:00 a.m. Keep current HS girls on Foundation. Do not start in-season HS girls on 2×/week.
-**Offers:**
-- Cold adults → Essential, 3-month, **$279/mo**, session before 10:00 a.m.
-- Cold youth (multi-sport + boys) → Build, 6-month, **$309/mo**
-- Warm girls → Foundation, 3-month, **$229/mo**; book a **Nov 16 Build screen** on the same call
-**Budget/sets:** $200 Cold Adults / $150 Cold Youth / $150 Warm · daily cap $16.40
-**Magnets:** Keep Your Swimmer in the Water (warm) · Winter Power Checklist (youth)
-**Form qualifier:** adult / multi-sport athlete / current Achieve swimmer · adults pick 5:30–7 / 7–8:30 / 8:30–10 only
-**Targets:** 8–12 new Essential or non-girl Build conversations · 15–25 girls on Foundation through Nov 1 · mornings less empty than week 1 · ~70% of new Oct revenue = morning Essential or non-girl Build
-**Extra rule:** Adult only wants 5pm → waitlist/remote. Do not book. No boosts. Quote $/mo WITH term.
+**Job:** One Swim Parents dryland Instant Form lead ad, live target **Thu Nov 5**. Prior Quiet/Warm+Adults phase-1 and Build-on-the-16th packet is **overridden** (Ryne Promote 2026-11-02).
+**Audience:** Naperville parents of HS/club swimmers - **boys and girls**. Geo: ZIPs 60540, 60563, 60564, 60565 (people living there). Never Aurora.
+**Budget:** **$700 lifetime**, **Nov 5 – Dec 4** (~$23/day if even).
+**Offer:** evening eval sold as measurement (force-plate jumps first; dryland plan from those numbers). CTA Book now. **No prices. No school names.**
+**Adults:** later (not this ad). Adult waitlist stays cut when adult ads return.
+**Copy:** Quill package approved in Promote (gender-neutral "their").
+**Creative:** 9:16 video preferred; still OK if no cut by Thu. Canvas/Ryne supply; Lark attaches.
+**Ads Manager names (Lark):** Campaign `ASP | Leads | Always-On` · Ad set `ASP | Naperville | Swim Parents` · Ad `Nov | Swim Dryland | Video` (or Still) · Form `Nov Swim`.
+**Hard rule:** Nothing spends until Meta is connected, creative is attached, and Ryne publishes / says go. Lark builds paused drafts first. No boosts.
 
-**Day 1 of month (Thu Oct 1):** Ads Manager launch — build only what MONTH 01 specifies: one Leads campaign, three sets ($200 Cold Adults / $150 Cold Youth / $150 Warm), three cold ads (A/B/C below), Instant Forms tagged Essential|Build|Foundation, Pixel+CAPI live, adult screens only before 10. Do not invent extra sets or spend above $16.40/day.
-
-**Ad A/B/C hooks this month:**
-- Ad A: “Done by 10” → Essential $279/mo mornings
-- Ad B: “Power is a skill” → Build $309/mo multi-sport + boys
-- Ad C: “Practice owns the week” → Foundation $229/mo in-season girls
+**Kill/keep:** ~$90 or less per booked eval from CRM (Tally); pause around $150+/booked or ~$300 spent with 0–1 bookings. Raise only with Ryne yes.
 
 ---
 
-## Monday (45–60) — Scoreboard + lead clear
-1. Log: leads · CPL · booked · showed · closed · package closed · morning slots filled next 2 weeks
-2. Also: % current HS girls still paying (target 70% by Nov 1) · Nov 16 Build screens already on calendar · % new Oct $ that is morning Essential or non-girl Build (target 70%)
-3. Clear lead queue: every lead >2 hrs has next step (0–15m SMS, Hour 2 SMS+PDF, Hour 24 call, Day 3/5). Adult times only before 10
-4. Confirm no in-season HS girl was closed on Build; adult screens finish by 10am only
+## Monday (45–60) - Scoreboard + lead clear
+1. Log: spend vs $700 · leads · CPL · booked · showed · closed · boys vs girls if form captures it
+2. Confirm only Swim Parents set is spending (until adults added later)
+3. Lead clear: every lead >2 hrs has next step (Max/Penny)
+4. Pre-Nov 5: confirm Meta connected, creative attached, paused draft ready; nothing live until Ryne says go
 
-## Wednesday (45–60) — Hook + chase
-1. One new hook from THIS month’s package only — rotate among Ad A / Ad B / Ad C above (same offer, new first line only)
-2. Midweek follow-ups due today; on warm girl calls always offer Nov 16 Build screen
-3. Answer public ad comments; if cold freq ≥3.5 and CTR falling, flag Friday kill/keep
+## Wednesday (45–60) - Creative + chase
+1. Creative/frequency check; chase unbooked leads into eval slots this week or next
+2. Confirm Sectionals/State calendar doesn't strand leads (evening evals)
 
-## Friday (45–60) — Kill/keep + next week
-1. Kill or keep each ad; screenshot. Kill if CPL >2× month target after 8 leads, or 5 no-shows in a row
-2. Day 14 / Day 30 leads → Warm set
-3. Open next week’s morning screen times (before 10 only); keep Nov 16 Build holds visible
-4. Confirm Oct Instant Forms still tagged Essential|Build|Foundation
-5. One-line note for Monday: what won / died / which set needs a challenger
+## Friday (45–60) - Kill/keep + pace
+1. Kill/keep screenshot
+2. Pace vs remaining lifetime budget and Dec 4 end date
+3. Flag creative refresh if frequency climbs on the 4-ZIP audience
 
-Hard rules every block: no boosts · budget change ≤20% inside 72h · no adults after 10 · HS girls Foundation through Nov 14 / Build from Nov 16 · don’t spend the month’s budget in 10 days · daily $16.40
+Hard rules every block: no boosts · never Aurora · no prices in ads/forms · don't invent metrics · adults before 10 a.m. when adult ads return

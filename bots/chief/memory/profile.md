@@ -9,7 +9,6 @@
 - (2026-09-11) Ryne's full name is Ryne Gioviano.
 - (2026-09-11) Achieve/gym emails: Hi FirstName, answer first, Thanks, plain CSCS, no site line; shorter personal; Numa: Hi FirstName + 1–3 short sentences.
 - (2026-09-11) Never use em dashes in Ryne's Achieve/IronBlueprint email, Numa, or chat drafts; use periods, commas, or parentheses instead.
-- (2026-09-11) Achieve training sessions: 24-hour cancellation policy for all clients (including Aria); late cancel or no-show under 24 hours charged after one courtesy.
 - (2026-09-11) On Administrative briefs (PA Schedules 5:30/1:30 and CoS 6:45 evening debrief): surface important email deadlines in the brief and add them as calendar events on the right calendar (Achieve/contact → Work; personal Gmail → Personal; IronBlueprint → Work/IB). Skip unimportant mail.
 - (2026-09-12) Administrative briefs (PA Schedules, CRM Watch, CoS priorities and evening debrief): any list must be bulleted (Calendar, Asana, Basecamp, Email Triage, Numa, SCDD boards, wrap-up lists).
 - (2026-09-12) Ryne often goes to bed late and must wake later to get enough sleep, so early-morning workouts are unreliable until Night Routine consistently sticks (lights-out closer to 10–10:30).

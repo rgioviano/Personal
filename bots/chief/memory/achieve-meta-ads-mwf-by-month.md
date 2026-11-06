@@ -1,17 +1,17 @@
-# Achieve Meta Ads — M/W/F 45–60 min blocks (month-specific)
+# Achieve Meta Ads - M/W/F 45–60 min blocks (month-specific)
 Oct 2026 – Sep 2027 · $500/mo · $16.40/day
 Standing cadence always applies; month chapter changes the offers, sets, targets, and Monday metrics.
 
 ## Standing rhythm (every month)
-### Monday — Scoreboard + lead clear (45–60)
+### Monday - Scoreboard + lead clear (45–60)
 1. Log this month's scoreboard (see month card for extra metrics)
 2. Every lead >2 hrs has next step (SMS/call per plan cadence); adult times only before 10am
 3. Confirm adult screens finish by 10am; open times next 2 weeks
-### Wednesday — Hook + chase (45–60)
-1. One new hook for THIS month's package (same offer — new first line only)
+### Wednesday - Hook + chase (45–60)
+1. One new hook for THIS month's package (same offer - new first line only)
 2. Due follow-ups (24h / Day 3 / Day 5)
 3. Answer public comments; note creative refresh if freq ≥3.5 + CTR falling
-### Friday — Kill/keep + next week (45–60)
+### Friday - Kill/keep + next week (45–60)
 1. Kill/keep; screenshot (CPL >2× target after 8 leads, or 5 no-shows → kill)
 2. Day 14/30 → Warm
 3. Prep next week screens + note for Monday
@@ -20,13 +20,13 @@ Hard rules always: no boosts · budget change ≤20%/72h · no adults after 10 �
 
 ---
 
-## SEP 2026 PRE-LAUNCH — SCRAPPED 2026-09-23
+## SEP 2026 PRE-LAUNCH - SCRAPPED 2026-09-23
 Ryne: not enough time for a September campaign month. Remaining days before Oct 1 = **October Day 1 launch prep only** (not Sep spend).
 **Prep checklist (any day until Oct 1):** Pixel+CAPI live · Oct Instant Forms Essential/Build/Foundation · 3 cold ads A/B/C locked · Foundation keep-paying text to current girl parents (through Nov 14) · adult screens only before 10 · Nov 16 Build holds open · 3 Reels if time (morning adult · in-season girl · jump screen)
 
 ---
 
-## MONTH 01 — OCT 2026 · Morning Essential · Foundation for girls
+## MONTH 01 - OCT 2026 · Morning Essential · Foundation for girls
 **Job:** Fill mornings by 10. Keep girls on Foundation. No in-season HS girls on 2×.
 **Offers:** Essential $279/3-mo (cold adults) · Build $309/6-mo multi-sport+boys (cold youth) · Foundation $229/3-mo warm girls (+ book Nov 16 Build screen on same call)
 **Budget:** $200 Cold Adults / $150 Cold Youth / $150 Warm · daily $16.40
@@ -46,7 +46,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 02 — NOV 2026 · Quiet, then Build on the 16th
+## MONTH 02 - NOV 2026 · Quiet, then Build on the 16th
 **Job:** Nov 1–14 state week quiet; Nov 16 restart to Build
 **Offers Nov 1–14:** Warm + Cold Adults only (~$200). Girls: champs plan + Nov 16 Build screen. No launch creative.
 **Offers Nov 15–30:** ~$300 remaining. Just-finished girls Build $309 · Foundation $229 if 1× · boys Foundation/Build · multi-sport Build $309 · keep morning Essential
@@ -66,7 +66,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 03 — DEC 2026 · Book January mornings
+## MONTH 03 - DEC 2026 · Book January mornings
 **Job:** Adults decide in Dec; start first week of Jan before 10. Take $279 as month one now.
 **Offers:** Essential $279/3-mo or Essential $199/12-mo if they lock year
 **Budget:** $300 Cold Adults / $120 Warm / $80 creative
@@ -83,7 +83,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 04 — JAN 2027 · Club and boys championships
+## MONTH 04 - JAN 2027 · Club and boys championships
 **Job:** Nov 16 Build girls stay. Ads → club short-course + IHSA boys.
 **Offers:** Foundation $229 if taper/1× · Build $309 if 2× holds
 **Budget:** $340 Cold Swim / $100 Warm / $60
@@ -99,7 +99,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 05 — FEB 2027 · Spring Build
+## MONTH 05 - FEB 2027 · Spring Build
 **Job:** Boys in season stay Foundation unless they ask. Cold → baseball/lacrosse/track/soccer/volleyball club.
 **Offers:** Build $309/6-mo
 **Budget:** $360 Cold / $90 Warm / $50
@@ -115,7 +115,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 06 — MAR 2027 · Morning Essential
+## MONTH 06 - MAR 2027 · Morning Essential
 **Job:** Adults who missed January. Same morning block.
 **Offers:** Essential $279/3-mo · Active $379 only if both days finish by 10
 **Budget:** $320 Cold Adults / $120 Warm / $60
@@ -131,12 +131,12 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 07 — APR 2027 · Swim off-season · Build
+## MONTH 07 - APR 2027 · Swim off-season · Build
 **Job:** Swimmer-growth month. Yardage drops; 2× fits.
 **Offers:** Build $309/6-mo · Foundation $229 if 1× only
 **Budget:** $350 Cold Swim / $100 Warm / $50
 **Magnet:** Pre-Season Dryland Blueprint
-**Targets:** (per plan chapter — Build/Foundation starts from screen)
+**Targets:** (per plan chapter - Build/Foundation starts from screen)
 
 ### Mon Apr
 - Scoreboard: swim Build vs Foundation · off-season starts
@@ -147,7 +147,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 08 — MAY 2027 · Lock summer on Build
+## MONTH 08 - MAY 2027 · Lock summer on Build
 **Job:** Multi-sport off-season. Put 6 months on calendar before vacation.
 **Offers:** Build $309/6-mo or $289/12-mo if lock year
 **Budget:** $330 Cold / $100 Warm / $70
@@ -163,7 +163,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 09 — JUN 2027 · Summer swim
+## MONTH 09 - JUN 2027 · Summer swim
 **Job:** Highest swim intent. Close Foundation or Build from screen.
 **Offers:** Build $309 if 2× · Foundation $229 if summer league owns week
 **Budget:** $380 Cold Swim / $80 Warm / $40
@@ -175,11 +175,11 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 ### Wed Jun
 - Hook: summer racing dryland / already practice not LTS / not leftover deck push-ups
 ### Fri Jun
-- Kill/keep; hottest CPL month — protect daily $16.40 (don't blow budget in 10 days)
+- Kill/keep; hottest CPL month - protect daily $16.40 (don't blow budget in 10 days)
 
 ---
 
-## MONTH 10 — JUL 2027 · Morning adults · Masters
+## MONTH 10 - JUL 2027 · Morning adults · Masters
 **Job:** Keep mornings full while families travel. Essential + hybrid +$59 when gone.
 **Offers:** Essential $279/3-mo · Active $379 only if both mornings · hybrid +$59
 **Budget:** $300 Cold Adults / $120 Warm / $80 Masters test
@@ -191,11 +191,11 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 ### Wed Jul
 - Hook: vacation ≠ lose July / Masters mornings / one evaluation
 ### Fri Jul
-- Kill/keep; evaluate Masters $80 test set — keep or kill
+- Kill/keep; evaluate Masters $80 test set - keep or kill
 
 ---
 
-## MONTH 11 — AUG 2027 · Last clean window, then Foundation
+## MONTH 11 - AUG 2027 · Last clean window, then Foundation
 **Job:** First contest Aug 21. Girls on Build only if start before 21st. After 21st new HS girls → Foundation. Morning Essential keeps filling.
 **Spend:** ~$300 before 21st / $200 after
 **Sets before 21:** Cold Swim + Cold Multi-sport + Warm
@@ -214,7 +214,7 @@ Ryne: not enough time for a September campaign month. Remaining days before Oct 
 
 ---
 
-## MONTH 12 — SEP 2027 · Foundation and referrals
+## MONTH 12 - SEP 2027 · Foundation and referrals
 **Job:** Girls season on. Harvest warm. Ask Foundation families for club kid/sibling. If cold swim CPL >$40 by day 10 → leftover to morning Essential.
 **Offers:** Warm Foundation $229/3-mo · Referral: $50 off month one for referred; free re-screen for referrer
 **Budget:** $200 Lookalike / $200 Warm / $100 Cold Adults
