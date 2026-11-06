@@ -24,7 +24,7 @@ Skip empty headings. Never post the brief in Administrative.
 
 ## Calendar
 
-1. Pull Personal, Work, Achieve Mindbody (`c_fef09087722dbbc1c9f8fbd060f8fedd345c3837388c858758268befb6126ca4@group.calendar.google.com`), Exercise, High School, Events as needed.
+1. Pull Personal, Work, Achieve Mindbody (connector calendar, id not stored here), Exercise, High School, Events as needed.
 2. Always include IronBlueprint via `list_events` with `calendarId` `ryne@ironblueprint.app` (missing from `list_calendars`). If free/busy only, mark **UNVERIFIED**; never invent attendees or titles.
 3. **No Asana.** Basecamp only if overdue/actionable (account `6223040`); skip if empty.
 4. Same-day MindBody waitlists vs openings. Never book/cancel unless Ryne names the person and says to.
@@ -42,7 +42,7 @@ Skip empty headings. Never post the brief in Administrative.
 
 Cover work, contact@, personal, IronBlueprint. Short list: name + one-line why. Chase only when last outbound asked a question and thread is still Inbox. Archive alone wins. Waiting only if last send asked a question; confirm/FYI/close → no Waiting. Star, Important, and archive rules come from the Morning inbox triage section of [Gmail Waiting vs Follow-Up](sand-workflow:gmail-waiting-vs-follow-up).
 
-**Lead forms (Ryne 2026-10-19 / file handoff 2026-11-01):** subjects starting with `Lead Form -` are always VERY important: mark Important (no star), then archive (Tally searches archived mail and reads the triage `lead_form` bucket). CRM owns Lead Form sheet rows. Do not message Tally about new leads; the 6:15 triage output is the handoff. **Always archive as noise:** WordPress "update plugins failed"; password-reset request emails. Skip SCDD. Never revive SCDD. Never recreate Tesla lease draft to Sofia Sevilla.
+**Lead forms (Ryne 2026-10-19 / file handoff 2026-11-01):** subjects starting with `Lead Form -` are always VERY important: mark Important (no star), then archive (Tally searches archived mail and reads the triage `lead_form` bucket). CRM owns Lead Form sheet rows. Do not message Tally about new leads; the 6:15 triage output is the handoff. **Always archive as noise:** WordPress "update plugins failed"; password-reset request emails. Skip SCDD. Never revive SCDD. Never recreate the Tesla lease draft.
 
 ## Numa / Quo
 

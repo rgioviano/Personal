@@ -59,13 +59,13 @@ NOT_PROMISE = [
     r"\bI'?ll be (?:out|away|traveling|travelling|off|there|honest)\b", r"\bI will be (?:out|away|traveling|off|there)\b",
     r"\bwe'?ll (?:miss|be closed)\b", r"\bif (?:you|they|he|she) will\b", r"\bwill you\b", r"\bI wish\b",
 ]
-# built-in skip list (Ryne, 2026-10-23): student observation requests, Jean Page, Claire Lindstrom intake, Sofia Sevilla
-SKIP = ["Brooke-Lynn Murray", "Anna Van Hauter", "North Central observation", "Jean Page", "Claire Lindstrom",
-        "Sofia Sevilla"]
+# built-in skip list (Ryne, 2026-10-23): student observation requests.
+# Named people are not stored in this file.
+SKIP = ["North Central observation"]
 SKIP_REGEX = [r"north\s+central.{0,80}observ", r"observ.{0,80}north\s+central"]
-MY_ADDRESSES = ["ryne@achievesportsperformance.com", "ryne@achieve-personaltraining.com",
-                "contact@achievesportsperformance.com", "contact@achieve-personaltraining.com",
-                "rgioviano@gmail.com"]  # add IronBlueprint addresses here before scanning that account
+# Only addresses brain_lint already allows. Do not add a personal mailbox here.
+MY_ADDRESSES = ["ryne@achievesportsperformance.com",
+                "contact@achievesportsperformance.com", "contact@achieve-personaltraining.com"]
 # ----------------------------------------------------------------------------------------------------------
 
 PROMISE_RX = [re.compile(p, re.I) for p in PROMISE_PHRASES]
