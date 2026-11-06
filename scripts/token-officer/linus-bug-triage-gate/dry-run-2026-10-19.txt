@@ -1,0 +1,2 @@
+2026-10-19 15:59 CT  #bugs top-level msgs in window: 3  untracked: 0 | open Bugs cards: 18  untracked: 0
+DECISION: SKIP (nothing new in #bugs or on the Bugs board) - no Linus run

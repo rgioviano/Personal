@@ -1,0 +1,24 @@
+2026-10-19 15:59 CT  open PRs: {'frontend-website': 1, 'nodejs-backend': 8, 'nexus-ai-agent': 0}  already-reviewed keys in state: 7
+DECISION: WAKE Linus (2 PR(s) need review)
+[DRY RUN] would POST wake to Linus webhook (WAKE_URL) with:
+{
+ "bot": "Linus",
+ "routine": "IronBlueprint PR review",
+ "reason": "unreviewed PRs",
+ "prs": [
+  {
+   "pr": "IronBluePrint/nodejs-backend#7",
+   "title": "Bump body-parser and express",
+   "head_sha": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+   "why": "new commits since last review",
+   "url": "https://github.com/IronBluePrint/nodejs-backend/pull/7"
+  },
+  {
+   "pr": "IronBluePrint/nodejs-backend#99",
+   "title": "TEST new PR",
+   "head_sha": "abcabcabcabcabcabcabcabcabcabcabcabcabca",
+   "why": "new PR",
+   "url": "test"
+  }
+ ]
+}

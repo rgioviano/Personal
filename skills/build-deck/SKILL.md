@@ -8,7 +8,7 @@ A self-contained HTML slide deck. Agency deliverable, not a purple-gradient AI t
 
 If the Ryze AI connector is missing, stop. Add `https://connector.get-ryze.ai/mcp`. Wait. No live data → say so and stop; do not mock numbers.
 
-Write one complete HTML file and attach it. Slides 1280×720. Hard cap 20; normal 5–9. One idea per slide. Never mix identities: Bold Signal, Electric Studio, Dark Botanical, Vintage Editorial, Terminal Mono.
+Write one complete HTML file and attach it. Slides 1280×720. Hard cap 20; normal 5-9. One idea per slide. Never mix identities: Bold Signal, Electric Studio, Dark Botanical, Vintage Editorial, Terminal Mono.
 
 Cover title is the conclusion. Numbers first. No purple gradients, no cards-in-cards.
 

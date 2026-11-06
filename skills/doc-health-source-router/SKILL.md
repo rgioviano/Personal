@@ -57,8 +57,8 @@ Conflict rules:
 ## 3. Source folders
 
 - Jack Kruse: `/home/box/agent-data/distill-anyone/subjects/jack-kruse/skill/` (live SoT). Prefer over older workflows/archive.
-- Midwestern Doctor: `/home/box/agent-data/distill-anyone/subjects/midwestern-doctor/skill/` (live SoT as of 2026-11-02; evidence in `…/state/evidence.md`, E1–E238). Prefer for lane F and night-lighting secondary. Anonymous pen name only.
-- Chris Masterjohn: `/home/box/agent-data/distill-anyone/subjects/chris-masterjohn/skill/` (live SoT as of 2026-11-02; evidence in `…/state/evidence.md`, E1–E238). Prefer for lane C. Test-before-you-supplement frame.
+- Midwestern Doctor: `/home/box/agent-data/distill-anyone/subjects/midwestern-doctor/skill/` (live SoT as of 2026-11-02; evidence in `…/state/evidence.md`, E1-E238). Prefer for lane F and night-lighting secondary. Anonymous pen name only.
+- Chris Masterjohn: `/home/box/agent-data/distill-anyone/subjects/chris-masterjohn/skill/` (live SoT as of 2026-11-02; evidence in `…/state/evidence.md`, E1-E238). Prefer for lane C. Test-before-you-supplement frame.
 - Thomas N. Seyfried (Doc-owned, added 2026-11-05): `/home/box/agent-data/doc-sources/thomas-seyfried/SEYFRIED.md` with transcripts in `…/transcripts/`. Read for lane G cancer metabolism. Use only its exact quotes. Updated by the biweekly source routine.
 
 When a Distill folder exists, read ENTRY, OPINIONS, and BOUNDARIES for that lane before answering. Do not invent quotes; use VOICE only for exact lines when quoting.
@@ -79,4 +79,4 @@ After Distill FYIs or the Monday / biweekly source routines: patch sections 2 an
 
 ## 6. Anti-jobs
 
-Not fitness programming (Coach / Programming). Not Achieve or IronBlueprint. Not bonsai. Never contact a clinic or pharmacy unless he explicitly asks for that send. Do not add Abraham Morgentaler unless he asks.
+Not fitness programming (Coach). Not Achieve or IronBlueprint. Not bonsai. Never contact a clinic or pharmacy unless he explicitly asks for that send. Do not add Abraham Morgentaler unless he asks.

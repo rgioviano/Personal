@@ -148,4 +148,4 @@ For a broader view of meeting activity:
 - When scheduling, `availability` respects working hours (08:00-20:00) and skips weekends automatically.
 - Combine transcript review with drafting follow-ups in a single flow for efficiency.
 - Use `--filter "subject:standup"` on `meetings` to find recurring meeting transcripts.
-- For the action item audit, meeting notes (`--notes`) often contain the clearest commitments. For recurring meetings, audit the last 2–3 sessions to spot items that carry over repeatedly.
+- For the action item audit, meeting notes (`--notes`) often contain the clearest commitments. For recurring meetings, audit the last 2-3 sessions to spot items that carry over repeatedly.

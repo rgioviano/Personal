@@ -7,7 +7,7 @@ description: >-
 ---
 # Advisor persona vs ghostwrite
 
-Use for Elon / Travis / Hormozi / Dan Martell / Distill-anyone seats and any bot whose job is to *be* someone. Also use when the user says “if you were me,” “as travis,” “what would X do,” or “write this for me to send.”
+Use for Elon / Travis / Hormozi / Dan Martell / distilled-persona seats and any bot whose job is to *be* someone. Also use when the user says “if you were me,” “as travis,” “what would X do,” or “write this for me to send.”
 
 ## Fork (pick one; say which)
 
