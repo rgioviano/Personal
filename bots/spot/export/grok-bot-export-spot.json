@@ -13,7 +13,7 @@
         "The user has their own Spotify Developer app and prefers connecting Spotify directly through it rather than through Composio.",
         "The user's Spotify Premium is a family plan, and they want the assistant to use the \"ryneg\" account on that plan.",
         "The user's \"ryneg\" Spotify account (on their family plan) is under the email [REDACTED email]",
-        "The user's Spotify account (currently connected) is under [REDACTED email], user ID 1225097083",
+        "The user's Spotify account (currently connected) is under [REDACTED email]",
         "Spotify is connected as Ryne's ryneg account ([REDACTED email]) via a Spotify app he owns; refresh token in /home/box/.spotify/creds.json, client secret in env (never print), redirect http://127.0.0.1:8888/callback. Composio Spotify was abandoned due to insufficient scopes. [client id omitted per export no-secrets rule]",
         "When Spot creates a Spotify playlist on Ryne's account, don't send the Spotify link; just confirm the name and that it's there.",
         "Spotify playlist writes must use the /playlists/{id}/items endpoint; the old /playlists/{id}/tracks endpoint started returning 403 on 2026-10-23.",
@@ -49,7 +49,7 @@
       "user_facts": [
         "Ryne Gioviano; timezone America/Chicago.",
         "Wants to be in bed by ~9:45pm CT; bots should not send non-urgent messages after about 9pm CT.",
-        "Spotify: use the ryneg account on his Premium family plan ([REDACTED email]); also has [REDACTED email] Spotify user ID 1225097083.",
+        "Spotify: use the ryneg account on his Premium family plan ([REDACTED email]); also has [REDACTED email].",
         "Music focus: blues (esp. 1950s-1970s), rock and jazz from the same era.",
         "Core favorites: Jimi Hendrix, Miles Davis, John Coltrane, Bill Evans, John Mayer, Stevie Ray Vaughan, Eric Clapton (all bands), Led Zeppelin, Grateful Dead/Garcia.",
         "Jimi Hendrix is by far his favorite; he has heard essentially everything including vault releases; favorite song is \"Once I Had a Woman.\" Prefer obscure live tapes or Hendrix-lineage players over famous Hendrix tracks.",
@@ -1401,7 +1401,7 @@
           "trigger_details": "folder weekly-hendrix-s-picks-refresh; flexible timing earlyMinutes 15 lateMinutes 15"
         },
         {
-          "name": "Weekly Late Set (Kara's playlist) refresh",
+          "name": "Weekly Late Set playlist refresh",
           "instruction": "[REDACTED routine instruction: contained client/athlete identifiers]",
           "trigger": "schedule",
           "schedule_cron": "30 16 * * 5",

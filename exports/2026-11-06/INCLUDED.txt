@@ -1,5 +1,7 @@
-COMPLETENESS.md
-SHA256SUMS.txt
+exports/2026-11-06/COMPLETENESS.md
+exports/2026-11-06/INCLUDED.txt
+exports/2026-11-06/REVIEW.md
+exports/2026-11-06/SHA256SUMS.txt
 bots/chief/export/grok-bot-export-chief-part1.json
 bots/chief/export/grok-bot-export-chief-part2.json
 bots/doc/export/grok-bot-export-doc.json
