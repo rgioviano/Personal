@@ -14,12 +14,14 @@ A second read covered custom and private skill bodies plus personal fields (memo
 
 Committed byte sizes:
 
+Wave3 replaced the Maverick export. The Maverick size below is that later committed file. The other wave1 exports were left as they were.
+
 - `bots/chief/export/grok-bot-export-chief-part1.json` bytes=5994973
 - `bots/chief/export/grok-bot-export-chief-part2.json` bytes=4441710
 - `bots/doc/export/grok-bot-export-doc.json` bytes=110087
 - `bots/forge/export/grok-bot-export-forge.json` bytes=88041
 - `bots/jetson/export/grok-bot-export-jetson.json` bytes=167744
-- `bots/maverick/export/grok-bot-export-maverick.json` bytes=7222
+- `bots/maverick/export/grok-bot-export-maverick.json` bytes=9525699
 - `bots/midori/export/grok-bot-export-midori.json` bytes=91972
 - `bots/nsca/export/grok-bot-export-nsca.json` bytes=48855
 - `bots/scout/export/grok-bot-export-scout.json` bytes=9669045

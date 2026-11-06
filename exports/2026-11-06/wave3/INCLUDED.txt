@@ -1,0 +1,8 @@
+exports/2026-11-06/wave3/COMPLETENESS.md
+exports/2026-11-06/wave3/INCLUDED.txt
+exports/2026-11-06/wave3/REVIEW.md
+exports/2026-11-06/wave3/SHA256SUMS.txt
+bots/bookmarks/export/grok-bot-export-bookmarks.json
+bots/dr-eggbot/export/grok-bot-export-dr-eggbot.json
+bots/maverick/export/grok-bot-export-maverick.json
+bots/plaid/export/grok-bot-export-plaid.json
