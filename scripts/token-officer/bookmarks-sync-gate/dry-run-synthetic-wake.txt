@@ -1,0 +1,10 @@
+2026-10-19 15:59 CT  X bookmarks scanned: 98  Notion rows: 107  not yet filed: 1
+DECISION: WAKE Bookmarks (1 new)
+[DRY RUN] would POST wake to Bookmarks webhook (WAKE_URL) with:
+{
+ "bot": "Bookmarks",
+ "routine": "x-bookmarks-sync then mental-models-synthesis",
+ "new_post_ids": [
+  "2999999999999999999"
+ ]
+}

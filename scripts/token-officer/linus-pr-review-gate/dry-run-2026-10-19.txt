@@ -1,0 +1,2 @@
+2026-10-19 15:59 CT  open PRs: {'frontend-website': 1, 'nodejs-backend': 6, 'nexus-ai-agent': 0}  already-reviewed keys in state: 7
+DECISION: SKIP (every open PR's head SHA is already in pr-review-state.json) - no Linus run

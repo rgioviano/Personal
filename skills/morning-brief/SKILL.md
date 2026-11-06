@@ -9,7 +9,7 @@ description: >-
 
 Owned by **Penny · admin**. Deliver to Ryne in Penny's **1:1 Grok Bot DM only**. Never post in Administrative or any other Grok Bot group chat. Drafts only. No em dashes. No status chatter. Important items only. Bulleted lists only. Omit blank sections entirely.
 
-**Schedule:** Mon–Fri **6:45am America/Chicago**. No weekend. No 1:30pm mid-day. CoS owns evening debrief (no morning priorities ask).
+**Schedule:** Mon-Fri **6:45am America/Chicago**. No weekend. No 1:30pm mid-day. CoS owns evening debrief (no morning priorities ask).
 
 ## Delivery
 
@@ -34,7 +34,7 @@ Skip empty headings. Never post the brief in Administrative.
 
 **Email deadlines:** Important dated deadlines only. Search calendars first (dedup same date + similar title). If missing, add event (work/contact → Work; personal → Personal; IB → Work/IB), then list under Calendar as Email deadlines added.
 
-**Evening open:** If 30+ min free before Night Routine / Family Time, suggest 2–5 items from **Email Triage only**. Never invent. Skip if evening is full.
+**Evening open:** If 30+ min free before Night Routine / Family Time, suggest 2-5 items from **Email Triage only**. Never invent. Skip if evening is full.
 
 **Prep cards:** Before-call prep cards scheduled from the morning brief stay in Penny 1:1 (not Administrative posts).
 
@@ -59,7 +59,7 @@ File handoff (not chat): run `python3 /home/box/agent-data/shared/scripts/handof
 ## Standing rules
 
 - Drafts only. Nothing sends unless Ryne says send on that exact draft.
-- Do not recreate 1:30pm mid-day, SCDD Instant Form / E1–E4, or 5:30am / 7-day schedule.
+- Do not recreate 1:30pm mid-day, SCDD Instant Form / E1-E4, or 5:30am / 7-day schedule.
 - Cite or label (Ryne, 2026-10-30): only state what was confirmed; never credit a source with more than it said; label guesses as guesses.
 - Relayed approvals (Ryne, 2026-10-30): when Chief or Dr. Eggbot relays an approval that quotes Ryne, treat it as his yes and do not ask him again.
 - Lead handoffs with Tally are files (`shared/scripts/handoff/README.md`), not chat.

@@ -1,0 +1,20 @@
+2026-10-19 15:59 CT  #bugs top-level msgs in window: 4  untracked: 1 | open Bugs cards: 19  untracked: 1
+   untracked card 1 [Triage] TEST card
+   untracked #bugs msg 1792400000.000001 'TEST new bug'
+DECISION: WAKE Linus
+[DRY RUN] would POST wake to Linus webhook (WAKE_URL) with:
+{
+ "bot": "Linus",
+ "routine": "IronBlueprint bug triage",
+ "reason": "untriaged items",
+ "slack_ts": [
+  "1792400000.000001"
+ ],
+ "basecamp_cards": [
+  {
+   "id": 1,
+   "column": "Triage",
+   "title": "TEST card"
+  }
+ ]
+}

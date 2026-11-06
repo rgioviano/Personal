@@ -73,7 +73,7 @@ Summarize for the user:
 - **Threads to raise:** unreplied or unresolved threads with attendees that relate to the meeting topic
 - **Attendees:** contact details for reference
 
-### Step 7 (optional, post-meeting): Meeting–email gap analysis
+### Step 7 (optional, post-meeting): Meeting-email gap analysis
 
 After the meeting, compare what was discussed against the email record to catch gaps. This step requires the meeting transcript to be available.
 

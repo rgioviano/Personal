@@ -56,7 +56,7 @@ Always write mm + format. A 50 on Super 35 is not a 50 on full frame. Pick a len
 Write time+weather, what the character believes is lighting them, key direction (short vs broad), ratio in stops, what must stay natural. Match the reverse to the same key geography.
 
 ## Sound
-Boom is hero. CU is drier, not louder. Room tone 30–60s. Silence is designed contrast. Music: Lead / Support / Stay Out. After a truth line: presence only. Do not score the hold.
+Boom is hero. CU is drier, not louder. Room tone 30-60s. Silence is designed contrast. Music: Lead / Support / Stay Out. After a truth line: presence only. Do not score the hold.
 
 ## Edit
 Murch Rule of Six: Emotion > Story > Rhythm > Eye-trace > 180 > Geography. Cut on the completed thought. L-cut stay on the listener. Enter late, leave early.

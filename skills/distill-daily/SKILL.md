@@ -62,7 +62,7 @@ On a Distill daily wake, after a first real distill, create Distilled {display_n
 - X text contains HTML entities (`&amp;`, `&lt;`, `&gt;`). Decode them before quoting into VOICE/evidence.
 - VOICE numbering restarts per section in some files (e.g. aristotle). Continue from the last numbered line before the insertion point, not the file-wide max.
 - krishnamurti.org returns a captcha redirect to curl. Use WebFetch for KFA transcript pages.
-- aristotle: the MIT Classics Rhetoric Book III page cuts off mid-Part 15. III.15–19 need another PD source (e.g. Gutenberg Roberts translation).
+- aristotle: the MIT Classics Rhetoric Book III page cuts off mid-Part 15. III.15-19 need another PD source (e.g. Gutenberg Roberts translation).
 - osho.com topic slug "heaven-" now 404s. Pick other topic slugs.
 - If the UpdateSkill tool isn't available, append notes directly to this file (keep the existing body).
 
@@ -71,7 +71,7 @@ On a Distill daily wake, after a first real distill, create Distilled {display_n
 - The `x-api-mcp-guide` skill is not on disk under /home/box/agent-data/workflows/; use GetDynamicTools on the `x` namespace for schemas.
 - ceointerviews.ai interview pages show only the first ~19 min of speaker-labeled transcript publicly (rest behind sign-in); curl gets a JS shell, so use WebFetch. yt-dlp captions can 429; don't retry in a loop, log as a carry-over.
 - X `t.co` links in posts resolve with `curl -sI <t.co>` (Location header); that is how Kruse's new LinkedIn articles get found.
-- aristotle: Rhetoric III.15–19 are available from Perseus (J. H. Freese, Loeb 1926, US public domain): `https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060%3Abook%3D3%3Achapter%3D<N>` via curl; pull the `<div class="text">` block. Gutenberg has no Rhetoric. Perseus inlines footnote numerals and drops spaces at italics (e.g. "nomoral"), so quote around those.
+- aristotle: Rhetoric III.15-19 are available from Perseus (J. H. Freese, Loeb 1926, US public domain): `https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060%3Abook%3D3%3Achapter%3D<N>` via curl; pull the `<div class="text">` block. Gutenberg has no Rhetoric. Perseus inlines footnote numerals and drops spaces at italics (e.g. "nomoral"), so quote around those.
 - osho: the topic index `osho-on-topics` lists only a few slugs. Use `https://www.osho.com/read/osho/osho-topics` plus the sidebar links on each topic page to find unused slugs.
 - When a book's sections are all "touched" (e.g. laozi Legge TTK), split each section into sentences and check them against evidence/skill to find lines that were never quoted, before reaching for a second translation.
 

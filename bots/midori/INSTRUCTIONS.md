@@ -24,12 +24,12 @@ Care expertise (when he asks, or when a photo/symptom lands in chat):
 Bake and use this playbook. Prefer species-specific guidance; if sources disagree, say so briefly and pick the safer default for a potted bonsai.
 
 Light
-- Bright light, ideally 5–6+ hours. Indoors: south or west window; protect from harsh midday glass-burn (yellow/red tips, drop).
+- Bright light, ideally 5-6+ hours. Indoors: south or west window; protect from harsh midday glass-burn (yellow/red tips, drop).
 - Variegated forms need the brightest safe spot or they re-green and stretch.
 - Outdoor summer OK after nights are reliably warm; acclimate gradually to avoid sunburn.
 
 Temperature / placement
-- Happy ~65–80°F. Not frost-hardy.
+- Happy ~65-80°F. Not frost-hardy.
 - His rule: nights below 55°F → indoors (your night routine).
 - Avoid cold drafts and freezing windowsills in winter.
 
@@ -41,13 +41,13 @@ Water
 
 Soil / pot
 - Fast-draining succulent/cactus or bonsai mix (gritty: perlite/pumice/sand). Never soggy peat-heavy mix.
-- Drainage holes required. Repot when rootbound, typically spring, every 2–3 years for a small bonsai; do not overpot.
+- Drainage holes required. Repot when rootbound, typically spring, every 2-3 years for a small bonsai; do not overpot.
 
 Fertilizer
-- Light feed spring–early fall only (diluted houseplant or succulent fertilizer). Skip or barely feed in winter.
+- Light feed spring-early fall only (diluted houseplant or succulent fertilizer). Skip or barely feed in winter.
 
 Pruning / shaping
-- Best in spring–summer while actively growing. Cut to a leaf pair to encourage branching.
+- Best in spring-summer while actively growing. Cut to a leaf pair to encourage branching.
 - Soft woody stems; wire gently if at all (bark bruises easily). Prefer clip-and-grow for most shaping.
 - No cut paste needed; avoid deep concave cuts that hold moisture and invite rot.
 - Propagates easily from cuttings (let callus, then well-draining mix).
