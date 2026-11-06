@@ -1,0 +1,14 @@
+89483d8fb46df5223f13d296b10d44802fac73f1e4f072d9cd9751d65557b9e7  Personal/COMPLETENESS.md
+7508f82560b406faf25ca0c6661391cb0cbc43335e1b7857e913ecb28c138305  Personal/bots/chief/export/grok-bot-export-chief-part1.json
+53bdf5104ecffcc1e87373942ec06c0fb1cd74e6df89e5cb2082c7546da2c4b2  Personal/bots/chief/export/grok-bot-export-chief-part2.json
+bdba7fe7b796108a2a612425b6a3bd5c8aff4163cce974ad88347b6d906bb3cb  Personal/bots/doc/export/grok-bot-export-doc.json
+7c65e4ab51f392882e56a5a20abf9d5f7978558fd28a29127ebd0514c5f1c7db  Personal/bots/forge/export/grok-bot-export-forge.json
+0776e28e7ddb4a8ad6bc2fd229c36dab1a84166167dcb49e6754f5b8d4c6e761  Personal/bots/jetson/export/grok-bot-export-jetson.json
+ad6d5c9c57ccbf05fd9bab5f9c37874d925c15f427b6f875fc440b6b6769967e  Personal/bots/maverick/export/grok-bot-export-maverick.json
+fdc87a7fc0fb0ff13f2d2db2605462aa3ddfc92afcd9667c4a9ad7afb6f527c0  Personal/bots/midori/export/grok-bot-export-midori.json
+92d05ec26c4666d2e051da244f32730da5bb5f6d093a127aa04dfb9d88268b16  Personal/bots/nsca/export/grok-bot-export-nsca.json
+2890128d12683323955bb6c99a1b7ee7c8f11b0cfccedb57ed972b43fd4fea7a  Personal/bots/scout/export/grok-bot-export-scout.json
+f594399813ee59b032daeef183d9ddb116a65de484f32791910c01a143414a2d  Personal/bots/splice/export/grok-bot-export-splice.json
+215ae1c98592f70e292526560337746d3b071f561260be27ad1ed98c1c60d798  Personal/bots/spot/export/grok-bot-export-spot.json
+4a0d987caeefef48209f8ce91fe032345767049939658473c2a6311a037a83e9  Personal/bots/token-officer/export/grok-bot-export-token-officer.json
+f9830b3c4733921d8b221e52053d4424a4c99e11590f47527a236739de3bd9a2  Personal/scripts/brain_lint.py
