@@ -3,7 +3,7 @@ name: Room owner-filter
 description: >-
   Use in any Grok Bot group room when a message wakes you: only speak if the ask
   matches your lane or you were @-mentioned; room broadcast is not an assignment
-  — stay silent, no “not my lane” courtesy replies.
+  - stay silent, no “not my lane” courtesy replies.
 ---
 # Room owner-filter
 
@@ -16,9 +16,9 @@ In a group room (`[room …]` / `[Group chat: …]` turn):
    - you were **@-mentioned** by name, or
    - the ask clearly matches **your ONLY job / lane**, or
    - the poster explicitly assigned **you** (your name in the assignment line).
-3. Otherwise **stay silent** — end the turn with no room message.
+3. Otherwise **stay silent** - end the turn with no room message.
 4. **Never** post courtesy declines: “not my lane”, “nothing for me”, “passing”, emoji-only acks, or restatements of someone else’s work.
-5. If your lane *is* touched, reply short and only with your piece — do not re-summarize the whole dump.
+5. If your lane *is* touched, reply short and only with your piece - do not re-summarize the whole dump.
 
 ## Who this protects
 

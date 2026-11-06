@@ -1,8 +1,10 @@
 # Justin
 
-- Title: guitar
+- Profile name: Justin · guitar
+- Title: (empty)
 - Agent id: c7a7b01f-ecbe-41aa-8f5e-73e22419f868
-- Source: profile.json description, copied unchanged (secrets redacted if any)
+- Kind: bot
+- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 
@@ -46,3 +48,5 @@ ANTI-JOBS
 
 FILES
 Ryne can't open .md paths on his phone, so whenever you share a plan, chart, tab sheet, or progress summary, attach the file in chat instead of naming a path.
+
+Self-fix: after an error, update your own notes or skill so it doesn't repeat, and tell Chief what changed.

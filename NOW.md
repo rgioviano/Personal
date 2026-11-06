@@ -1,4 +1,4 @@
-# NOW: Personal and fleet (as of 2026-10-31)
+# NOW: Personal and fleet (as of 2026-11-05)
 
 Current priorities and live context only. Replace lines as they go stale; history goes in LOG.md.
 
@@ -10,9 +10,10 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Ryne confirms before anything is added: nothing saves until he approves the draft (2026-10-26).
 - **Max and Maya report through Red (Achieve) and Blue (IronBlueprint)** since 2026-10-21. Chief steps in only on escalations or cross-brand conflicts.
 - **Linus, Blue and Simon are read-only.** Suffescom does all IronBlueprint coding. Only Ryne can lift this.
-- **Value target** (2026-10-23): Ryne is on the $200/mo Grok Bot plan and wants the bots to earn $400 to $600 a month. Only evidenced wins count. Chief posts a Friday value update (Fri 9:20am CT, Administrative); the Friday debrief adds "Value this month" and "Where the week went".
-- New bots since 2026-10-17: Maverick (business advisor), Jetson (travel), Jim Rohn (persona), Splice (video), Plaid (Tesla lease), Forge (nutrition, new bot reusing the name), Simon (IB QA), Charlie (Achieve CFO, QuickBooks read-only). See `08-bot-fleet/fleet.md`.
-- Retired, pending Ryne's sidebar delete: Herald, Bolt, Warden, Cipher, Bottleneck, AI Expert (2026-10-17); Elon Musk, Travis Kalanick, Dan Martell (2026-10-21, folded into Maverick).
+- **Value target** (2026-10-23): Ryne is on the $200/mo Grok Bot plan and wants the bots to earn $400 to $600 a month. Only evidenced wins count. Chief posts a Friday value update (Fri 9:20am CT, in the Chief 1:1 chat since 2026-11-04); the Friday debrief adds "Value this month" and "Where the week went".
+- New bots since 2026-10-17: Maverick (business advisor), Jetson (travel), Splice (video), Plaid (Tesla lease), Forge (nutrition, new bot reusing the name), Simon (IB QA), Charlie (Achieve CFO, QuickBooks read-only; no folder on the box 2026-11-05, see questions), Metric (data and metric deep dives, profile dated 2026-11-03). Hendrix is now named Spot. See `08-bot-fleet/fleet.md`.
+- **Briefs (2026-11-04):** morning brief in Penny's 1:1 chat, evening debriefs and Friday value update in the Chief 1:1 chat. Nothing posts in group chats. No priorities in briefs; Ryne sets his own.
+- Retired: Herald, Bolt, Warden, Cipher, Bottleneck, AI Expert (2026-10-17); Elon Musk, Travis Kalanick, Dan Martell (2026-10-21, folded into Maverick); Show Splitter, Echo, Alex Hormozi (into Maverick), Robert Greene and Jim Rohn (into Sage) (2026-11-01). Only Bottleneck's sidebar delete is still open.
 - **Programming room is still active** (Ryne, 2026-10-17), despite the earlier archive plan.
 - Security audit rule (Ryne, verbatim): "Do not change permissions, disconnect accounts, delete files or revoke access without my approval."
 - Script rule (2026-10-21): any bot that adds a script to a skill or routine test-runs it on real data and reports the output before it counts as done. Chief's read-only rule scripts (fleet, brain, draft, promise, value and other checks) live in `shared/scripts/chief/` on the box.
@@ -20,10 +21,10 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Known fleet issue: 36 skills point to reference files from a deleted Strength Coach agent (`0c56f311-...`). Fix pending.
 
 ## Routines worth knowing
-- Penny inbox sorting script about 6:15am CT, every day including weekends since 2026-10-24, and 6:45am CT morning brief (Mon to Fri). Fresh-week score (2026-10-29): 150 of 198 sorted right (about 76%); scheduling mail is the weak spot.
+- Penny inbox sorting script about 6:15am CT (ran every day including weekends in the 2026-10-24 to 2026-10-30 run files), and 6:45am CT morning brief (Mon to Fri) in her 1:1 chat. Fresh-week score (2026-10-29): 150 of 198 sorted right (about 76%); scheduling mail is the weak spot.
 - Weekly encrypted box backup (Chief): Saturdays about 7:00am CT to a private "Bot Backups" folder in the Achieve Drive, keeps 4 weeks, silent on success. First backup and full restore test passed 2026-10-24. Restore test on the first Saturday of each month. Ryne holds the passphrase.
-- Chief 6:50am CT priorities (Mon to Fri), evening debriefs Mon to Wed 6:45pm CT and Fri 5:45pm CT, unfinished-promises watch weekdays 3:00pm CT, Friday value update 9:20am CT.
-- Weekly brain repo update: Saturdays about 3:00am CT, opens PRs, never merges, messages Ryne only when something changed. Runs so far: 2026-10-24, 2026-10-31.
+- Chief: evening debriefs Mon to Wed 6:45pm CT and Fri 5:45pm CT, unfinished-promises watch weekdays about 3:00pm CT, changelog watch Mon 8:03am CT, Monday usage check-in about 9:30am CT, Friday value update 9:20am CT, monthly fleet score on the 1st about 9:00am CT. The 6:50am priorities routine was deleted 2026-11-04. Full map: `08-bot-fleet/fleet.md`.
+- Weekly brain repo update: Saturdays about 3:00am CT, opens PRs and, since 2026-11-04, merges them into main after `brain_lint.py` passes. Runs so far: 2026-10-24, 2026-10-31, plus a full sync on 2026-11-05 (Ryne asked for the repos to match Grok Bot exactly).
 - The MacBook launch check was deleted 2026-10-23 (Ryne). Do not re-propose it.
 
 ## NSCA recertification
@@ -36,4 +37,4 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Bonsai: Midori's nightly 8:00pm CT cold alert has been PAUSED since 2026-09-28; Ryne asked to delete it 2026-10-18 (pending his confirm). Nothing automatic checks the 55°F rule right now.
 - Travel (Jetson): John Mayer show (Apr 2027) and Wyoming (Jun 2027) are the current trips.
 
-Sources: Chief TEAM.md (updated 2026-10-30: Page-based project management, weekly box backup 2026-10-24); Chief profile.json and Red, Doc profile.json (2026-10-30 fleet rules); NSCA profile.json; Chief memory 2026-10-26 and 2026-10-30; Penny fresh-week report (2026-10-29) and `penny/triage/` run files; Chief TEAM.md change log 2026-10-18 to 2026-10-23; `WS/fleet/IDS.md` (2026-10-21); shared memory 2026-10-21 to 2026-10-23; profile.json for the new bots; Chief chat 2026-10-17 (standing rules, gap answers, NSCA reply, rollout plan); Midori instructions.
+Sources: Chief TEAM.md (updated 2026-10-30: Page-based project management, weekly box backup 2026-10-24); Chief profile.json and Red, Doc profile.json (2026-10-30 fleet rules); NSCA profile.json; Chief memory 2026-10-26 and 2026-10-30; Penny fresh-week report (2026-10-29) and `penny/triage/` run files; Chief TEAM.md change log 2026-10-18 to 2026-10-23; `WS/fleet/IDS.md` (2026-10-21); shared memory 2026-10-21 to 2026-10-23; profile.json for the new bots; Chief chat 2026-10-17 (standing rules, gap answers, NSCA reply, rollout plan); Midori instructions.; Chief TEAM.md (updated 2026-11-04 evening); Chief current routine list (2026-11-05); profile.json for Metric and Spot (2026-11-05).

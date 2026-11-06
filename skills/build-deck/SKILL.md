@@ -2,7 +2,7 @@
 name: Build Deck
 description: >-
   Use when the user wants a slide deck, audit report, or monthly recap as a
-  designed HTML presentation — not a bullet dump.
+  designed HTML presentation - not a bullet dump.
 ---
 A self-contained HTML slide deck. Agency deliverable, not a purple-gradient AI template. Every number comes from a tool result you actually received. Never invent a figure.
 

@@ -2,11 +2,13 @@
 
 One place for every live ID Ryne Gioviano's Grok Bot fleet needs. Built Saturday 2026-10-17, 10:15 PM CT from the box. Read this before guessing any room, sheet, folder, channel or repo.
 
-**Updated Saturday 2026-10-24 (weekly brain audit):** added Simon (IronBlueprint QA, reports to Blue) and Charlie (Achieve CFO, QuickBooks read-only) from their profile.json on disk. Section 9 keeps mailbox addresses and the text line digits out of the repo.
-
 **Updated Wednesday 2026-10-21, 8:00 AM CT (Chief, Ryne approved the fleet doc cleanup):** renamed Atlas to Red, the old Forge (IronBlueprint PM) to Blue and SEO / AEO Auditor to Rank, using each bot's current profile.json. Added the new Forge (nutrition), Splice, Plaid and Jim Rohn to the bot table and the HQ room to the room table.
 
 **Updated Wednesday 2026-10-21 (Chief, two org changes Ryne approved):** retired the Elon Musk, Travis Kalanick and Dan Martell bots (Maverick combines all three; pending Ryne's sidebar delete; their distill-anyone subject folders stay). Max and Maya now report through Red (Achieve work) and Blue (IronBlueprint work), not Chief; Chief only steps in on escalations or cross-brand conflicts.
+
+**Updated Sunday 2026-11-01 (Chief, fleet-score fixes Ryne approved):** bot profile names now carry a role suffix ("Penny · admin", about 2026-10-26); the Bot column below uses the short name before " · ", which `fleet_lint.py` now matches. Added Jetson, Simon and Charlie from their profile.json. Bottleneck stays retired; Ryne is finishing the sidebar delete. Elon Musk, Travis Kalanick and Dan Martell folders are gone from disk (checked 2026-11-01). Advisors room (`f4cb7f33`) folder is gone from disk, so its row moved to section 3.
+
+**Updated Thursday 2026-11-05 (full brain sync):** this repo copy now matches the box file of 2026-11-01. New on the box since then: Metric (`247984e5-d450-4fd5-a9d6-f2d2b0902f95`, data and metric deep dives, on demand). Hendrix's profile name is now Spot (`5a0276a8`). No agent folder was found on the box for Charlie (`5217cd51`) on 2026-11-05; that ID is not in deleted-agents.json either (open question). Briefs no longer post in the Administrative room (2026-11-04).
 
 **Name warning:** before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue (`cceeaf4d`). Today Forge is Ryne's nutrition coach (`2b406f18`). Older notes and sources cited below may still say Forge for Blue or Atlas for Red.
 
@@ -37,7 +39,7 @@ Paths used below: `A/<id>` = `/home/box/agent-data/agents/<id>`, `W/<skill>` = `
 
 Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.md` (business, reports-to). "Reports to" says "unclear" when no source states it. Chief's own instructions say all bots report to Chief. Exception from 2026-10-21: Max and Maya report through Red and Blue.
 
-### Active bots (40)
+### Active bots (41)
 | Bot | Agent ID | Title | Business | Reports to | Job (short) |
 |---|---|---|---|---|---|
 | Chief | `ad6690d7-be33-4540-ac42-68eb3059c181` | chief of staff | Fleet | Ryne | Chief of staff. Routes work to every bot, checks results, sends Ryne one clear update. |
@@ -63,26 +65,22 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 | Lark | `bf5d1606-57b1-4b0d-b7f3-c5a52f934a2a` | meta & google ads | Achieve + IronBlueprint | unclear (takes goals from Maya) | Meta Ads and Google Ads platform expert for both brands. |
 | Canvas | `567bde28-effb-4c09-bad5-579aa0d6d7ec` | graphic design | Achieve + IronBlueprint | unclear | Graphic designer for Achieve and IronBlueprint (images, PDFs, slides). |
 | Blue | `cceeaf4d-4c7b-45fb-b736-9be1fdf15b88` | IronBlueprint | IronBlueprint | Chief (Max and Maya report to Blue for IronBlueprint work, 2026-10-21) | IronBlueprint PM and verifier. Read-only advisory; Suffescom devs do all IB coding. |
-| Echo | `05b8df47-d725-4b70-9e11-f865e7f66612` | personal social | Personal | unclear | Ryne's personal X and Instagram posting partner. Drafts only. |
 | Midori | `0e8c74eb-4d9c-4850-9c37-e831fccf92a2` | bonsai caretaker | Personal | unclear | Caretaker for Ryne's rainbow dwarf jade bonsai; nightly cold alert. |
 | NSCA | `30219af9-fdf8-47e6-abd9-e97a0c953950` | recertification | Personal | unclear | Tracks Ryne's NSCA CSCS recertification (cycle ends Dec 31, 2026). |
 | Doc | `4fe8ab9a-957c-48ea-8e12-5cff32e2388a` | naturopath | Personal | unclear | Personal naturopathic health advisor (education, not a physician). |
 | Hendrix | `5a0276a8-6560-4018-b4ac-b889ca11cbb3` | music expert | Personal | unclear | Music expert (blues, rock, jazz) plus Spotify account management. |
 | Justin | `c7a7b01f-ecbe-41aa-8f5e-73e22419f868` | guitar | Personal | unclear | Personal guitar teacher with a progressive plan. On demand only. |
 | Bookmarks | `d3bd8f4b-39f7-4316-8135-a9348be70b87` | (none) | Personal | unclear | Files Ryne's X bookmarks into a searchable Notion database. |
-| Show Splitter | `37c3f952-fedd-4331-a78c-ddd39a32104c` | (none) | Personal | unclear | Splits a concert MP3 into per-song files. Disposable, delete after the job. |
 | Sage | `99b4a25d-4d82-4a64-b955-4e756140e461` | philosopher | Personal | advisor (no reporting line) | Mentor persona: calm counsel drawn from philosophy. |
-| Alex Hormozi | `08182d5e-b9ed-43b0-a15d-2ce55ad75312` | sales & marketing | Personal | advisor (no reporting line) | Distilled persona of Alex Hormozi (sales and marketing). |
-| Robert Greene | `fb65246d-d183-49b8-ac6d-36abf8ec300e` | strategy | Personal | advisor (no reporting line) | Distilled persona of Robert Greene (strategy). |
 | Forge | `2b406f18-aad6-4a09-bfd3-fe56b2b4f37e` | nutrition | Personal | unclear (tells Chief after a self-fix) | Personal nutrition coach: logs meals, estimates macros, coaches toward muscle gain, fat loss and health. Works with Doc. On demand only. Added 2026-10-21. |
 | Plaid | `e9e0ed13-6c69-4849-8c61-8046655580e6` | Tesla | Personal | unclear (tells Chief after a self-fix) | Sees the Tesla lease handoff through: return the current lease, then get the new lease accepted and delivered. Read-only Tesla email, tracker, deadline nudges; daily routine about 8:30am CT. Added 2026-10-21. |
 | Splice | `78243869-cbf6-458c-bc54-0c2f5761b198` | (none) | Achieve + IronBlueprint + Personal | unclear (returns work to the bot that sent it) | Video editor: turns raw footage into ready-to-post edits (cuts, captions, reformats, branding, audio). Never posts. On demand only. Added 2026-10-21. |
-| Jim Rohn | `b85593ea-2b89-4199-ac7f-1d1c3acc4584` | (none) | Personal | advisor (no reporting line) | Distilled persona of Jim Rohn. Created 2026-10-21; not in the Advisors room. Added 2026-10-21. |
 | Maverick | `2772b984-fa9d-4c82-90e4-ea4bc1feae0b` | (none) | Achieve + IronBlueprint | advisor (no reporting line) | Business advisor combining the distilled thinking of Elon Musk, Travis Kalanick and Dan Martell (Musk/Kalanick/Martell lenses). Advice only, no sends. Formerly Boardroom. Created 2026-10-21; not in the Advisors room. Self-fix line added 2026-10-21. Added 2026-10-21. Replaces the retired Elon Musk, Travis Kalanick and Dan Martell bots. |
-| Simon | `48b8dd87-193d-4128-8463-4a6f523dc8fa` | quality assurance | IronBlueprint | Blue (profile.json) | Black-box QA for IronBlueprint: tests the live coach app from the outside, gives pass/fail before ship, never reads or changes code. Reports to Blue, sends fails to Linus. On disk as of 2026-10-24 (created date not recorded). |
-| Charlie | `5217cd51-c36e-4f22-83b7-3a2382a7957c` | (none) | Achieve | unclear (tells Chief after a self-fix) | CFO bot for Achieve: reads QuickBooks Online through the connector, read-only, never writes, pays or sends. Finance details stay out of the brain repos. On disk as of 2026-10-24 (created date not recorded). |
+| Jetson | `1f99ce18-87fe-439a-896b-b4d2c8182bd8` | travel (in name; title field empty) | Personal | unclear (hands booked dates to Penny; tells Chief after a self-fix) | Personal travel planner: flights, stays, event tickets, rental cars, itineraries. Books nothing without Ryne's yes. On demand. Added 2026-11-01. |
+| Simon | `48b8dd87-193d-4128-8463-4a6f523dc8fa` | quality assurance (in name; title field empty) | IronBlueprint | Blue ("Blue (IronBlueprint PM) is your lead", profile.json) | Black-box QA for IronBlueprint: tests the live app from outside, pass/fail to Blue, fails also to Linus. Never reads or changes code. Added 2026-11-01. |
+| Charlie | `5217cd51-c36e-4f22-83b7-3a2382a7957c` | (none; name has no role suffix) | Achieve (IronBlueprint later, only when Ryne says so) | unclear (tells Chief after a self-fix) | CFO for Achieve: reads QuickBooks Online (read-only) and explains cash, money in, money out and trends. Never writes to QuickBooks or moves money. On demand. Added 2026-11-01. |
 
-### Retired bots (10)
+### Retired bots (15)
 Retired by Ryne's 2026-10-17 approval (TEAM.md change log). Lingxi's lane went to Linus; AI Expert folded into Linus. Elon Musk, Travis Kalanick and Dan Martell retired by Ryne's 2026-10-21 approval; Maverick combines all three.
 | Bot | Agent ID | Status | On disk (checked 2026-10-17 10:15 PM CT) | Was |
 |---|---|---|---|---|
@@ -92,12 +90,17 @@ Retired by Ryne's 2026-10-17 approval (TEAM.md change log). Lingxi's lane went t
 | Bolt | `30467a71-699f-45a6-adb2-8562757bfb0e` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | X API app-building template bot (unused). |
 | Warden | `352e16fd-2df6-45de-865b-922f9db74bbb` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | Threat-hunting template bot (unused). |
 | Cipher | `43dd7aad-440f-4cf1-b118-2688483617f2` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | Threat-intel template bot (unused). |
-| Bottleneck | `c5d9f0a7-0864-407c-9ae2-7aae48909c69` | RETIRED 2026-10-17 | folder still on disk | Constraint finder. Idle since 9/16; method saved as the Find the constraint skill. |
-| Elon Musk | `a99b37f8-e227-4454-a363-eaf10adbf17a` | RETIRED 2026-10-21 | folder still on disk (checked 2026-10-21) | Distilled persona of Elon Musk (builder). Folded into Maverick. Subject folder `distill-anyone/subjects/elon-musk` stays. |
-| Travis Kalanick | `8ccdb56f-3d72-4b95-aa96-6c104fc56d1f` | RETIRED 2026-10-21 | folder still on disk (checked 2026-10-21) | Distilled persona of Travis Kalanick (operator). Folded into Maverick. Subject folder `distill-anyone/subjects/travis-kalanick` stays. |
-| Dan Martell | `79002f98-df78-4d4f-80c7-91e62522560e` | RETIRED 2026-10-21 | folder still on disk (checked 2026-10-21) | Distilled persona of Dan Martell (time). Folded into Maverick. Subject folder `distill-anyone/subjects/dan-martell` stays. |
+| Bottleneck | `c5d9f0a7-0864-407c-9ae2-7aae48909c69` | RETIRED 2026-10-17; REMOVED (Ryne finishing sidebar delete, 2026-11-01) | folder still on disk (checked 2026-11-01); profile renamed "Bottleneck · constraints" ~2026-10-26 | Constraint finder. Idle since 9/16; method saved as the Find the constraint skill. |
+| Elon Musk | `a99b37f8-e227-4454-a363-eaf10adbf17a` | RETIRED 2026-10-21 | folder gone from disk (checked 2026-11-01; not in deleted-agents.json) | Distilled persona of Elon Musk (builder). Folded into Maverick. Subject folder `distill-anyone/subjects/elon-musk` stays. |
+| Travis Kalanick | `8ccdb56f-3d72-4b95-aa96-6c104fc56d1f` | RETIRED 2026-10-21 | folder gone from disk (checked 2026-11-01; not in deleted-agents.json) | Distilled persona of Travis Kalanick (operator). Folded into Maverick. Subject folder `distill-anyone/subjects/travis-kalanick` stays. |
+| Dan Martell | `79002f98-df78-4d4f-80c7-91e62522560e` | RETIRED 2026-10-21 | folder gone from disk (checked 2026-11-01; not in deleted-agents.json) | Distilled persona of Dan Martell (time). Folded into Maverick. Subject folder `distill-anyone/subjects/dan-martell` stays. |
+| Echo | `05b8df47-d725-4b70-9e11-f865e7f66612` | RETIRED 2026-11-01 | folder gone from disk, in deleted-agents.json (checked 2026-11-01) | Personal X/IG drafts. |
+| Show Splitter | `37c3f952-fedd-4331-a78c-ddd39a32104c` | RETIRED 2026-11-01 (Ryne t773u) | folder gone from disk, in deleted-agents.json (checked 2026-11-01) | Concert MP3 splitter (one-off). |
+| Alex Hormozi | `08182d5e-b9ed-43b0-a15d-2ce55ad75312` | RETIRED 2026-11-01, merged into Maverick | folder gone from disk, in deleted-agents.json (checked 2026-11-01) | Distilled persona (sales and marketing). Subject `alex-hormozi` companion → Maverick. |
+| Robert Greene | `fb65246d-d183-49b8-ac6d-36abf8ec300e` | RETIRED 2026-11-01, merged into Sage | folder gone from disk, in deleted-agents.json (checked 2026-11-01) | Distilled persona (strategy). Subject `robert-greene` companion → Sage. |
+| Jim Rohn | `b85593ea-2b89-4199-ac7f-1d1c3acc4584` | RETIRED 2026-11-01, merged into Sage | folder gone from disk, in deleted-agents.json (checked 2026-11-01) | Distilled persona. Subject `jim-rohn` companion → Sage. |
 
-- **UNCERTAIN:** the six retired bots marked "gone from disk" are not listed in `/home/box/agent-data/deleted-agents.json`, so this file cannot prove they were deleted in the app. Ryne should confirm in the sidebar. Bottleneck is still on disk and waiting for a sidebar delete. Elon Musk, Travis Kalanick and Dan Martell (retired 2026-10-21) are also still on disk and waiting for a sidebar delete.
+- **UNCERTAIN:** the six retired bots marked "gone from disk" are not listed in `/home/box/agent-data/deleted-agents.json`, so this file cannot prove they were deleted in the app. Ryne should confirm in the sidebar. Bottleneck is still on disk; Ryne is finishing its sidebar delete (2026-11-01). Elon Musk, Travis Kalanick and Dan Martell (retired 2026-10-21) folders are gone from disk as of 2026-11-01, also not in deleted-agents.json.
 - Keep `companion_agent_id` in each retired persona's `distill-anyone/subjects/<slug>/PROFILE.json`. Distill daily only creates a companion bot when that field is empty.
 - Agent folders on disk that are not bots or rooms in this table: none.
 
@@ -114,7 +117,6 @@ Source: `A/<room id>/group.json` (members) and `A/<room id>/profile.json`.
 | Programming | `7c23ca84-4ef9-4dd7-8421-66e0ab6932ec` | Darwin, PRI, Red, Coach, Hawkin | unclear (Red or Coach) | **ACTIVE per Ryne (2026-10-17).** **CONFLICT:** TEAM.md still has a pending item "Ryne to archive/delete the Programming room" and FLEET.md marks it RETIRED. Ryne's word wins: keep it. |
 | Promote | `447d77a8-9873-4b04-821c-87d82cc8c284` | Lark, Maya, Max, Quill | unclear (likely Maya) | LIVE. No description set. |
 | Newsletter | `e30bd05f-c397-44ba-bab7-506ea9f73193` | Quill, Maya, Canvas, Red | unclear (likely Quill or Maya) | LIVE. No description set. |
-| Advisors | `f4cb7f33-0203-4bc5-a803-b5d8f4483365` | Travis Kalanick, Elon Musk, Alex Hormozi, Dan Martell | none (persona bots) | LIVE. Robert Greene and Sage are not members. Travis Kalanick, Elon Musk and Dan Martell RETIRED 2026-10-21 (pending sidebar delete); after that only Alex Hormozi is left. |
 | HQ | `10dece0d-b4a4-4ab7-b0f7-3fe8ad7b6765` | Red, Blue | unclear | LIVE per group.json (created 2026-10-20). No description set. Added 2026-10-21. |
 
 ---
@@ -124,6 +126,7 @@ Source: `A/<room id>/group.json` (members) and `A/<room id>/profile.json`.
 | ID | What it was | Source | Status |
 |---|---|---|---|
 | `0382da49-74aa-4f07-9175-22c6e94e2887` | Old IronBlueprint room | `/home/box/agent-data/deleted-agents.json`; FLEET.md line 1447 | **DELETED.** Only appears in stale automation copies. Blue confirmed 2026-10-17 none of his 6 live routines use it. |
+| `f4cb7f33-0203-4bc5-a803-b5d8f4483365` | Advisors room (was Travis Kalanick, Elon Musk, Alex Hormozi, Dan Martell) | IDS.md room table until 2026-11-01 | **GONE from disk (checked 2026-11-01).** Not in deleted-agents.json, so the app delete is unconfirmed. Do not route to it. |
 | `88465cbe-9e98-4275-8ff3-e07be473ebc1` | PA Schedules (merged into Penny) | deleted-agents.json; TEAM.md | DELETED. |
 | `a9da8358-76ff-4221-bf2d-19d9548ed9bd` | Old Personal Assistant (replaced by Penny) | TEAM.md line 41; source-map.json | GONE. Do not @. |
 | `8b769a17-b0a6-4194-9442-a47551294a2b` | An older Personal Assistant | Tally memory profile.md line 8 (2026-08-28) | **STALE in Tally's memory.** Tally should ping Penny `163cd8df-275e-47c1-a5a2-e10e304a671a` instead. |
@@ -256,16 +259,16 @@ Note: Linus's old instructions said he hands repo work to Cursor cloud agents. A
 
 ## 9. Email inboxes and phone
 
-| Inbox | What | Connector | Who uses it | Source |
+| Address | What | Connector | Who uses it | Source |
 |---|---|---|---|---|
-| Achieve work Gmail | Achieve work (primary). Address not stored here. | `user-Gmail--work` | Penny, Tally, Max, Red | `W/achieve-mail`; Blue memory line 15 |
-| Achieve contact inbox | Public CTA inbox. Address not stored here. | `user-Gmail--contact` | Penny, Tally | `W/achieve-mail` |
-| IronBlueprint Gmail | IronBlueprint Google account, calendar, and Drive. Address not stored here. | `user-Gmail--ironblueprint` | Blue, Penny | `W/achieve-mail`; Blue memory |
-| Second IronBlueprint address | Not mapped to a connector. Address not stored here. | not mapped to a connector | Blue, Quill, Maya (copy context) | Scout, Quill, Maya memory; Blue profile.json |
-| Personal Gmail | Personal. Address not stored here. | `user-Gmail--personal` | Penny, NSCA | `W/achieve-mail`; NSCA profile.json |
-| Grok Bot inbox | Receive and read; parent agent sends. Address not stored here. | Grok Bot inbox | Chief | ListEmailInboxes 2026-10-17 |
-| Staff BCC | BCC on account changes (Kara). Address not stored here. | n/a | Penny | `W/achieve-writing-style` |
-| Achieve business text line | Public business number in signatures. Digits not stored here. | Quo (Numa until cutover) | Penny | `W/achieve-mail`; Nova profile.json |
+| ryne@achievesportsperformance.com | Achieve work (primary) | `user-Gmail--work` | Penny, Tally, Max, Red | `W/achieve-mail`; Blue memory line 15 |
+| contact@achieve-personaltraining.com | Achieve contact inbox (also the public CTA address) | `user-Gmail--contact` | Penny, Tally | `W/achieve-mail` |
+| ryne@ironblueprint.app | IronBlueprint (Google account, calendar, Drive) | `user-Gmail--ironblueprint` | Blue, Penny | `W/achieve-mail`; Blue memory |
+| ryne@iron-blueprint.com | Second IronBlueprint address | not mapped to a connector | Blue, Quill, Maya (copy context) | Scout, Quill, Maya memory; Blue profile.json |
+| [address kept out of repo] | Personal | `user-Gmail--personal` | Penny, NSCA | `W/achieve-mail`; NSCA profile.json |
+| [address kept out of repo] | Grok Bot's own inbox (receive and read; parent agent sends) | Grok Bot inbox | Chief | ListEmailInboxes 2026-10-17 |
+| [address kept out of repo] | Staff (BCC on account changes) | n/a | Penny | `W/achieve-writing-style` |
+| Achieve business text line 630.340.4114 | Public business number in signatures | Quo (Numa until cutover) | Penny | `W/achieve-mail`; Nova profile.json |
 
 - **UNCERTAIN:** `user-Gmail` (no suffix) is also connected; which account it is was not checked.
 - Quo inbox IDs were not found in any file. Penny should record them here when known.

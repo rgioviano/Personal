@@ -25,6 +25,7 @@ After a checkup (first import or on demand), offer once to create a standing rou
 1. List every agent folder under `/home/box/agent-data/agents/`.
 2. For each agent, read `profile.json` (name) and every `automations/*/automation.json`.
 3. Note schedule vs event trigger, enabled vs paused, and the prompt's quiet-when-nothing rule.
+4. These files are often stale copies. Before you flag, rank, or propose anything from them, follow [Verify live before acting](sand-workflow:verify-live-before-acting): confirm schedule and status live (`automation_status` or the owning bot). Anything you could not confirm is listed as UNVERIFIED (stale copy) with no proposed fix.
 
 ## Flags
 

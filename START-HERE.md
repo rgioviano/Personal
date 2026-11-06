@@ -20,13 +20,13 @@ Read this page first. It tells you what is in this repo and which one file answe
 |---|---|
 | `01-profile-preferences/` | Who Ryne is, accounts by name, communication and scheduling preferences, computers |
 | `02-health/` | Placeholder. Health questions go to the Doc bot; no medical details are stored here |
-| `03-music-guitar/` | Music taste, guitar learning (Justin), music bots (Hendrix, Show Splitter) |
+| `03-music-guitar/` | Music taste, guitar learning (Justin), music bot (Spot, formerly Hendrix) |
 | `04-bonsai/` | His rainbow dwarf jade bonsai and its care rules (Midori) |
 | `05-learning-certs/` | NSCA CSCS recertification, courses, engineering and local AI learning |
 | `06-family/` | Empty placeholder. Ryne fills it himself if he wants |
 | `08-bot-fleet/` | Every bot, its job, standing routines, fleet rules, pending fleet items, and `IDS.md` (live IDs) |
-| `bots/<name>/` | 29 fleet and personal bots: `INSTRUCTIONS.md` plus memory, reference and routine files (secrets removed). Includes chief, penny, scout, token-officer, dr-eggbot, the advisor personas, the rooms (administrative, advisors, promote, newsletter), and retired bots kept for history (ai-expert, bolt, bottleneck, cipher, warden; dan-martell, elon-musk and travis-kalanick retired 2026-10-21 and folded into Maverick) |
-| `skills/<slug>/SKILL.md` | 23 fleet skills (index in README.md) |
+| `bots/<name>/` | 20 fleet and personal bots and rooms: `INSTRUCTIONS.md` (from profile.json) and `ROUTINES.md` (current schedule map), plus Chief's TEAM.md. Retired bots were removed 2026-11-05 (git history keeps them) |
+| `skills/<slug>/SKILL.md` | 62 fleet skills (index in README.md) |
 
 Achieve and IronBlueprint bots live in those repos, not here.
 
@@ -40,7 +40,7 @@ Achieve and IronBlueprint bots live in those repos, not here.
 | Morning brief format | `skills/morning-brief/`, `bots/penny/` |
 | NSCA recertification status | `05-learning-certs/learning.md` and `bots/nsca/` (check NOW.md first; the file may lag) |
 | Bonsai care | `04-bonsai/bonsai.md`, `bots/midori/` |
-| Guitar and music | `03-music-guitar/music.md`, `bots/justin/`, `bots/hendrix/` |
+| Guitar and music | `03-music-guitar/music.md`, `bots/justin/`, `bots/spot/` |
 | Local AI on the DGX Spark | `05-learning-certs/learning.md`; Linus owns this lane (his folder is in the IronBlueprint repo) |
 | What is happening right now? | `NOW.md` |
 | Live room, sheet, channel, folder and repo IDs | `08-bot-fleet/IDS.md` |
@@ -57,5 +57,5 @@ Achieve and IronBlueprint bots live in those repos, not here.
 
 ## How to change this repo
 - Propose edits as a pull request or diff. Ryne approves. Nothing merges on its own.
-- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed. It never merges.
+- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed and, since 2026-11-04 (Ryne), merges it into main after `brain_lint.py` passes.
 - Date every new fact (YYYY-MM-DD) and add a line to `LOG.md`.
