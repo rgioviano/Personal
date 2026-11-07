@@ -4,7 +4,7 @@ Chief of Staff routes all work and reports to Ryne in one clear update. Chief su
 
 Briefs (Ryne, 2026-11-04): Penny's morning brief goes to her 1:1 chat with Ryne. Chief's evening debriefs and the Friday value update go to the Chief 1:1 chat. No brief posts in Administrative or any other group chat (group chats cost too much). The Administrative room (Chief, Penny, Tally) still exists.
 
-Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue. Today Forge is Ryne's nutrition coach. Older notes may also say Atlas for Red, SEO / AEO Auditor for Rank, and Hendrix for Spot. Profile names carry a role suffix ("Penny · admin"); this file uses the short name before " · ".
+Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue. Today Forge is Ryne's nutrition coach. Older notes may also say Atlas for Red, SEO / AEO Auditor for Rank, and Hendrix for Spot. Profile names are written "Name / Title" with capitals on the main words since 2026-11-06 (Ryne), for example Penny / Admin, Tally / CRM, Darwin / S&C Research, Dr. Eggbot / Bot Maker. From about 2026-10-26 to 2026-11-06 they used "Name · role". This file uses the short name before the slash.
 
 ## Roster (current names, synced from each bot's profile.json on 2026-11-05)
 | Bot | Lane |
@@ -21,7 +21,7 @@ Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named B
 | Lark | Meta and Google Ads |
 | Quill | Copywriter |
 | Canvas | Graphic design files |
-| Nova | Achieve business X/IG drafts |
+| Nova | Social drafts for both Achieve business X/IG and Ryne's personal X/IG, with a brand skill for each (since 2026-11-01, Echo retired) |
 | Splice | Video editor for all three brands. Never posts. On demand |
 | Coach | S&C programs (drafts, 1:1 with Ryne) |
 | Hawkin | Force-plate analysis |
@@ -82,8 +82,9 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 | Draft-vs-sent review | Penny | Fri 7:00am |
 | Prospect inbound watch (triage file plus Gmail backstop, gap pass, due list, read-sends) | Tally | Mon to Sat about 6:25am |
 | Speed-to-book scoreboard | Tally | Fridays |
-| Project Page heartbeats (exception-only) | Tally 8:05am (lead pipeline), Blue 8:10am (IB launch) and 8:15am (USPTO), Plaid 8:20am (Tesla lease), Penny 8:25am (Quo SMS cutover) and 8:30am (Illinois Secure Choice), Maya 8:35am Mon/Wed/Fri (Achieve Meta ads, still running in November, Ryne 2026-11-05) | Weekdays |
-| Meeting ingest (Spark transcripts), Web and Mobile Tasks, IB 500 tally and nightly pace post | Blue | IB routines; bug sweeps stay manual (Ryne, 2026-10-27) |
+| Project Page heartbeats (exception-only) | Tally 8:05am (lead pipeline), Blue 8:10am (IB launch) and 8:15am (USPTO), Plaid 8:20am (Tesla lease), Penny 8:25am (Quo SMS cutover; cutover closed 2026-11-03, heartbeat status not confirmed) and 8:30am (Illinois Secure Choice), Maya 8:35am Mon/Wed/Fri (Achieve Meta ads, still running in November, Ryne 2026-11-05) | Weekdays |
+| Meeting ingest (Spark transcripts, retries about 9:25, 11:25, 1:25, 3:25 Tue to Thu), Web and Mobile Tasks, #ironblueprint bug filing, Slack bug watcher, dev daily summary | Blue | IB routines (as of 2026-10-31) |
+| #bugs sweep | Blue | Weekdays about 11:00am and 8:00pm (Ryne, 2026-10-30); no hourly poll |
 | IronBlueprint PR review; bug triage | Linus | New PRs plus weekdays 9:00am |
 | IronBlueprint monthly security scan (Blue verifies) | Linus | First weekday of the month |
 | S&C dig; force-plate dig | Darwin | Sat 8:00am; first Sat 8:25am |
@@ -96,6 +97,7 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 ### Deleted (do not re-propose)
 - Chief 6:50am Today's priorities: DELETED 2026-11-04. Ryne sets his own priorities; evening debriefs do not ask for, suggest or save tomorrow priorities.
 - Eval Brief weekday 8:15am signup watch: DELETED 2026-11-01.
+- Blue IB 500 tally and nightly pace post: DELETED 2026-10-30 (Ryne: "We're now done with the 500 programs").
 - Plaid `tesla-lease-watch` daily check: DELETED 2026-11-01 (replaced by the project Page heartbeat).
 - Tally separate 8:00am inbound run: does not exist (Tally, 2026-11-01).
 - MacBook launch check and Weekly attention check: DELETED 2026-10-23.
@@ -128,4 +130,4 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 - CoS Ops duplicate timers cleanup.
 - Weeknight debrief `draft_lint.py` step: pending Ryne's approval since 2026-10-20.
 
-Sources: Chief TEAM.md (updated 2026-11-04 evening); Chief's current routine list (Chief chat 2026-11-05); profile.json for every bot in `/home/box/agent-data/agents/` (2026-11-05); `deleted-agents.json`; Chief memory 2026-10-27; Linus routine confirmations in Chief chat 2026-10-17.; Ryne, Chief chat 2026-11-05 8:47pm CT (Charlie, Distill anyone, Programming and HQ retired; Maya heartbeat continues).
+Sources: Chief TEAM.md (updated 2026-11-04 evening); Chief's current routine list (Chief chat 2026-11-05); profile.json for every bot in `/home/box/agent-data/agents/` (2026-11-05); `deleted-agents.json`; Chief memory 2026-10-27; Linus routine confirmations in Chief chat 2026-10-17.; Ryne, Chief chat 2026-11-05 8:47pm CT (Charlie, Distill anyone, Programming and HQ retired; Maya heartbeat continues). Blue chat 2026-10-30 and 2026-10-31 (IB routine changes); Nova chat 2026-11-01; shared memory 2026-11-06 (bot name style); live profile.json names (2026-11-07).

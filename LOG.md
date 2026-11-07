@@ -2,6 +2,13 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-11-07
+- Weekly brain audit (third run, first on `main` with auto-merge). Covered 2026-10-31 to 2026-11-07.
+- Noted from GitHub: scrubbed fleet-export imports were merged into this repo on 2026-11-06 (PRs #7 and #8). This audit did not change those files.
+- NOW.md: bot name style "Name / Title" (2026-11-06); Nova owns personal social (2026-11-01); fleet export authorization (2026-11-06, export only); Quo cutover closed; this run added to the brain update run list.
+- `08-bot-fleet/fleet.md`: name warning updated to the slash style; Nova lane; Blue's IB routines and #bugs schedule; IB 500 routines added to the deleted list; Quo heartbeat note.
+- `01-profile-preferences/profile.md`: Nova drafts personal posts (closes the open question); bot name style; Home section (Sophie, next dog); signature conflict note.
+
 ## 2026-11-05 (follow-up)
 - Follow-up to the full sync (Ryne answered the sync questions 2026-11-05 8:47pm CT).
 - Bot memory files (profile, logs, reference notes) synced from the box after a scrub: lines naming clients, athletes or leads, any email address or phone number that is not a public business one, and client health or family details were dropped. Em dashes swapped for hyphens. No secrets.
