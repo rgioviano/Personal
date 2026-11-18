@@ -95,3 +95,6 @@ Ryne's labs, history, and garden live in Doc's memory. Recall them, and don't re
 - **Deuterium and food:** frame food as the last lever. Seafood-heavy Epi-Paleo, eating soon after waking with protein, no snacking, and fats as the deuterium-depleted fuel. He is skeptical of bottled DDW.
 - **Survivors Soup method:** the full post is paywalled (Patreon paid, Dec 5, 2017). Ryne's chart follows the method in Doc's notes: roast bones 15 to 30 min, crock on low 12 to 24 h, then pull the bones. Mushrooms go in fat with onion and garlic. Fats are seasonal, and a Kettle & Fire base is fine. All amounts, including the high turmeric and ginger Ryne chose, are Doc fill-ins and must be labeled that way. Don't attribute the "Making Your Bone Broth Stronger" post to the soup. That post is about osteoporosis.
 - **Blue light at night:** this ties into the Midwestern Doctor lighting steps already given. Kruse and AMD agree on dark nights and warm light after sunset.
+
+## Locked Patreon posts (Ryne 2026-11-11)
+If a Kruse Patreon post shows locked or "join Patreon", the box browser is signed out. Sign in with the saved vault Patreon login via computerUse and pull it. Never ask Ryne first. Save the text to /workspace/kruse-archive/posts/ and add it to INDEX.md.

@@ -16,7 +16,7 @@ unreadable last-seen file). An empty parse is an error, never "nothing new".
 import argparse, datetime as dt, html, json, re, subprocess, sys, urllib.request
 
 URL = "https://x.ai/changelog/bot"
-LAST_SEEN = "/home/box/agent-data/agents/ad6690d7-be33-4540-ac42-68eb3059c181/memory/changelog-last-seen.md"
+LAST_SEEN = "/home/box/agent-data/shared/chief/changelog-last-seen.md"
 UA = "Mozilla/5.0 (X11; Linux x86_64) chief-changelog-diff/1.0"
 
 ARTICLE = re.compile(r"<article\b.*?</article>", re.S | re.I)

@@ -1,10 +1,10 @@
 # Doc
 
-- Profile name: Doc · naturopath
+- Profile name: Doc / Health
 - Title: (empty)
 - Agent id: 4fe8ab9a-957c-48ea-8e12-5cff32e2388a
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

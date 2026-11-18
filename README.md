@@ -17,9 +17,9 @@ Sources: this folder; Chief chat 2026-10-17.
 
 ## Skills index (63 skills)
 
-Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). Synced from Ryne's Grok Bot skill library on 2026-11-05. Em dashes were swapped for hyphens and email addresses that are not Ryne's business addresses were replaced, per the repo rules.
+Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). Synced from Ryne's Grok Bot skill library on 2026-11-05; changed skills refreshed 2026-11-18. Em dashes were swapped for hyphens and email addresses that are not Ryne's business addresses were replaced, per the repo rules.
 
-- `knowledge-base-audit`: End-of-day audit that proposes brain edits as a diff for Ryne's approval (the weekly update auto-merges after lint, 2026-11-04).
+- `knowledge-base-audit`: End-of-day audit that proposes brain edits as a diff for Ryne's approval (since 2026-11-07 the weekly update waits for Ryne's yes).
 - `advisor-persona-vs-ghostwrite`: Use this when an advisor or distilled-persona bot is asked “if you were me,” for a take in their voice, or for something to send - fork persona (founder-pov) vs ghostwrite (user’s outbound voice).
 - `ai-models-spark-shelf-first`: Use when AI Models or Engineer recommends open-weight downloads for the DGX Spark - prefer NVFP4 or EXL3 on Spark (not Mac GGUF); re-list Passport shelf and beat local models before suggesting anything new.
 - `build-dashboard`: Use when the user wants a live or static paid-ads / SEO dashboard: KPIs, one primary chart, supporting tables. Pull real data first.
@@ -83,27 +83,28 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `viral-short-form-producer`: Use when cutting truthful platform-ready vertical shorts from existing footage. Never guarantee virality, distort meaning, publish, or delete without approval.
 - `x-scout-connect-onboarding`: Use this when an X Scout (or similar) bot starts for a new user, X is missing/needsAuth, or after they just connected X - connect card → inspect live setup + posts → How you work once → finds-only digests → multi-select which finds to add.
 
-## Bots index (20 bots and rooms)
+## Bots index (21 bots and rooms)
 
 Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructions), `ROUTINES.md` (its current schedule map, 2026-11-05) and, where the bot keeps them, its memory and reference files (synced 2026-11-05 after a client and athlete scrub). Secrets are never included. Retired bots were removed on 2026-11-05.
 
 - `administrative` (Administrative): Help me manage my day to day and get the most out of each day in terms of progress.
+- `alfred` (Alfred): Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends the small
 - `bookmarks` (Bookmarks): ONLY job: for Ryne Gioviano, turn his X bookmarks into an organized, searchable Notion database so saved posts don't just sit there.
-- `chief` (Chief): You are my Chief of Staff. All communication with my bots goes through you.
+- `chief` (Chief): You are my Chief of Staff. Chief coordinates and routes work across the bots; bots may still talk to each other and to Ryne directly in their own lanes. I give 
+- `dewey` (Dewey): ONLY job: for Ryne Gioviano, take whatever he writes in this chat (notes, ideas, thoughts, meeting jots, lists, links) and file it into his Notion workspace in 
 - `doc` (Doc): ONLY job: for Ryne Gioviano, personal naturopathic health advisor. On every health ask, load Doc health source router first (/home/box/agent-data/workflows/doc-
 - `dr-eggbot` (Dr. Eggbot): Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job, unslopped, ve
 - `forge` (Forge): ONLY job: Ryne Gioviano's personal nutrition coach. He logs food with you, and you coach him toward three goals: build muscle, lose fat, and stay healthy. You w
 - `jetson` (Jetson): ONLY job: Ryne Gioviano's personal travel planner. Plan and book his trips: flights, hotels or rentals, event tickets, rental cars, and a day-by-day itinerary. 
 - `justin` (Justin): ONLY job: Ryne Gioviano's personal guitar teacher. Teach him guitar through a progressive plan that adapts to how he's actually playing, one practice session at
-- `maverick` (Maverick): ONLY job: Ryne Gioviano's single business advisor seat. Combine the distilled business thinking of Elon Musk, Travis Kalanick, Dan Martell, and Alex Hormozi. Kn
-- `midori` (Midori): You are Ryne Gioviano’s bonsai caretaker for one tree: his rainbow dwarf jade bonsai (Portulacaria afra ‘Variegata’ / rainbow elephant bush). You are the expert
+- `midori` (Midori): ONLY job: Ryne Gioviano’s bonsai caretaker for one tree: his rainbow dwarf jade bonsai (Portulacaria afra ‘Variegata’ / rainbow elephant bush), kept in Aurora, 
 - `newsletter` (Newsletter): (no description set)
 - `nsca` (NSCA): ONLY job: for Ryne Gioviano, track his NSCA recertification and nothing else. Know which certification, the cycle end date, CEUs required, CEUs logged, what sti
-- `penny` (Penny): Personal assistant for Ryne Gioviano. Handles email, calendar, Quo (Achieve business phone: SMS triage, draft texts, missed calls, transcripts; draft-first, sen
+- `penny` (Penny): Personal assistant for Ryne Gioviano. Handles email, calendar, Quo (Achieve business phone, the only business messaging channel since Numa was retired 2026-11-1
 - `plaid` (Plaid): ONLY job: for Ryne Gioviano, see his Tesla lease handoff through to the end. First, return the current leased Tesla. Then get the new Tesla lease accepted and d
 - `promote` (Promote): (no description set)
 - `sage` (Sage): ONLY job: You are Ryne's personal and life mentor. Give calm counsel that helps him live and decide well. Pick the source that fits the situation; do not speak 
 - `scout` (Scout): ONLY job: for Ryne Gioviano, find the answer and the evidence on anything outside S&C training: products and prices, people, tools and tech, business and market
 - `splice` (Splice): ONLY job: Ryne Gioviano's video editor. Take raw footage from Ryne or another of his bots, plus their direction, and return finished, ready-to-post edits for Ac
-- `spot` (Spot): ONLY job: for Ryne Gioviano, musical advisor on blues (especially 1950s–1970s), rock and jazz from the same era. Point him to artists, albums, and songs he may 
+- `spot` (Spot): ONLY job: for Ryne Gioviano, musical advisor on blues (especially 1950s-1970s), rock and jazz from the same era. Point him to artists, albums, and songs he may 
 - `token-officer` (Token Officer): ONLY job: Token Officer for Ryne Gioviano’s Grok Bot fleet: one bot for both cost diagnosis and approved schedule fixes. Watch how the fleet burns tokens, call 

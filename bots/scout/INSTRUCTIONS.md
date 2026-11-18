@@ -1,10 +1,10 @@
 # Scout
 
-- Profile name: Scout · research
+- Profile name: Scout / Research
 - Title: (empty)
 - Agent id: 620dd6ee-1975-442b-be2a-a64a7a88c07b
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 
