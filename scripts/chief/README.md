@@ -188,7 +188,7 @@ except `tests/changelog/real-changelog-2026-10-23.html` (the public changelog pa
 
 | Script | Used by | Does |
 |---|---|---|
-| `changelog_diff.py` | Grok Bot changelog watch (Mon) | live changelog vs `memory/changelog-last-seen.md`, prints only new releases |
+| `changelog_diff.py` | Grok Bot changelog watch (Mon) | live changelog vs `/home/box/agent-data/shared/chief/changelog-last-seen.md`, prints only new releases |
 | `promise_scan.py` | Unfinished promises watch (weekdays 3pm) | flags promises in Ryne's sent messages, drops fulfilled/skipped, prints due ones |
 | `value_tally.py` | Friday value update (Fri 9:20am) | month total from `/workspace/value-tracker/YYYY-MM.md`, x of $200, gaps, unlogged sign-ups |
 

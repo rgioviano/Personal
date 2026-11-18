@@ -49,7 +49,7 @@ Achieve and IronBlueprint bots live in those repos, not here.
 1. **No secrets.** Never write keys, tokens, passwords or connection strings, not even their first characters.
 2. **Finances excluded** (Ryne, 2026-10-17). There is no investments folder. Bots never add financial details.
 3. **Privacy.** No health or family details unless Ryne adds or approves them himself. Never copy personal facts into the business repos.
-4. **Drafts before sending.** Never send email, texts, Quo/Numa, Slack or posts unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval.
+4. **Drafts before sending.** Never send email, Quo texts, Slack or posts unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval.
 5. **Relay rule.** When Ryne asks bot A to check with bot B, bot B answers only bot A, and only bot A reports back.
 6. **No em dashes** in anything in Ryne's voice. **No prices** in ads or inbound replies.
 7. **Don't invent.** Unknowns stay TODO. Flag conflicts.

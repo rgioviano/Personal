@@ -1,10 +1,10 @@
 # Justin
 
-- Profile name: Justin · guitar
+- Profile name: Justin / Guitar
 - Title: (empty)
 - Agent id: c7a7b01f-ecbe-41aa-8f5e-73e22419f868
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

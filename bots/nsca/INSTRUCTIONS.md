@@ -1,10 +1,10 @@
 # NSCA
 
-- Profile name: NSCA · recertification
+- Profile name: NSCA / Recertification
 - Title: (empty)
 - Agent id: 30219af9-fdf8-47e6-abd9-e97a0c953950
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

@@ -12,6 +12,8 @@ One place for every live ID Ryne Gioviano's Grok Bot fleet needs. Built Saturday
 
 **Updated Thursday 2026-11-05 (full brain sync):** this repo copy now matches the box file of 2026-11-01. New on the box since then: Metric (`247984e5-d450-4fd5-a9d6-f2d2b0902f95`, data and metric deep dives, on demand). Hendrix's profile name is now Spot (`5a0276a8`). No agent folder was found on the box for Charlie (`5217cd51`) on 2026-11-05; that ID is not in deleted-agents.json either (open question). Briefs no longer post in the Administrative room (2026-11-04).
 
+**Updated Wednesday 2026-11-18 (fleet sync, Ryne asked 2026-11-18):** new Chief `88d94ba3-a54b-42c5-99a1-2b85c442eea6` since 2026-11-07 (old Chief `ad6690d7` retired). Maverick retired 2026-11-10 (folder deleted). Midori now runs as `905a74fc-f051-47a9-8701-7bacd3e9d039` (old `0e8c74eb` folder gone; remake date not recorded). Added Alfred, Dewey and Metric rows. Numa retired 2026-11-17 (Quo only). Profile names are "Name / Title" since 2026-11-06.
+
 **Name warning:** before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue (`cceeaf4d`). Today Forge is Ryne's nutrition coach (`2b406f18`). Older notes and sources cited below may still say Forge for Blue or Atlas for Red.
 
 **Rules for this file**
@@ -44,13 +46,16 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 ### Active bots (41)
 | Bot | Agent ID | Title | Business | Reports to | Job (short) |
 |---|---|---|---|---|---|
-| Chief | `ad6690d7-be33-4540-ac42-68eb3059c181` | chief of staff | Fleet | Ryne | Chief of staff. Routes work to every bot, checks results, sends Ryne one clear update. |
+| Chief | `88d94ba3-a54b-42c5-99a1-2b85c442eea6` | Chief of Staff | Fleet | Ryne | Chief of staff (new agent since 2026-11-07). Routes work, checks results, sends Ryne one clear update. Old Chief `ad6690d7-be33-4540-ac42-68eb3059c181` is retired. |
+| Alfred | `d5abaffd-193c-4401-bfb9-6e132ed096ce` | (none) | Fleet | Ryne | Read-only org design and fleet audit advisor (2026-11-10). Changes nothing without Ryne's exact yes. |
+| Dewey | `6c6861fd-9404-4802-9a8d-130955c3323c` | Notes | Personal | Ryne | Files Ryne's notes into his Notion workspace. On demand. |
+| Metric | `247984e5-d450-4fd5-a9d6-f2d2b0902f95` | Data | Achieve + IronBlueprint | Chief | Metric deep dives, experiment reads and charts. Never touches money, ads or code. |
 | Linus | `5ec70d9b-e978-4b41-8c2f-f2219c13815a` | engineer | IronBlueprint | Chief; Blue on IB work (Linus instructions 2026-10-17) | Lead engineer. Read-only advisory on IronBlueprint (Suffescom devs do all IB coding); also owns local LLMs... |
 | Token Officer | `10242c51-88e8-4583-b81d-61c9525bcc8b` | (none) | Fleet | unclear (proposes directly to Ryne) | Watches fleet token spend, flags waste, and applies routine schedule fixes only after Ryne approves. |
 | Dr. Eggbot | `f38722d3-a9d5-4d98-b294-ee15f3361f11` | bot maker | Fleet | unclear | Designs and creates new Grok Bots. |
 | Distill anyone | `f9154cb1-6362-4907-85f4-12d50f99279c` | RETIRED 2026-11-05 | Fleet | n/a | Deleted (Ryne, 2026-11-05). Its twice-weekly persona refresh is retired with it. Subject folders under `distill-anyone/subjects/` stay on the box for Sage, Maverick and Doc. |
 | Scout | `620dd6ee-1975-442b-be2a-a64a7a88c07b` | research | Fleet | unclear (Red and Blue both coordinate Scout on brand work) | General researcher for anything outside S&C (products, people, tools, business, health, places). |
-| Penny | `163cd8df-275e-47c1-a5a2-e10e304a671a` | admin | Personal | Chief (Administrative room) | Personal assistant: email, calendar, Quo, Numa and admin across Ryne's Google accounts. |
+| Penny | `163cd8df-275e-47c1-a5a2-e10e304a671a` | Admin | Personal | Chief (Administrative room) | Personal assistant: email, calendar, Quo (only channel since Numa was retired 2026-11-17) and admin across Ryne's Google accounts. |
 | Tally | `5d07e236-9453-409d-ab6c-58711eae2f09` | crm | Achieve | Chief (Administrative room) | Owns Achieve's prospect book (Prospect Tracking sheet): inbound, gap fill, dashboard. |
 | Red | `cf4fe585-7bd8-4d68-b32a-67aca0067033` | Achieve | Achieve | Chief (Max and Maya report to Red for Achieve work, 2026-10-21) | Achieve PM. Owns the Achieve brand and coordinates bots on gym work; files Coach's finished programs. |
 | Nova | `6b3492d4-c1d7-448a-bed0-38dbb76b7828` | achieve social | Achieve | unclear (brand from Red, strategy briefs from Maya) | Achieve business X and Instagram: owns all Achieve post drafts and captions from Maya's strategy briefs. |
@@ -67,7 +72,7 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 | Lark | `bf5d1606-57b1-4b0d-b7f3-c5a52f934a2a` | meta & google ads | Achieve + IronBlueprint | unclear (takes goals from Maya) | Meta Ads and Google Ads platform expert for both brands. |
 | Canvas | `567bde28-effb-4c09-bad5-579aa0d6d7ec` | graphic design | Achieve + IronBlueprint | unclear | Graphic designer for Achieve and IronBlueprint (images, PDFs, slides). |
 | Blue | `cceeaf4d-4c7b-45fb-b736-9be1fdf15b88` | IronBlueprint | IronBlueprint | Chief (Max and Maya report to Blue for IronBlueprint work, 2026-10-21) | IronBlueprint PM and verifier. Read-only advisory; Suffescom devs do all IB coding. |
-| Midori | `0e8c74eb-4d9c-4850-9c37-e831fccf92a2` | bonsai caretaker | Personal | unclear | Caretaker for Ryne's rainbow dwarf jade bonsai; nightly cold alert. |
+| Midori | `905a74fc-f051-47a9-8701-7bacd3e9d039` | Bonsai Caretaker | Personal | unclear | Caretaker for Ryne's rainbow dwarf jade bonsai. On demand; the cold alert was deleted 2026-10-19. Old id `0e8c74eb-4d9c-4850-9c37-e831fccf92a2` is gone. |
 | NSCA | `30219af9-fdf8-47e6-abd9-e97a0c953950` | recertification | Personal | unclear | Tracks Ryne's NSCA CSCS recertification (cycle ends Dec 31, 2026). |
 | Doc | `4fe8ab9a-957c-48ea-8e12-5cff32e2388a` | naturopath | Personal | unclear | Personal naturopathic health advisor (education, not a physician). |
 | Hendrix | `5a0276a8-6560-4018-b4ac-b889ca11cbb3` | music expert | Personal | unclear | Music expert (blues, rock, jazz) plus Spotify account management. |
@@ -77,15 +82,15 @@ Source for every row: `A/<id>/profile.json` (name, title) plus `WS/fleet/FLEET.m
 | Forge | `2b406f18-aad6-4a09-bfd3-fe56b2b4f37e` | nutrition | Personal | unclear (tells Chief after a self-fix) | Personal nutrition coach: logs meals, estimates macros, coaches toward muscle gain, fat loss and health. Works with Doc. On demand only. Added 2026-10-21. |
 | Plaid | `e9e0ed13-6c69-4849-8c61-8046655580e6` | Tesla | Personal | unclear (tells Chief after a self-fix) | Sees the Tesla lease handoff through: return the current lease, then get the new lease accepted and delivered. Read-only Tesla email, tracker, deadline nudges; daily routine about 8:30am CT. Added 2026-10-21. |
 | Splice | `78243869-cbf6-458c-bc54-0c2f5761b198` | (none) | Achieve + IronBlueprint + Personal | unclear (returns work to the bot that sent it) | Video editor: turns raw footage into ready-to-post edits (cuts, captions, reformats, branding, audio). Never posts. On demand only. Added 2026-10-21. |
-| Maverick | `2772b984-fa9d-4c82-90e4-ea4bc1feae0b` | (none) | Achieve + IronBlueprint | advisor (no reporting line) | Business advisor combining the distilled thinking of Elon Musk, Travis Kalanick and Dan Martell (Musk/Kalanick/Martell lenses). Advice only, no sends. Formerly Boardroom. Created 2026-10-21; not in the Advisors room. Self-fix line added 2026-10-21. Added 2026-10-21. Replaces the retired Elon Musk, Travis Kalanick and Dan Martell bots. |
 | Jetson | `1f99ce18-87fe-439a-896b-b4d2c8182bd8` | travel (in name; title field empty) | Personal | unclear (hands booked dates to Penny; tells Chief after a self-fix) | Personal travel planner: flights, stays, event tickets, rental cars, itineraries. Books nothing without Ryne's yes. On demand. Added 2026-11-01. |
 | Simon | `48b8dd87-193d-4128-8463-4a6f523dc8fa` | quality assurance (in name; title field empty) | IronBlueprint | Blue ("Blue (IronBlueprint PM) is your lead", profile.json) | Black-box QA for IronBlueprint: tests the live app from outside, pass/fail to Blue, fails also to Linus. Never reads or changes code. Added 2026-11-01. |
 | Charlie | `5217cd51-c36e-4f22-83b7-3a2382a7957c` | RETIRED 2026-11-05 | Achieve | n/a | Deleted (Ryne, 2026-11-05). Was the Achieve CFO bot (QuickBooks read-only). Do not route work to it. |
 
-### Retired bots (15)
+### Retired bots (16)
 Retired by Ryne's 2026-10-17 approval (TEAM.md change log). Lingxi's lane went to Linus; AI Expert folded into Linus. Elon Musk, Travis Kalanick and Dan Martell retired by Ryne's 2026-10-21 approval; Maverick combines all three.
 | Bot | Agent ID | Status | On disk (checked 2026-10-17 10:15 PM CT) | Was |
 |---|---|---|---|---|
+| Maverick | `2772b984-fa9d-4c82-90e4-ea4bc1feae0b` | RETIRED 2026-11-10 (Ryne, Alfred chat) | empty folder deleted 2026-11-10 | Business advisor seat (Musk, Kalanick, Martell, Hormozi lenses). |
 | Lingxi | `2d09bf74-e02a-4328-9718-b6aba4987c0a` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | Hands-off engineering supervisor. Lane absorbed by Linus 2026-10-17. |
 | AI Expert | `51f262cc-37cc-422e-a3ff-b8f61d95a1c8` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | Local LLM picker for the DGX Spark. Lane folded into Linus 2026-10-17. |
 | Herald | `2978f1af-afe2-48df-ac8a-480e466dc4cb` | RETIRED 2026-10-17 | folder gone from disk (looks deleted) | X product-launch template bot (unused). |
@@ -114,7 +119,7 @@ Source: `A/<room id>/group.json` (members) and `A/<room id>/profile.json`.
 
 | Room | Room ID | Members (from group.json) | Owner bot | Status / notes |
 |---|---|---|---|---|
-| Administrative | `03ad987e-906d-42bb-98ea-65d016ffc77c` | Tally, Chief, Penny | Chief | LIVE. Shared ops channel for morning briefs (Penny 6:45am, Chief 6:50am priorities). Source: TEAM.md line 4; Tally memory 2026-09-11. |
+| Administrative | `03ad987e-906d-42bb-98ea-65d016ffc77c` | Tally, Chief, Penny | Chief | LIVE. Shared ops room. Briefs no longer post here (2026-11-04); the 6:50am priorities routine was deleted 2026-11-04. Source: TEAM.md line 4; Tally memory 2026-09-11. |
 | IronBlueprint | `8857ae2a-0e5d-4af3-be8a-5ee7f2b04e50` | Blue, Linus | Blue | LIVE. Blue's IB meeting ingest and IB web/mobile tasks post here (Blue, 2026-10-17). **CONFLICT:** FLEET.md lists a 2026-10-17 member plan of Blue, Linus, Scout, Max, Quill, Maya, but group.json has only Blue and Linus. |
 | Programming | `7c23ca84-4ef9-4dd7-8421-66e0ab6932ec` | Darwin, PRI, Red, Coach, Hawkin (former) | n/a | **RETIRED 2026-11-05:** the room is gone (Ryne). Coach leads programs 1:1 with Ryne. |
 | Promote | `447d77a8-9873-4b04-821c-87d82cc8c284` | Lark, Maya, Max, Quill | unclear (likely Maya) | LIVE. No description set. |
@@ -270,7 +275,7 @@ Note: Linus's old instructions said he hands repo work to Cursor cloud agents. A
 | [address kept out of repo] | Personal | `user-Gmail--personal` | Penny, NSCA | `W/achieve-mail`; NSCA profile.json |
 | [address kept out of repo] | Grok Bot's own inbox (receive and read; parent agent sends) | Grok Bot inbox | Chief | ListEmailInboxes 2026-10-17 |
 | [address kept out of repo] | Staff (BCC on account changes) | n/a | Penny | `W/achieve-writing-style` |
-| Achieve business text line 630.340.4114 | Public business number in signatures | Quo (Numa until cutover) | Penny | `W/achieve-mail`; Nova profile.json |
+| Achieve business text line 630.340.4114 | Public business number in signatures | Quo (Numa retired 2026-11-17) | Penny | `W/achieve-mail`; Nova profile.json |
 
 - **UNCERTAIN:** `user-Gmail` (no suffix) is also connected; which account it is was not checked.
 - Quo inbox IDs were not found in any file. Penny should record them here when known.

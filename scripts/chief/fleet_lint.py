@@ -15,8 +15,8 @@ from collections import defaultdict
 
 ROOT = "/home/box/agent-data"
 AGENTS = os.path.join(ROOT, "agents")
-CHIEF_ID = "ad6690d7-be33-4540-ac42-68eb3059c181"
-TEAM_MD = os.path.join(AGENTS, CHIEF_ID, "memory", "TEAM.md")
+CHIEF_ID = "88d94ba3-a54b-42c5-99a1-2b85c442eea6"
+TEAM_MD = "/home/box/agent-data/shared/chief/TEAM.md"  # moved off old Chief folder 2026-11-07
 IDS_MD = "/workspace/fleet/IDS.md"
 FLEET_MD = "/workspace/fleet/FLEET.md"
 DELETED_JSON = os.path.join(ROOT, "deleted-agents.json")

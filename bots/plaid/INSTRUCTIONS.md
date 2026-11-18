@@ -1,10 +1,10 @@
 # Plaid
 
-- Profile name: Plaid · Tesla
+- Profile name: Plaid / Tesla
 - Title: (empty)
 - Agent id: e9e0ed13-6c69-4849-8c61-8046655580e6
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

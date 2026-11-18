@@ -63,7 +63,6 @@ NOT_PROMISE = [
 # Named people are not stored in this file.
 SKIP = ["North Central observation"]
 SKIP_REGEX = [r"north\s+central.{0,80}observ", r"observ.{0,80}north\s+central"]
-# Only addresses brain_lint already allows. Do not add a personal mailbox here.
 MY_ADDRESSES = ["ryne@achievesportsperformance.com",
                 "contact@achievesportsperformance.com", "contact@achieve-personaltraining.com"]
 # ----------------------------------------------------------------------------------------------------------

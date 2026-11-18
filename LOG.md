@@ -2,6 +2,14 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change.
 
+## 2026-11-18
+- Fleet sync from the box: brain sync 2026-11-18 (Ryne asked 2026-11-18 12:00pm CT for the latest fleet info pushed to GitHub). First update since the 2026-11-06 wave2/wave3 export merge.
+- `bots/`: INSTRUCTIONS regenerated from profile.json ("Name / Title" names); new Chief agent id; new `bots/alfred/` and `bots/dewey/`; `bots/maverick/` removed (retired 2026-11-10); Chief, Penny and Midori ROUTINES updated (Monday memory tidy-up added; Numa dropped; Midori cold alert recorded as deleted).
+- `08-bot-fleet/fleet.md` and `IDS.md`: new Chief, Alfred, Dewey, Metric rows; Midori id; Maverick retired; governance, drafts, research, memory, avatar and capitalization rules; Numa retired.
+- `skills/`: `design-grok-bot` (avatar rules), `doc-health-source-router` and `jack-kruse` (new source notes), `morning-brief` (Quo only) refreshed. Lines about Ryne's own medical case were left out on purpose.
+- `scripts/chief/`: README, `changelog_diff.py`, `fleet_lint.py` (new Chief paths), `promise_scan.py`; new `prospect_row_lint.py`. Named people and personal addresses removed from the repo copies.
+- NOW.md, AGENTS.md, START-HERE.md and README index updated.
+
 ## 2026-11-05 (follow-up)
 - Follow-up to the full sync (Ryne answered the sync questions 2026-11-05 8:47pm CT).
 - Bot memory files (profile, logs, reference notes) synced from the box after a scrub: lines naming clients, athletes or leads, any email address or phone number that is not a public business one, and client health or family details were dropped. Em dashes swapped for hyphens. No secrets.

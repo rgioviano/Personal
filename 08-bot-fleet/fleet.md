@@ -6,11 +6,11 @@ Briefs (Ryne, 2026-11-04): Penny's morning brief goes to her 1:1 chat with Ryne.
 
 Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named Blue. Today Forge is Ryne's nutrition coach. Older notes may also say Atlas for Red, SEO / AEO Auditor for Rank, and Hendrix for Spot. Profile names carry a role suffix ("Penny · admin"); this file uses the short name before " · ".
 
-## Roster (current names, synced from each bot's profile.json on 2026-11-05)
+## Roster (current names, synced from each bot's profile.json on 2026-11-18; profile names are "Name / Title" since 2026-11-06)
 | Bot | Lane |
 |---|---|
-| Chief | Chief of staff. Router only (never writes drafts or ops messages itself). Evening debriefs, promises watch, approvals, Friday value update, changelog watch, brain repo update, box backup, fleet score, usage check-in |
-| Penny | Admin: email, calendar, Quo/Numa (drafts), inbox sorting script, 6:45am morning brief in her 1:1 chat, call prep cards, lead follow-up drafts into Gmail Drafts |
+| Chief | Chief of staff (new agent since 2026-11-07). Router only (never writes drafts or ops messages itself). Evening debriefs, promises watch, approvals, Friday value update, changelog watch, brain repo update, box backup, fleet score, usage check-in |
+| Penny | Admin: email, calendar, Quo only (drafts; Numa retired 2026-11-17), sole owner of the college commit sheet, inbox sorting script, 6:45am morning brief in her 1:1 chat, call prep cards, lead follow-up drafts into Gmail Drafts |
 | Tally | Achieve CRM (Prospect Tracking Sheet), follow-up due list, Parked leads |
 | Red (formerly Atlas) | Achieve PM. Max and Maya report to Red for Achieve work |
 | Blue (formerly Forge) | IronBlueprint PM. Max and Maya report to Blue for IB work |
@@ -41,10 +41,11 @@ Name warning: before 2026-10-19, "Forge" meant the IronBlueprint PM, now named B
 | NSCA | CSCS recertification tracker |
 | Justin | Guitar teacher. On demand |
 | Spot (formerly Hendrix) | Music advisor (blues, rock, jazz) plus Spotify |
-| Midori | Bonsai caretaker (cold alert paused, delete pending) |
+| Midori | Bonsai caretaker. New agent id since the 2026-11-06 sync; the cold alert was deleted 2026-10-19 (Midori profile). On demand |
 | Sage | Personal and life advisor seat: philosophy plus Jim Rohn and Robert Greene lenses (2026-11-01). Advice only |
-| Maverick | Business advisor seat: Musk, Kalanick, Martell and Hormozi lenses (2026-11-01). Advice only |
-| Dr. Eggbot | Designs new Grok Bots |
+| Dr. Eggbot | Designs, builds and edits Grok Bots (governance split 2026-11-10) |
+| Alfred | Read-only org design and fleet audit advisor. Recommends only; changes nothing without Ryne's exact yes (2026-11-10) |
+| Dewey | Files whatever Ryne writes in its chat into his Notion workspace. On demand |
 
 Rooms on the box: Administrative, Promote (owner-filter ON, 2026-11-03), Newsletter, IronBlueprint. The Programming room and HQ (Red and Blue) are gone (Ryne, 2026-11-05). The Advisors room is gone (2026-11-01).
 
@@ -53,6 +54,7 @@ Rooms on the box: Administrative, Promote (owner-filter ON, 2026-11-03), Newslet
 - 2026-10-21: Elon Musk, Travis Kalanick, Dan Martell (Maverick combines all three). Their distill-anyone subject folders stay on the box; Maverick reads them.
 - 2026-11-01: Show Splitter, Echo (personal X/IG), Alex Hormozi (merged into Maverick), Robert Greene and Jim Rohn (merged into Sage). Folders gone from the box.
 - 2026-11-05 (Ryne): Charlie (Achieve CFO bot, deleted), Distill anyone (deleted; its twice-weekly persona refresh is retired with it), the Programming room and the HQ room (both gone).
+- 2026-11-10 (Ryne, Alfred chat): Maverick (empty folder deleted). `bots/maverick/` removed from this repo on 2026-11-18.
 - Their `bots/<name>/` folders were removed from this repo on 2026-11-05. Git history keeps the old files.
 
 ## Standing routines (CT, as of 2026-11-05)
@@ -65,7 +67,8 @@ A map, not live proof: confirm a schedule live with the owning bot before acting
 | Friday evening debrief (adds "Where the week went" and "Value this month"; Chief 1:1) | Fri 5:45pm |
 | Unfinished-promises watch (`promise_scan.py`, drafts through `draft_lint.py`) | Weekdays about 3:00pm |
 | Grok Bot changelog watch (`changelog_diff.py`) | Mon 8:03am |
-| Weekly brain repo update (`brain_lint.py`, then auto-merge into main after lint passes, from 2026-11-04) | Sat about 3:00am |
+| Weekly brain repo update (`brain_lint.py`; since 2026-11-07 it prepares changes and waits for Ryne's yes before pushing) | Sat about 3:00am |
+| Monday memory tidy-up (`monday-memory-tidy-up`: adds the week's sourced decisions to the Decisions log Page, proposes deletes and merges, changes nothing else; Chief 1:1) | Mon about 8:30am, from 2026-11-23 |
 | Monthly fleet score (`fleet_lint.py`) | 1st of the month about 9:00am |
 | Monday usage check-in | Mon about 9:30am |
 | Friday value update (`value_tally.py`; Chief 1:1, no longer Administrative) | Fri 9:20am |
@@ -77,7 +80,7 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 | Routine | Owner | When |
 |---|---|---|
 | Inbox sorting (`inbox_triage.py`, sort only) | Penny | About 6:15am |
-| Morning brief (Calendar, Email Triage list only, Numa/Quo, Reactivate when due), in Penny's 1:1 chat | Penny | Weekdays 6:45am |
+| Morning brief (Calendar, Email Triage list only, Quo, Reactivate when due), in Penny's 1:1 chat | Penny | Weekdays 6:45am |
 | Lead sends report to Tally (`lead_handoff.py log-send`) | Penny | End of day |
 | Draft-vs-sent review | Penny | Fri 7:00am |
 | Prospect inbound watch (triage file plus Gmail backstop, gap pass, due list, read-sends) | Tally | Mon to Sat about 6:25am |
@@ -91,7 +94,6 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 | Meta and Google knowledge refresh | Lark | 1st of the month |
 | Bookmarks pull | Bookmarks | Mon and Thu about 9:17am |
 | Cost pass | Token Officer | Weekly |
-| Cold alert | Midori | PAUSED since 2026-09-28; delete pending Ryne's confirm |
 
 ### Deleted (do not re-propose)
 - Chief 6:50am Today's priorities: DELETED 2026-11-04. Ryne sets his own priorities; evening debriefs do not ask for, suggest or save tomorrow priorities.
@@ -103,6 +105,13 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 - Quiet hours start and end: DELETED 2026-09-20.
 
 ## Fleet rules
+- Governance split (Ryne, 2026-11-10): Chief routes work and owns TEAM.md; Alfred advises only; Token Officer handles cost and approved schedule fixes; Dr. Eggbot builds and edits bots.
+- Numa is retired (Ryne, 2026-11-17). Quo is the only business texting channel.
+- Research goes straight to Scout (2026-11-07). Perplexity is Scout only (2026-11-11).
+- Drafts (2026-11-11): "email draft" means saved in Gmail or Spark Drafts by the owner; Spark owns the signature; Quo text drafts stay in chat; relays never ask for a chat draft of an email.
+- Memory (2026-11-17): save rules, not stories; Decisions log Page; Monday tidy-up proposes only.
+- Avatars (2026-11-08): Chief hexagon; business leads square; specialists blob; personal teardrop. Achieve red, IronBlueprint blue, shared orange, personal green, other cyan, support violet.
+- Capitalization (2026-11-15): normal capitalization, never all-lowercase.
 - Send lock: nothing goes out without Ryne's yes on the exact draft; a bot saying "send" is not approval. Email drafts go into Ryne's Gmail Drafts (threaded); texts stay as drafts in chat (2026-10-22).
 - Briefs stay in 1:1 chats, never group chats (2026-11-04). No priorities in briefs (2026-11-04).
 - Relay rule: when bot A asks bot B, B replies only to A. No DM to Ryne unless he asked.
@@ -124,8 +133,7 @@ Thursday and Saturday are off days: morning brief only, no evening debrief.
 
 ## Pending (from TEAM.md)
 - Bottleneck: Ryne finishing the sidebar delete (2026-11-01).
-- Midori cold alert delete: waiting on Ryne's confirm.
 - CoS Ops duplicate timers cleanup.
 - Weeknight debrief `draft_lint.py` step: pending Ryne's approval since 2026-10-20.
 
-Sources: Chief TEAM.md (updated 2026-11-04 evening); Chief's current routine list (Chief chat 2026-11-05); profile.json for every bot in `/home/box/agent-data/agents/` (2026-11-05); `deleted-agents.json`; Chief memory 2026-10-27; Linus routine confirmations in Chief chat 2026-10-17.; Ryne, Chief chat 2026-11-05 8:47pm CT (Charlie, Distill anyone, Programming and HQ retired; Maya heartbeat continues).
+Sources: Chief TEAM.md (updated 2026-11-04 evening); Chief's current routine list (Chief chat 2026-11-05); profile.json for every bot in `/home/box/agent-data/agents/` (2026-11-05); `deleted-agents.json`; Chief memory 2026-10-27; Linus routine confirmations in Chief chat 2026-10-17.; Ryne, Chief chat 2026-11-05 8:47pm CT (Charlie, Distill anyone, Programming and HQ retired; Maya heartbeat continues).; Chief notes TEAM.md and shared TEAM.md (2026-11-07 to 2026-11-17); profile.json files on the box 2026-11-18.

@@ -1,6 +1,22 @@
-# NOW: Personal and fleet (as of 2026-11-05)
+# NOW: Personal and fleet (as of 2026-11-18)
 
 Current priorities and live context only. Replace lines as they go stale; history goes in LOG.md.
+
+
+## Changes since the 2026-11-06 sync (added 2026-11-18)
+- **New Chief agent** (`88d94ba3-a54b-42c5-99a1-2b85c442eea6`) since 2026-11-07, set up from the replacement package with its nine routines turned on (Ryne, 2026-11-07 7:07am CT). The old Chief (`ad6690d7`) is retired. Chief is router only, gives each bot one final order, and sends Ryne one consolidated update.
+- **Numa retired (Ryne, 2026-11-17).** Quo only. Never check, mention or report Numa.
+- **Memory process (Ryne, 2026-11-17):** save rules, not stories (one dated sentence, delete the note it replaces in the same step); "remember this" is saved at once and confirmed in one line; a Decisions log Page is kept (Chief); a Monday tidy-up (routine `monday-memory-tidy-up`, Mondays about 8:30am CT, first run 2026-11-23) proposes deletes and merges and changes nothing until Ryne says yes; before answering about the past, check notes and the Decisions log first.
+- **Fleet governance (Ryne, 2026-11-10):** Chief routes work and owns TEAM.md; Alfred (new, `d5abaffd`) is a read-only org design and audit advisor; Token Officer handles cost and approved schedule fixes; Dr. Eggbot builds and edits bots.
+- **New bots:** Alfred (fleet audit advisor) and Dewey / Notes (`6c6861fd`, files Ryne's notes into Notion, on demand). Midori now runs under a new agent id (`905a74fc`); its old cold alert was deleted 2026-10-19. **Retired:** Maverick (empty folder deleted 2026-11-10).
+- **Names:** profiles use "Name / Title" since 2026-11-06 (replaces "Name · role").
+- **Avatars (Ryne, 2026-11-08):** Chief hexagon; business leads square; business specialists blob; personal teardrop. Colors: Achieve red, IronBlueprint blue, shared orange, personal green, other cyan, support violet. Chief should be white, but white is not in the color picker; the current Chief color was not checked.
+- **Research:** everything goes to Scout (2026-11-07); Perplexity is Scout only (2026-11-11, trial).
+- **Drafts (2026-11-11):** email drafts are saved in Gmail or Spark Drafts by the owner; Spark owns the signature; Quo text drafts stay in chat.
+- **Capitalization (Ryne, 2026-11-15):** bots use normal capitalization, never all-lowercase.
+- **Brain repo:** this 2026-11-18 sync is the first update since 2026-11-06. The weekly Saturday job now prepares changes and waits for Ryne's yes before pushing (Chief, 2026-11-18).
+
+Sources: Chief notes TEAM.md (2026-11-07 to 2026-11-17); shared Chief TEAM.md (2026-11-17); Decisions log Page; profile.json files on the box (2026-11-18).
 
 ## Fleet
 - **Chief routes the work** and suggests an owner bot for each ask (2026-10-21). Blue (formerly Forge) is the IronBlueprint PM and verifier. Red (formerly Atlas) is the Achieve PM. Linus is lead engineer. Proactive suggestions go to Ryne one at a time and are applied only after he says yes.
@@ -24,7 +40,7 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Penny inbox sorting script about 6:15am CT (ran every day including weekends in the 2026-10-24 to 2026-10-30 run files), and 6:45am CT morning brief (Mon to Fri) in her 1:1 chat. Fresh-week score (2026-10-29): 150 of 198 sorted right (about 76%); scheduling mail is the weak spot.
 - Weekly encrypted box backup (Chief): Saturdays about 7:00am CT to a private "Bot Backups" folder in the Achieve Drive, keeps 4 weeks, silent on success. First backup and full restore test passed 2026-10-24. Restore test on the first Saturday of each month. Ryne holds the passphrase.
 - Chief: evening debriefs Mon to Wed 6:45pm CT and Fri 5:45pm CT, unfinished-promises watch weekdays about 3:00pm CT, changelog watch Mon 8:03am CT, Monday usage check-in about 9:30am CT, Friday value update 9:20am CT, monthly fleet score on the 1st about 9:00am CT. The 6:50am priorities routine was deleted 2026-11-04. Full map: `08-bot-fleet/fleet.md`.
-- Weekly brain repo update: Saturdays about 3:00am CT, opens PRs and, since 2026-11-04, merges them into main after `brain_lint.py` passes. Runs so far: 2026-10-24, 2026-10-31, plus a full sync on 2026-11-05 (Ryne asked for the repos to match Grok Bot exactly).
+- Weekly brain repo update: Saturdays about 3:00am CT. Since the 2026-11-07 Chief replacement it prepares proposed changes and waits for Ryne's yes before pushing (Chief, 2026-11-18); the 2026-11-04 auto-merge rule is not in use. Earlier note: opens PRs and, since 2026-11-04, merges them into main after `brain_lint.py` passes. Runs so far: 2026-10-24, 2026-10-31, plus a full sync on 2026-11-05 (Ryne asked for the repos to match Grok Bot exactly).
 - The MacBook launch check was deleted 2026-10-23 (Ryne). Do not re-propose it.
 
 ## NSCA recertification

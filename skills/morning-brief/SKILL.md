@@ -16,7 +16,7 @@ Owned by **Penny · admin**. Deliver to Ryne in Penny's **1:1 Grok Bot DM only**
 One concise message to Ryne in Penny 1:1. Sections when they have content, in order:
 1. **Calendar**
 2. **Email Triage** (short list; full drafts only when Ryne asks)
-3. **Numa / Quo** (draft SMS; never send unasked)
+3. **Quo** (draft SMS; never send unasked)
 4. **Reactivate** when due/overdue (skip if empty)
 5. **Speed-to-book / lead follow-ups** (skip if empty)
 
@@ -44,9 +44,9 @@ Cover work, contact@, personal, IronBlueprint. Short list: name + one-line why. 
 
 **Lead forms (Ryne 2026-10-19 / file handoff 2026-11-01):** subjects starting with `Lead Form -` are always VERY important: mark Important (no star), then archive (Tally searches archived mail and reads the triage `lead_form` bucket). CRM owns Lead Form sheet rows. Do not message Tally about new leads; the 6:15 triage output is the handoff. **Always archive as noise:** WordPress "update plugins failed"; password-reset request emails. Skip SCDD. Never revive SCDD. Never recreate the Tesla lease draft.
 
-## Numa / Quo
+## Quo
 
-Quo is primary for Achieve phone. Surface urgent SMS / missed calls / voicemails; draft-first, never send unasked. Any reply draft goes through [Pre-draft check](sand-workflow:pre-draft-check) first. Numa remains read-and-draft until cutover; if signed out, say so and stop. Never send or type into composers. Skip Instant Form / SCDD first-touch (CRM).
+Quo is the only Achieve business messaging channel (Ryne 2026-11-17: Numa is retired; never check, reference, or report Numa, and never flag it as signed out or a blocker). Surface urgent SMS / missed calls / voicemails; draft-first, never send unasked. Any reply draft goes through [Pre-draft check](sand-workflow:pre-draft-check) first. Never send or type into composers. Skip Instant Form / SCDD first-touch (CRM).
 
 ## Reactivate (email-only)
 
